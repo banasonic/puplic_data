@@ -1,11 +1,11 @@
 [
     {
-        "time_status": "إنتهت",
+        "time_status": "07:00 م",
         "url": "",
         "arabic_channels": [
             {
                 "name": "ZOOM 1",
-                "commentator": "حسن العيدروس",
+                "commentator": "حفيظ دراجي",
                 "logo": ""
             },
             {
@@ -33,40 +33,19 @@
         ]
     },
     {
-        "time_status": "إنتهت",
+        "time_status": "07:15 م",
         "url": "",
-        "arabic_channels": [
-            {
-                "name": "ZOOM 2",
-                "commentator": "أحمد عبده",
-                "logo": ""
-            },
-            {
-                "name": "ZOOM English 2",
-                "commentator": "",
-                "logo": ""
-            },
-            {
-                "name": "ZOOM CONNECT",
-                "commentator": "",
-                "logo": ""
-            },
-            {
-                "name": "TOD",
-                "commentator": "",
-                "logo": ""
-            }
-        ],
+        "arabic_channels": [],
         "amos_channels": [
             {
-                "name": "SPORT 3",
+                "name": "SPORT 2",
                 "info": "Amos 4°W - 11259 V 30000",
                 "logo": ""
             }
         ]
     },
     {
-        "time_status": "10:00 م",
+        "time_status": "مباشر",
         "url": "",
         "arabic_channels": [
             {
@@ -94,7 +73,63 @@
         ]
     },
     {
+        "time_status": "12:30 ص",
+        "url": "",
+        "arabic_channels": [
+            {
+                "name": "ZOOM 1",
+                "commentator": "منتصر الأزهري",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM CONNECT",
+                "commentator": "",
+                "logo": ""
+            },
+            {
+                "name": "TOD",
+                "commentator": "",
+                "logo": ""
+            }
+        ],
+        "amos_channels": [
+            {
+                "name": "SPORT 4",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            }
+        ]
+    },
+    {
         "time_status": "10:00 م",
+        "url": "",
+        "arabic_channels": [
+            {
+                "name": "ZOOM 2",
+                "commentator": "أحمد فؤاد",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM CONNECT",
+                "commentator": "",
+                "logo": ""
+            },
+            {
+                "name": "TOD",
+                "commentator": "",
+                "logo": ""
+            }
+        ],
+        "amos_channels": [
+            {
+                "name": "SPORT 2",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "time_status": "مباشر",
         "url": "",
         "arabic_channels": [
             {
@@ -122,11 +157,72 @@
         ]
     },
     {
-        "time_status": "10:00 م",
+        "time_status": "مباشر",
         "url": "",
         "arabic_channels": [
             {
                 "name": "ZOOM Xtra 1",
+                "commentator": "",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM CONNECT",
+                "commentator": "",
+                "logo": ""
+            },
+            {
+                "name": "TOD",
+                "commentator": "",
+                "logo": ""
+            }
+        ],
+        "amos_channels": [
+            {
+                "name": "SPORT 3",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "time_status": "12:30 ص",
+        "url": "",
+        "arabic_channels": [
+            {
+                "name": "ZOOM 2",
+                "commentator": "أحمد سوكو",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM CONNECT",
+                "commentator": "",
+                "logo": ""
+            },
+            {
+                "name": "TOD",
+                "commentator": "",
+                "logo": ""
+            }
+        ],
+        "amos_channels": [
+            {
+                "name": "SPORT 1",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            }
+        ]
+    },
+    {
+        "time_status": "10:00 م",
+        "url": "",
+        "arabic_channels": [
+            {
+                "name": "ZOOM 4",
+                "commentator": "محمد السعدي",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM English 2",
                 "commentator": "",
                 "logo": ""
             },
