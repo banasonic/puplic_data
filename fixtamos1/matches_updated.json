@@ -440,11 +440,16 @@
         "arabic_channels": [
             {
                 "name": "ZOOM 1",
+                "commentator": "عامر الخوذيري",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM English 2",
                 "commentator": "",
                 "logo": ""
             },
             {
-                "name": "ZOOM English 1",
+                "name": "ZOOM French 2",
                 "commentator": "",
                 "logo": ""
             },
@@ -459,7 +464,13 @@
                 "logo": ""
             }
         ],
-        "amos_channels": []
+        "amos_channels": [
+            {
+                "name": "PLUS 5",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            }
+        ]
     },
     {
         "time_status": "07:00 م",
@@ -467,7 +478,7 @@
         "arabic_channels": [
             {
                 "name": "ZOOM 4",
-                "commentator": "",
+                "commentator": "محمد بركات",
                 "logo": ""
             },
             {
@@ -488,8 +499,8 @@
         "url": "",
         "arabic_channels": [
             {
-                "name": "ZOOM",
-                "commentator": "",
+                "name": "ZOOM 3",
+                "commentator": "نوفل باشي",
                 "logo": ""
             },
             {
@@ -511,73 +522,7 @@
         "arabic_channels": [
             {
                 "name": "ZOOM 8",
-                "commentator": "",
-                "logo": ""
-            },
-            {
-                "name": "ZOOM CONNECT",
-                "commentator": "",
-                "logo": ""
-            },
-            {
-                "name": "TOD",
-                "commentator": "",
-                "logo": ""
-            }
-        ],
-        "amos_channels": []
-    },
-    {
-        "time_status": "07:00 م",
-        "url": "",
-        "arabic_channels": [
-            {
-                "name": "ZOOM 6",
-                "commentator": "",
-                "logo": ""
-            },
-            {
-                "name": "ZOOM CONNECT",
-                "commentator": "",
-                "logo": ""
-            },
-            {
-                "name": "TOD",
-                "commentator": "",
-                "logo": ""
-            }
-        ],
-        "amos_channels": []
-    },
-    {
-        "time_status": "07:00 م",
-        "url": "",
-        "arabic_channels": [
-            {
-                "name": "ZOOM Xtra 1",
-                "commentator": "",
-                "logo": ""
-            },
-            {
-                "name": "ZOOM CONNECT",
-                "commentator": "",
-                "logo": ""
-            },
-            {
-                "name": "TOD",
-                "commentator": "",
-                "logo": ""
-            }
-        ],
-        "amos_channels": []
-    },
-    {
-        "time_status": "07:00 م",
-        "url": "",
-        "arabic_channels": [
-            {
-                "name": "ZOOM Xtra 3",
-                "commentator": "",
+                "commentator": "جواد بده",
                 "logo": ""
             },
             {
@@ -599,7 +544,73 @@
         "arabic_channels": [
             {
                 "name": "ZOOM 7",
+                "commentator": "حسن العيدروس",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM CONNECT",
                 "commentator": "",
+                "logo": ""
+            },
+            {
+                "name": "TOD",
+                "commentator": "",
+                "logo": ""
+            }
+        ],
+        "amos_channels": []
+    },
+    {
+        "time_status": "07:00 م",
+        "url": "",
+        "arabic_channels": [
+            {
+                "name": "ZOOM Xtra 1",
+                "commentator": "محمد مبروكي",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM CONNECT",
+                "commentator": "",
+                "logo": ""
+            },
+            {
+                "name": "TOD",
+                "commentator": "",
+                "logo": ""
+            }
+        ],
+        "amos_channels": []
+    },
+    {
+        "time_status": "07:00 م",
+        "url": "",
+        "arabic_channels": [
+            {
+                "name": "ZOOM Xtra 3",
+                "commentator": "أحمد سوكو",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM CONNECT",
+                "commentator": "",
+                "logo": ""
+            },
+            {
+                "name": "TOD",
+                "commentator": "",
+                "logo": ""
+            }
+        ],
+        "amos_channels": []
+    },
+    {
+        "time_status": "07:00 م",
+        "url": "",
+        "arabic_channels": [
+            {
+                "name": "ZOOM 6",
+                "commentator": "أحمد البلوشي",
                 "logo": ""
             },
             {
@@ -621,7 +632,7 @@
         "arabic_channels": [
             {
                 "name": "ZOOM Xtra 2",
-                "commentator": "",
+                "commentator": "محمد السعدي",
                 "logo": ""
             },
             {
