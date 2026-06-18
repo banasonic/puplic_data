@@ -1,6 +1,6 @@
 [
     {
-        "time_status": "مباشر",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "time_status": "02:00 ص",
+        "time_status": "مباشر",
         "url": "",
         "arabic_channels": [
             {
@@ -100,7 +100,18 @@
                 "logo": ""
             }
         ],
-        "amos_channels": []
+        "amos_channels": [
+            {
+                "name": "SPORT 1",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            },
+            {
+                "name": "KAN 11",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            }
+        ]
     },
     {
         "time_status": "07:00 م",
@@ -127,7 +138,18 @@
                 "logo": ""
             }
         ],
-        "amos_channels": []
+        "amos_channels": [
+            {
+                "name": "SPORT 1",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            },
+            {
+                "name": "KAN 11",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            }
+        ]
     },
     {
         "time_status": "10:00 م",
@@ -154,6 +176,17 @@
                 "logo": ""
             }
         ],
-        "amos_channels": []
+        "amos_channels": [
+            {
+                "name": "SPORT 1",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            },
+            {
+                "name": "KAN 11",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            }
+        ]
     }
 ]
