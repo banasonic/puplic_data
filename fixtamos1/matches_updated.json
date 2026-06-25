@@ -1,6 +1,6 @@
 [
     {
-        "time_status": "مباشر",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "time_status": "مباشر",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -71,7 +71,7 @@
         ]
     },
     {
-        "time_status": "01:00 ص",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "time_status": "01:00 ص",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -137,7 +137,7 @@
         "arabic_channels": [
             {
                 "name": "ZOOM MAX 1",
-                "commentator": "",
+                "commentator": "حسن العيدروس",
                 "logo": ""
             },
             {
@@ -175,7 +175,7 @@
         "arabic_channels": [
             {
                 "name": "ZOOM MAX 2",
-                "commentator": "",
+                "commentator": "محمد بركات",
                 "logo": ""
             },
             {
@@ -203,12 +203,7 @@
         "arabic_channels": [
             {
                 "name": "ZOOM MAX 3",
-                "commentator": "",
-                "logo": ""
-            },
-            {
-                "name": "ZOOM MAX 5",
-                "commentator": "",
+                "commentator": "عصام الشوالي",
                 "logo": ""
             },
             {
@@ -235,13 +230,8 @@
         "url": "",
         "arabic_channels": [
             {
-                "name": "ZOOM MAX 2",
-                "commentator": "",
-                "logo": ""
-            },
-            {
                 "name": "ZOOM MAX 4",
-                "commentator": "",
+                "commentator": "عبد الله الغامدي",
                 "logo": ""
             },
             {
@@ -255,6 +245,12 @@
                 "logo": ""
             }
         ],
-        "amos_channels": []
+        "amos_channels": [
+            {
+                "name": "SPORT 2",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            }
+        ]
     }
 ]
