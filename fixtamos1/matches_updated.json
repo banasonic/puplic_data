@@ -1,6 +1,6 @@
 [
     {
-        "time_status": "12:00 ص",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "time_status": "12:00 ص",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -184,7 +184,13 @@
                 "logo": ""
             }
         ],
-        "amos_channels": []
+        "amos_channels": [
+            {
+                "name": "SPORT 2",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            }
+        ]
     },
     {
         "time_status": "11:30 م",
@@ -192,7 +198,7 @@
         "arabic_channels": [
             {
                 "name": "ZOOM MAX 3",
-                "commentator": "",
+                "commentator": "علي سعيد الكعبي",
                 "logo": ""
             },
             {
@@ -211,7 +217,18 @@
                 "logo": ""
             }
         ],
-        "amos_channels": []
+        "amos_channels": [
+            {
+                "name": "SPORT 1",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            },
+            {
+                "name": "KAN 11",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            }
+        ]
     },
     {
         "time_status": "11:30 م",
@@ -219,7 +236,7 @@
         "arabic_channels": [
             {
                 "name": "ZOOM MAX 4",
-                "commentator": "",
+                "commentator": "محمد بركات",
                 "logo": ""
             },
             {
