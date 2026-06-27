@@ -66,7 +66,7 @@
         ]
     },
     {
-        "time_status": "03:00 ص",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -94,7 +94,7 @@
         ]
     },
     {
-        "time_status": "03:00 ص",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -250,6 +250,12 @@
                 "logo": ""
             }
         ],
-        "amos_channels": []
+        "amos_channels": [
+            {
+                "name": "SPORT 2",
+                "info": "Amos 4°W - 11259 V 30000",
+                "logo": ""
+            }
+        ]
     }
 ]
