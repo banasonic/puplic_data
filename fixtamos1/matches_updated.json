@@ -1,6 +1,6 @@
 [
     {
-        "time_status": "مباشر",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -38,36 +38,48 @@
         ]
     },
     {
-        "time_status": "إنتهت",
+        "time_status": "07:00 م",
         "url": "",
-        "arabic_channels": [],
-        "amos_channels": [
+        "arabic_channels": [
             {
-                "name": "SPORT 4",
-                "info": "Amos 4°W - 11259 V 30000",
+                "name": "ZOOM MAX 1",
+                "commentator": "عصام الشوالي",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM MAX 2",
+                "commentator": "علي سعيد الكعبي",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM MAX 3",
+                "commentator": "حفيظ دراجي",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM MAX 4",
+                "commentator": "حسن العيدروس",
+                "logo": ""
+            },
+            {
+                "name": "ZOOM CONNECT",
+                "commentator": "",
+                "logo": ""
+            },
+            {
+                "name": "TOD",
+                "commentator": "",
                 "logo": ""
             }
-        ]
-    },
-    {
-        "time_status": "إنتهت",
-        "url": "",
-        "arabic_channels": [],
+        ],
         "amos_channels": [
             {
-                "name": "SPORT 4",
+                "name": "SPORT 1",
                 "info": "Amos 4°W - 11259 V 30000",
                 "logo": ""
-            }
-        ]
-    },
-    {
-        "time_status": "إنتهت",
-        "url": "",
-        "arabic_channels": [],
-        "amos_channels": [
+            },
             {
-                "name": "SPORT 3",
+                "name": "KAN 11",
                 "info": "Amos 4°W - 11259 V 30000",
                 "logo": ""
             }
