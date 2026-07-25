@@ -1,6 +1,6 @@
 [
     {
-        "time_status": "مباشر",
+        "time_status": "",
         "url": "",
         "arabic_channels": [],
         "amos_channels": [
@@ -12,11 +12,11 @@
         ]
     },
     {
-        "time_status": "01:00 م",
+        "time_status": "إنتهت",
         "url": "",
         "arabic_channels": [
             {
-                "name": "ON Sport Plus",
+                "name": "ON Sport 1",
                 "commentator": "هشام معمر",
                 "logo": ""
             }
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "time_status": "01:30 م",
+        "time_status": "مباشر",
         "url": "",
         "arabic_channels": [],
         "amos_channels": [
@@ -42,12 +42,12 @@
         ]
     },
     {
-        "time_status": "02:00 م",
+        "time_status": "مباشر",
         "url": "",
         "arabic_channels": [
             {
-                "name": "Abu Dhabi Sports 1",
-                "commentator": "",
+                "name": "Abu Dhabi Sports 2",
+                "commentator": "فارس عوض",
                 "logo": ""
             },
             {
@@ -70,11 +70,11 @@
         "arabic_channels": [
             {
                 "name": "Abu Dhabi Sports 1",
-                "commentator": "",
+                "commentator": "حازم عبد السلام",
                 "logo": ""
             },
             {
-                "name": "ON Sport Plus",
+                "name": "ON Sport 1",
                 "commentator": "أيمن الكاشف",
                 "logo": ""
             }
@@ -105,7 +105,7 @@
         "arabic_channels": [
             {
                 "name": "Sharjah Sports",
-                "commentator": "",
+                "commentator": "سالم السالمي",
                 "logo": ""
             }
         ],
@@ -138,7 +138,13 @@
     {
         "time_status": "10:15 م",
         "url": "",
-        "arabic_channels": [],
+        "arabic_channels": [
+            {
+                "name": "Dubai Sports 1",
+                "commentator": "",
+                "logo": ""
+            }
+        ],
         "amos_channels": [
             {
                 "name": "SPORT 1",
