@@ -36,7 +36,7 @@
         ]
     },
     {
-        "time_status": "إنتهت",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -59,7 +59,7 @@
         ]
     },
     {
-        "time_status": "12:00 م",
+        "time_status": "",
         "url": "",
         "arabic_channels": [],
         "amos_channels": [
@@ -71,9 +71,15 @@
         ]
     },
     {
-        "time_status": "02:30 م",
+        "time_status": "مباشر",
         "url": "",
-        "arabic_channels": [],
+        "arabic_channels": [
+            {
+                "name": "Sharjah Sports",
+                "commentator": "موسى عيد",
+                "logo": ""
+            }
+        ],
         "amos_channels": [
             {
                 "name": "SPORT 4",
