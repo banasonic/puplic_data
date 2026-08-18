@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-08-18 08:58:38",
+  "fetched_at_egypt": "2026-08-18 09:47:31",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -790,7 +790,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Sport1tv",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qYkxLpVtgwMS54pSZ-Agu.png"
+        }
+      ],
       "venue": {
         "name": "Stadionul Ion Oblemenco"
       }
@@ -1023,7 +1028,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "RTS Sport",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/TmyoQgst7bPrX-dfQYH0y.png"
+        }
+      ],
       "venue": {
         "name": "Right To Dream Park"
       }
@@ -1256,7 +1266,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "RTS 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/MwNd9WE39F5lCU0ge6Vd3JyVKFyXJfDlNEKp7vSY.png"
+        }
+      ],
       "venue": {
         "name": "Stade Tourbillon"
       }
@@ -1551,7 +1566,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Arena 2 Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/JRdtH7rnGc6WYGEh0PuR97Mg3gBXVZPfjehYllZ5.png"
+        }
+      ],
       "venue": {
         "name": "كوليسيوم"
       }
