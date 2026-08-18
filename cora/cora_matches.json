@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-08-18 18:42:39",
+  "fetched_at_egypt": "2026-08-18 19:31:43",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -170,7 +170,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-18 18:15:00",
-      "last_updated_at": "2026-08-18 18:17:12",
+      "last_updated_at": "2026-08-18 19:24:02",
       "competition": "كأس خادم الحرمين الشريفين",
       "round": null,
       "team_a": {
@@ -184,7 +184,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7uAvqwEaOvBj1Esi0HzuD.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "tv_audio": [
@@ -199,7 +199,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-18 18:15:00",
-      "last_updated_at": "2026-08-18 18:17:43",
+      "last_updated_at": "2026-08-18 19:24:02",
       "competition": "كأس خادم الحرمين الشريفين",
       "round": null,
       "team_a": {
@@ -213,7 +213,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uA2inOzfvm_Plu1FmsC1o.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "tv_audio": [
@@ -228,7 +228,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-18 18:15:00",
-      "last_updated_at": "2026-08-18 18:33:14",
+      "last_updated_at": "2026-08-18 19:26:33",
       "competition": "كأس خادم الحرمين الشريفين",
       "round": null,
       "team_a": {
@@ -243,7 +243,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 1
+        "team_b": 3
       },
       "tv_audio": [
         {
@@ -1475,7 +1475,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Rangers TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/GTYyGZqQqwvZQorNAMs0q.jpg"
+        }
+      ],
       "venue": {
         "name": "إيبروكس"
       }
