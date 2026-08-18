@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-08-18 19:57:44",
+  "fetched_at_egypt": "2026-08-18 20:50:06",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -108,7 +108,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-18 21:00:00",
-      "last_updated_at": "2026-08-18 19:54:12",
+      "last_updated_at": "2026-08-18 20:25:06",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -139,7 +139,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-18 21:00:00",
-      "last_updated_at": "2026-08-18 19:48:07",
+      "last_updated_at": "2026-08-18 19:58:01",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -168,9 +168,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-18 18:15:00",
-      "last_updated_at": "2026-08-18 19:56:57",
+      "last_updated_at": "2026-08-18 20:13:17",
       "competition": "كأس خادم الحرمين الشريفين",
       "round": null,
       "team_a": {
@@ -187,19 +187,14 @@
         "team_a": 2,
         "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-18 18:15:00",
-      "last_updated_at": "2026-08-18 19:24:02",
+      "last_updated_at": "2026-08-18 20:13:17",
       "competition": "كأس خادم الحرمين الشريفين",
       "round": null,
       "team_a": {
@@ -216,19 +211,14 @@
         "team_a": 1,
         "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-18 18:15:00",
-      "last_updated_at": "2026-08-18 19:36:55",
+      "last_updated_at": "2026-08-18 20:08:54",
       "competition": "كأس خادم الحرمين الشريفين",
       "round": null,
       "team_a": {
@@ -245,19 +235,14 @@
         "team_a": 0,
         "team_b": 3
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-18 20:00:00",
-      "last_updated_at": "2026-08-01 12:43:37",
+      "last_updated_at": "2026-08-18 20:38:36",
       "competition": "كأس خادم الحرمين الشريفين",
       "round": null,
       "team_a": {
@@ -271,8 +256,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xkFt_WVJYpUJPpA1XtvNo.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 3
       },
       "tv_audio": [
         {
@@ -284,9 +269,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-18 20:00:00",
-      "last_updated_at": "2026-08-01 12:43:37",
+      "last_updated_at": "2026-08-18 20:36:57",
       "competition": "كأس خادم الحرمين الشريفين",
       "round": null,
       "team_a": {
@@ -300,8 +285,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RRi5uNGllWZwmuMqx_RoD.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [
         {
