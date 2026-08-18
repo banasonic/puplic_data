@@ -1,6 +1,6 @@
 {
   "source": "https://kooora.com/كرة-القدم/مباريات-اليوم",
-  "fetched_at_egypt": "2026-08-18 21:52:46",
+  "fetched_at_egypt": "2026-08-18 22:29:17",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -77,7 +77,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-18 21:00:00",
-      "last_updated_at": "2026-08-18 21:50:07",
+      "last_updated_at": "2026-08-18 22:06:53",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -108,7 +108,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-18 21:00:00",
-      "last_updated_at": "2026-08-18 21:48:18",
+      "last_updated_at": "2026-08-18 22:04:29",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -122,7 +122,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 1
       },
       "tv_audio": [
@@ -139,7 +139,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-18 21:00:00",
-      "last_updated_at": "2026-08-18 21:50:28",
+      "last_updated_at": "2026-08-18 22:01:22",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -240,9 +240,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-18 20:00:00",
-      "last_updated_at": "2026-08-18 21:30:10",
+      "last_updated_at": "2026-08-18 21:56:58",
       "competition": "كأس خادم الحرمين الشريفين",
       "round": null,
       "team_a": {
@@ -259,19 +259,14 @@
         "team_a": 1,
         "team_b": 4
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-18 20:00:00",
-      "last_updated_at": "2026-08-18 21:31:09",
+      "last_updated_at": "2026-08-18 21:59:04",
       "competition": "كأس خادم الحرمين الشريفين",
       "round": null,
       "team_a": {
@@ -288,12 +283,7 @@
         "team_a": 1,
         "team_b": 3
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
