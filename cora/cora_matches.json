@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-19 21:54:12",
+  "fetched_at_egypt": "2026-08-19 22:33:45",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -159,7 +159,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-19 21:00:00",
-      "last_updated_at": "2026-08-19 21:46:32",
+      "last_updated_at": "2026-08-19 22:24:15",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -173,7 +173,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tIaGAkXv91QnIZZAr_ULH.png"
       },
       "score": {
-        "team_a": 2,
+        "team_a": 3,
         "team_b": 0
       },
       "tv_audio": [
@@ -190,7 +190,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-19 21:00:00",
-      "last_updated_at": "2026-08-19 21:47:13",
+      "last_updated_at": "2026-08-19 22:02:53",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -221,7 +221,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-19 21:00:00",
-      "last_updated_at": "2026-08-19 21:48:57",
+      "last_updated_at": "2026-08-19 22:10:15",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -236,7 +236,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 2
+        "team_b": 3
       },
       "tv_audio": [
         {
@@ -252,7 +252,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-19 21:00:00",
-      "last_updated_at": "2026-08-19 21:46:56",
+      "last_updated_at": "2026-08-19 22:01:59",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -283,7 +283,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-19 21:05:00",
-      "last_updated_at": "2026-08-19 21:16:52",
+      "last_updated_at": "2026-08-19 22:14:19",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -360,9 +360,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-19 20:00:00",
-      "last_updated_at": "2026-08-19 21:37:05",
+      "last_updated_at": "2026-08-19 21:58:25",
       "competition": "كأس خادم الحرمين الشريفين",
       "round": null,
       "team_a": {
@@ -379,12 +379,7 @@
         "team_a": 3,
         "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
