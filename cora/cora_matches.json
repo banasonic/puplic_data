@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-19 17:04:23",
+  "fetched_at_egypt": "2026-08-19 18:00:18",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -135,10 +135,8 @@
       "كأس أستراليا",
       "كأس أمريكا الوسطى (كونكاكاف)",
       "كأس الأرجنتين",
-      "كأس الإكوادور",
       "كأس الدنمارك",
       "كأس السويد",
-      "كأس الكاريبي (كونكاكاف)",
       "كأس النرويج",
       "كأس اليونان",
       "كأس باراجواي",
@@ -797,7 +795,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Club Channel",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9ftJm14M5OTTq-_E6LoDJ.png"
+        }
+      ],
       "venue": {
         "name": "Veritas Stadion"
       }
@@ -942,7 +945,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Club Channel",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9ftJm14M5OTTq-_E6LoDJ.png"
+        }
+      ],
       "venue": {
         "name": "Djupumyra Stadium"
       }
@@ -1180,7 +1188,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Club Channel",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9ftJm14M5OTTq-_E6LoDJ.png"
+        }
+      ],
       "venue": {
         "name": "جيلامكو أرينا"
       }
@@ -1480,7 +1493,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Club Channel",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9ftJm14M5OTTq-_E6LoDJ.png"
+        }
+      ],
       "venue": {
         "name": "تالاغت ستاديوم"
       }
