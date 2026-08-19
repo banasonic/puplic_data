@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-19 22:33:45",
+  "fetched_at_egypt": "2026-08-19 22:59:04",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -157,9 +157,9 @@
   "matches_count": 61,
   "matches": [
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-19 21:00:00",
-      "last_updated_at": "2026-08-19 22:24:15",
+      "last_updated_at": "2026-08-19 22:53:57",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -176,21 +176,16 @@
         "team_a": 3,
         "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "سلتيك بارك"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-19 21:00:00",
-      "last_updated_at": "2026-08-19 22:02:53",
+      "last_updated_at": "2026-08-19 22:55:02",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -204,24 +199,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Luk2rd1kqP58m5TW3yJM4.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 1
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports ENG 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6be2ixGKqc4256Wtb6LFj.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "Stadionul Giulesti-Valentin Stanescu"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-19 21:00:00",
-      "last_updated_at": "2026-08-19 22:10:15",
+      "last_updated_at": "2026-08-19 22:55:58",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -235,24 +225,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zjkWCnFAxFmiPJF2siIgb.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 3
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 4",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/vSKlM172dkwkGI1vhqxw-.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "Stadion De Goffert"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-19 21:00:00",
-      "last_updated_at": "2026-08-19 22:01:59",
+      "last_updated_at": "2026-08-19 22:55:03",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -269,12 +254,7 @@
         "team_a": 1,
         "team_b": 1
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 3",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/PyMZVVF6KAk0uCaEBvL0C.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "الملعب الوطني"
@@ -283,7 +263,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-19 21:05:00",
-      "last_updated_at": "2026-08-19 22:14:19",
+      "last_updated_at": "2026-08-19 22:53:52",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -297,7 +277,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N9ip4ws6bBGlRkUQc-Vvr.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 2,
         "team_b": 0
       },
       "tv_audio": [
@@ -362,7 +342,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-08-19 20:00:00",
-      "last_updated_at": "2026-08-19 21:58:25",
+      "last_updated_at": "2026-08-19 22:57:41",
       "competition": "كأس خادم الحرمين الشريفين",
       "round": null,
       "team_a": {
