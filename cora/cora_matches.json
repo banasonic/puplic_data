@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-20 07:59:45",
+  "fetched_at_egypt": "2026-08-20 09:00:26",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -86,6 +86,7 @@
       "الدوري الفرنسي الدرجة الثانية",
       "الدوري الفرنسي الدرجة الرابعة",
       "الدوري الفرنسي الوطني",
+      "الدوري الفنزويلي الممتاز",
       "الدوري الفنلندي",
       "الدوري الفنلندي الدرجة الثالثة",
       "الدوري الفنلندي الدرجة الثانية",
@@ -398,8 +399,8 @@
       "tv_audio": [],
       "tv_channels": [
         {
-          "name": "On Sport 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
+          "name": "On Sport Plus",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2WIigj6BGnenxfPD1-XgA.png"
         },
         {
           "name": "M4 Sports",
@@ -1314,7 +1315,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
+        }
+      ],
       "tv_channels": [
         {
           "name": "DAZN 1 Portugal",
