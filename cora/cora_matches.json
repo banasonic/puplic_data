@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-20 16:40:56",
+  "fetched_at_egypt": "2026-08-20 17:38:17",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -192,9 +192,9 @@
   "matches_count": 94,
   "matches": [
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-20 17:00:00",
-      "last_updated_at": "2026-08-20 15:50:32",
+      "last_updated_at": "2026-08-20 17:25:13",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -208,8 +208,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cR4Ju_Hn49tM0giPdS7XI.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_audio": [],
       "tv_channels": [
@@ -225,7 +225,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 18:00:00",
-      "last_updated_at": "2026-08-14 13:53:08",
+      "last_updated_at": "2026-08-20 16:51:27",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -256,7 +256,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 18:00:00",
-      "last_updated_at": "2026-08-14 13:51:12",
+      "last_updated_at": "2026-08-20 17:02:08",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -570,7 +570,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 18:00:00",
-      "last_updated_at": "2026-08-19 09:59:14",
+      "last_updated_at": "2026-08-20 16:53:16",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -601,7 +601,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 18:00:00",
-      "last_updated_at": "2026-08-14 12:15:18",
+      "last_updated_at": "2026-08-20 16:51:43",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -2222,7 +2222,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-22 20:45:00",
-      "last_updated_at": "2026-08-20 13:17:03",
+      "last_updated_at": "2026-08-20 16:30:47",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
