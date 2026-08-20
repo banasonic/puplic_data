@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-20 17:38:17",
+  "fetched_at_egypt": "2026-08-20 18:39:37",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -21,7 +21,6 @@
       "الدوري الأذربيجاني",
       "الدوري الأرميني",
       "الدوري الأستوني",
-      "الدوري الأستوني الدرجة الثانية",
       "الدوري الألماني الدرجة الخامسة",
       "الدوري الألماني الدرجة الرابعة",
       "الدوري الألماني لكرة القدم للسيدات",
@@ -38,7 +37,6 @@
       "الدوري الإسكتلندي الدرجة الثانية",
       "الدوري الإسكتلندي الممتاز",
       "الدوري الإكوادوري",
-      "الدوري الإكوادوري الدرجة الثانية",
       "الدوري الإنجليزي الدرجة الأولى",
       "الدوري الإنجليزي الدرجة الثالثة",
       "الدوري الإنجليزي الدرجة الثانية",
@@ -103,7 +101,6 @@
       "الدوري المالطي الممتاز",
       "الدوري المجري",
       "الدوري المجري الدرجة الثانية",
-      "الدوري المصري الدرجة الثانية",
       "الدوري المكسيكي الدرجة الثانية",
       "الدوري المكسيكي الممتاز",
       "الدوري المكسيكي للسيدات",
@@ -125,7 +122,6 @@
       "الرابطة التونسية المحترفة الأولى",
       "السوبر الألماني",
       "بطولة اتحاد آسيان لكرة القدم",
-      "دوري أبطال أوقيانوسيا",
       "دوري أدنوك للمحترفين",
       "دوري أوروجواي الدرجة الثانية",
       "دوري أوروجواي الممتاز",
@@ -194,7 +190,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 17:00:00",
-      "last_updated_at": "2026-08-20 17:25:13",
+      "last_updated_at": "2026-08-20 18:04:46",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -209,7 +205,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 2
+        "team_b": 3
       },
       "tv_audio": [],
       "tv_channels": [
@@ -223,9 +219,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-20 18:00:00",
-      "last_updated_at": "2026-08-20 16:51:27",
+      "last_updated_at": "2026-08-20 18:33:47",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -239,8 +235,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d-RKCzCghp4MaIkp3TmMZ.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -254,9 +250,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-20 18:00:00",
-      "last_updated_at": "2026-08-20 17:02:08",
+      "last_updated_at": "2026-08-20 18:01:34",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -270,8 +266,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-PWqo_lcDVwCd2-FuHu94.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -287,7 +283,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 19:00:00",
-      "last_updated_at": "2026-08-14 13:57:48",
+      "last_updated_at": "2026-08-20 17:54:06",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -318,7 +314,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 19:00:00",
-      "last_updated_at": "2026-08-14 13:56:13",
+      "last_updated_at": "2026-08-20 17:49:12",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -349,7 +345,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 19:00:00",
-      "last_updated_at": "2026-08-15 08:59:26",
+      "last_updated_at": "2026-08-20 17:48:31",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -380,7 +376,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 19:00:00",
-      "last_updated_at": "2026-08-14 13:29:20",
+      "last_updated_at": "2026-08-20 17:58:33",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -415,7 +411,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 19:00:00",
-      "last_updated_at": "2026-08-14 13:58:32",
+      "last_updated_at": "2026-08-20 17:52:23",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -568,9 +564,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-20 18:00:00",
-      "last_updated_at": "2026-08-20 16:53:16",
+      "last_updated_at": "2026-08-20 18:10:55",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -584,8 +580,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6fI5Od-fvYeXN0W0P6Y6t.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -599,9 +595,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-20 18:00:00",
-      "last_updated_at": "2026-08-20 16:51:43",
+      "last_updated_at": "2026-08-20 18:00:16",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -615,8 +611,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2lmdmQRltiJl7nc9hzDFe.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -627,7 +623,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 19:00:00",
-      "last_updated_at": "2026-08-19 10:04:23",
+      "last_updated_at": "2026-08-20 17:48:31",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -658,7 +654,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 19:00:00",
-      "last_updated_at": "2026-08-19 10:07:37",
+      "last_updated_at": "2026-08-20 17:47:49",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -689,7 +685,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 19:00:00",
-      "last_updated_at": "2026-08-14 12:17:53",
+      "last_updated_at": "2026-08-20 17:52:15",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -720,7 +716,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 19:30:00",
-      "last_updated_at": "2026-08-15 09:01:03",
+      "last_updated_at": "2026-08-20 18:18:28",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -751,7 +747,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-20 19:45:00",
-      "last_updated_at": "2026-08-14 12:20:56",
+      "last_updated_at": "2026-08-20 18:39:05",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
