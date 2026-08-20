@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-20 20:54:09",
+  "fetched_at_egypt": "2026-08-20 21:35:16",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -268,7 +268,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-08-20 19:00:00",
-      "last_updated_at": "2026-08-20 20:52:27",
+      "last_updated_at": "2026-08-20 20:55:02",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -344,9 +344,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-20 19:00:00",
-      "last_updated_at": "2026-08-20 20:02:47",
+      "last_updated_at": "2026-08-20 20:55:04",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -364,16 +364,7 @@
         "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport Plus",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2WIigj6BGnenxfPD1-XgA.png"
-        },
-        {
-          "name": "M4 Sports",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/g5AF-3BFQy30XUM1P3HhC.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "بابارا بارك"
       }
@@ -407,7 +398,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:00:00",
-      "last_updated_at": "2026-08-20 20:49:53",
+      "last_updated_at": "2026-08-20 21:14:23",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -421,7 +412,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NWXbwvITfz5VDa27SauSA.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "tv_audio": [],
@@ -438,7 +429,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:00:00",
-      "last_updated_at": "2026-08-20 20:48:46",
+      "last_updated_at": "2026-08-20 21:09:51",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -452,7 +443,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YClTub2_rG1nbEuPQGoKq.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "tv_audio": [],
@@ -469,7 +460,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:00:00",
-      "last_updated_at": "2026-08-20 20:51:56",
+      "last_updated_at": "2026-08-20 21:06:50",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -498,9 +489,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-20 21:00:00",
-      "last_updated_at": "2026-08-20 19:59:04",
+      "last_updated_at": "2026-08-20 21:32:44",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -514,8 +505,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/X7qNAFLAw9SwNHGPGnIda.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -659,9 +650,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-20 19:30:00",
-      "last_updated_at": "2026-08-20 20:33:12",
+      "last_updated_at": "2026-08-20 21:26:20",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -679,12 +670,7 @@
         "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Club Channel",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9ftJm14M5OTTq-_E6LoDJ.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Djupumyra Stadium"
       }
@@ -692,7 +678,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 19:45:00",
-      "last_updated_at": "2026-08-20 20:48:24",
+      "last_updated_at": "2026-08-20 21:23:00",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -706,8 +692,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mmUqdoQMXfWM49dl9orTB.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [
@@ -723,7 +709,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:00:00",
-      "last_updated_at": "2026-08-20 20:45:51",
+      "last_updated_at": "2026-08-20 21:11:53",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -738,10 +724,15 @@
       },
       "score": {
         "team_a": 2,
-        "team_b": 1
+        "team_b": 2
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "RTK1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/xbMAbQ_uFmR7oH4xDMJwM.png"
+        }
+      ],
       "venue": {
         "name": "Fadil Vokrri Stadium"
       }
@@ -749,7 +740,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:00:00",
-      "last_updated_at": "2026-08-20 20:47:23",
+      "last_updated_at": "2026-08-20 21:10:29",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -764,7 +755,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [
@@ -780,7 +771,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:00:00",
-      "last_updated_at": "2026-08-20 20:46:43",
+      "last_updated_at": "2026-08-20 21:33:11",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -794,8 +785,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F_zla_b5a_HE5hGvveHfz.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 1
+        "team_a": 2,
+        "team_b": 3
       },
       "tv_audio": [],
       "tv_channels": [
@@ -811,7 +802,38 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:15:00",
-      "last_updated_at": "2026-08-20 20:40:34",
+      "last_updated_at": "2026-08-20 21:32:21",
+      "competition": "تصفيات دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "سيون",
+        "code_name": "SIO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yxIjTM9voFfvcIwoJMYMR.png"
+      },
+      "team_b": {
+        "name": "أياكس",
+        "code_name": "أياكس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ekYAK9HhpnfV1PbrNKteT.png"
+      },
+      "score": {
+        "team_a": 1,
+        "team_b": 2
+      },
+      "tv_audio": [],
+      "tv_channels": [
+        {
+          "name": "RTS 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/MwNd9WE39F5lCU0ge6Vd3JyVKFyXJfDlNEKp7vSY.png"
+        }
+      ],
+      "venue": {
+        "name": "Stade Tourbillon"
+      }
+    },
+    {
+      "status": "LIVE",
+      "start_date_egypt": "2026-08-20 20:15:00",
+      "last_updated_at": "2026-08-20 21:18:45",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -841,39 +863,8 @@
     },
     {
       "status": "LIVE",
-      "start_date_egypt": "2026-08-20 20:15:00",
-      "last_updated_at": "2026-08-20 20:49:06",
-      "competition": "تصفيات دوري المؤتمر الأوروبي",
-      "round": null,
-      "team_a": {
-        "name": "سيون",
-        "code_name": "SIO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yxIjTM9voFfvcIwoJMYMR.png"
-      },
-      "team_b": {
-        "name": "أياكس",
-        "code_name": "أياكس",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ekYAK9HhpnfV1PbrNKteT.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 0
-      },
-      "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "RTS 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/MwNd9WE39F5lCU0ge6Vd3JyVKFyXJfDlNEKp7vSY.png"
-        }
-      ],
-      "venue": {
-        "name": "Stade Tourbillon"
-      }
-    },
-    {
-      "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:30:00",
-      "last_updated_at": "2026-08-20 20:31:26",
+      "last_updated_at": "2026-08-20 21:34:05",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -904,7 +895,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:30:00",
-      "last_updated_at": "2026-08-20 20:47:16",
+      "last_updated_at": "2026-08-20 21:32:19",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -935,7 +926,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:30:00",
-      "last_updated_at": "2026-08-20 20:31:31",
+      "last_updated_at": "2026-08-20 21:33:51",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -949,7 +940,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eg77ufkN4KXIaNnVmtS3N.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "tv_audio": [],
@@ -966,7 +957,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:30:00",
-      "last_updated_at": "2026-08-20 20:31:15",
+      "last_updated_at": "2026-08-20 21:19:10",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -981,7 +972,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [
@@ -997,7 +988,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:30:00",
-      "last_updated_at": "2026-08-20 20:47:52",
+      "last_updated_at": "2026-08-20 21:19:35",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -1028,7 +1019,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:45:00",
-      "last_updated_at": "2026-08-20 20:47:01",
+      "last_updated_at": "2026-08-20 21:30:27",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -1043,7 +1034,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [
@@ -1059,7 +1050,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:45:00",
-      "last_updated_at": "2026-08-20 20:45:33",
+      "last_updated_at": "2026-08-20 21:32:10",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -1088,9 +1079,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-20 21:00:00",
-      "last_updated_at": "2026-08-20 19:48:42",
+      "last_updated_at": "2026-08-20 21:24:28",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -1104,8 +1095,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rCmDv2u1lgzsh4rob3zFv.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -1119,9 +1110,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-20 21:00:00",
-      "last_updated_at": "2026-08-20 19:50:58",
+      "last_updated_at": "2026-08-20 21:02:02",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -1135,8 +1126,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TeuWqJJgWyCa6fjuxWc_F.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -1150,9 +1141,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-20 21:00:00",
-      "last_updated_at": "2026-08-20 19:51:19",
+      "last_updated_at": "2026-08-20 21:31:33",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -1166,8 +1157,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BkY0xyCQ013n5xC-tdQQ8.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -1181,9 +1172,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-20 21:00:00",
-      "last_updated_at": "2026-08-20 19:53:59",
+      "last_updated_at": "2026-08-20 21:32:09",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -1197,8 +1188,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cZieUjFGYMVWp68GNZM_W.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -1207,9 +1198,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-20 21:00:00",
-      "last_updated_at": "2026-08-20 19:52:01",
+      "last_updated_at": "2026-08-20 21:00:12",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -1223,8 +1214,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DBu9rTSBxnYXIdCYQYfF1.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -1238,9 +1229,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-20 21:00:00",
-      "last_updated_at": "2026-08-20 20:52:16",
+      "last_updated_at": "2026-08-20 21:02:20",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -1254,8 +1245,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dqC3XtzsGeXe3c53Qqrn-.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -1292,7 +1283,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-20 20:00:00",
-      "last_updated_at": "2026-08-20 20:50:14",
+      "last_updated_at": "2026-08-20 21:04:27",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -1307,7 +1298,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 1
+        "team_b": 2
       },
       "tv_audio": [
         {
@@ -1991,7 +1982,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "ميستايا"
