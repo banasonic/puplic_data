@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-20 13:36:04",
+  "fetched_at_egypt": "2026-08-20 14:58:10",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -1648,7 +1648,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
+        }
+      ],
       "venue": {
         "name": "ستاد السلام"
       }
@@ -1674,7 +1679,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
+        }
+      ],
       "venue": {
         "name": "استاد الإسكندرية"
       }
@@ -1700,7 +1710,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
+        }
+      ],
       "venue": {
         "name": "ستاد القاهرة الدولي"
       }
@@ -2207,7 +2222,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-22 20:45:00",
-      "last_updated_at": "2026-08-19 21:10:53",
+      "last_updated_at": "2026-08-20 13:17:03",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
