@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-21 17:05:58",
+  "fetched_at_egypt": "2026-08-21 18:01:45",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -280,9 +280,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-21 18:00:00",
-      "last_updated_at": "2026-06-06 18:53:57",
+      "last_updated_at": "2026-08-21 18:00:13",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -296,8 +296,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yvrf8KVsL4z32wC0LXOUZ.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -342,9 +342,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-21 18:00:00",
-      "last_updated_at": "2026-06-06 18:53:57",
+      "last_updated_at": "2026-08-21 18:00:19",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -358,8 +358,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eNZhIUdrLnF3DNQ5K8TTu.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -446,7 +446,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-21 16:00:00",
-      "last_updated_at": "2026-08-21 16:53:57",
+      "last_updated_at": "2026-08-21 17:12:10",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -539,7 +539,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-21 18:00:00",
-      "last_updated_at": "2026-07-26 13:04:00",
+      "last_updated_at": "2026-08-21 17:18:11",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -570,7 +570,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-21 18:15:00",
-      "last_updated_at": "2026-07-26 13:04:00",
+      "last_updated_at": "2026-08-21 17:48:06",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -2333,7 +2333,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-23 20:45:00",
-      "last_updated_at": "2026-08-20 20:57:47",
+      "last_updated_at": "2026-08-21 15:54:03",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
