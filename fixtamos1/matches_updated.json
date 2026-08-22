@@ -12,7 +12,7 @@
         ]
     },
     {
-        "time_status": "11:30 ص",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "time_status": "02:00 م",
+        "time_status": "مباشر",
         "url": "",
         "arabic_channels": [
             {
@@ -68,7 +68,7 @@
         ]
     },
     {
-        "time_status": "02:00 م",
+        "time_status": "مباشر",
         "url": "",
         "arabic_channels": [
             {
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "time_status": "02:00 م",
+        "time_status": "مباشر",
         "url": "",
         "arabic_channels": [
             {
@@ -364,9 +364,15 @@
         "amos_channels": []
     },
     {
-        "time_status": "11:00 ص",
+        "time_status": "",
         "url": "",
-        "arabic_channels": [],
+        "arabic_channels": [
+            {
+                "name": "Abu Dhabi Sports 1",
+                "commentator": "",
+                "logo": ""
+            }
+        ],
         "amos_channels": [
             {
                 "name": "SPORT 3",
@@ -374,6 +380,18 @@
                 "logo": ""
             }
         ]
+    },
+    {
+        "time_status": "04:00 م",
+        "url": "",
+        "arabic_channels": [
+            {
+                "name": "Abu Dhabi Sports 2",
+                "commentator": "",
+                "logo": ""
+            }
+        ],
+        "amos_channels": []
     },
     {
         "time_status": "05:00 م",
@@ -400,7 +418,7 @@
         "amos_channels": []
     },
     {
-        "time_status": "11:30 ص",
+        "time_status": "",
         "url": "",
         "arabic_channels": [
             {
@@ -428,7 +446,7 @@
         ]
     },
     {
-        "time_status": "02:00 م",
+        "time_status": "مباشر",
         "url": "",
         "arabic_channels": [
             {
