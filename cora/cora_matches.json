@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-22 12:54:10",
+  "fetched_at_egypt": "2026-08-22 13:24:59",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -184,7 +184,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-22 13:30:00",
-      "last_updated_at": "2026-08-22 12:17:17",
+      "last_updated_at": "2026-08-22 13:21:42",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -765,9 +765,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-22 13:00:00",
-      "last_updated_at": "2026-08-01 17:57:24",
+      "last_updated_at": "2026-08-22 13:02:25",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -781,8 +781,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Cym9JdkRpXALz4AJUjd8e.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -800,9 +800,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-22 13:00:00",
-      "last_updated_at": "2026-06-29 12:20:09",
+      "last_updated_at": "2026-08-22 13:01:13",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -816,8 +816,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
