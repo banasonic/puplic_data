@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-22 22:28:22",
+  "fetched_at_egypt": "2026-08-22 22:54:03",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -349,7 +349,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-22 21:30:00",
-      "last_updated_at": "2026-08-22 22:19:56",
+      "last_updated_at": "2026-08-22 22:36:31",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -430,9 +430,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-22 20:45:00",
-      "last_updated_at": "2026-08-22 22:26:32",
+      "last_updated_at": "2026-08-22 22:39:52",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -447,36 +447,18 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 1
+        "team_b": 2
       },
-      "tv_audio": [
-        {
-          "name": "stc tv",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/_qsCvlpAMJ1wUsDWP6coH.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "starzplay",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gGKOgFCA7gkaqRZLmUGOz.jpg"
-        },
-        {
-          "name": "شاشا",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exqaLs9Ay50yFBqNSA__h.png"
-        },
-        {
-          "name": "الرابعة الرياضية",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/etHTBgdQ4H9BoYmeTe6e4.jpg"
-        }
-      ],
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": {
         "name": "لويجي فيراريس"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-22 20:45:00",
-      "last_updated_at": "2026-08-22 22:24:20",
+      "last_updated_at": "2026-08-22 22:41:38",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -493,26 +475,8 @@
         "team_a": 0,
         "team_b": 1
       },
-      "tv_audio": [
-        {
-          "name": "stc tv",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/_qsCvlpAMJ1wUsDWP6coH.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "starzplay",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gGKOgFCA7gkaqRZLmUGOz.jpg"
-        },
-        {
-          "name": "شاشا",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exqaLs9Ay50yFBqNSA__h.png"
-        },
-        {
-          "name": "الرابعة الرياضية",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/etHTBgdQ4H9BoYmeTe6e4.jpg"
-        }
-      ],
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": {
         "name": "إنيو تارديني"
       }
@@ -544,9 +508,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-22 20:45:00",
-      "last_updated_at": "2026-08-22 22:05:43",
+      "last_updated_at": "2026-08-22 22:41:10",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -563,21 +527,16 @@
         "team_a": 2,
         "team_b": 2
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "إم إم أرينا"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-22 20:45:00",
-      "last_updated_at": "2026-08-22 21:47:17",
+      "last_updated_at": "2026-08-22 22:36:41",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -594,21 +553,16 @@
         "team_a": 0,
         "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 6",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2TJX17Q7L1CmylRf5kSPQ.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "أليانز ريفييرا"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-22 20:45:00",
-      "last_updated_at": "2026-08-22 22:27:28",
+      "last_updated_at": "2026-08-22 22:38:06",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -625,21 +579,16 @@
         "team_a": 0,
         "team_b": 2
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 4",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/vSKlM172dkwkGI1vhqxw-.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "Stadium de Toulouse"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-22 20:45:00",
-      "last_updated_at": "2026-08-22 21:59:54",
+      "last_updated_at": "2026-08-22 22:38:21",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -656,12 +605,7 @@
         "team_a": 0,
         "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 5",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ER4v9bo7dNL95x8ax16KW.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "Stade de l'Aube"
