@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-22 10:35:49",
+  "fetched_at_egypt": "2026-08-22 11:31:42",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -44,6 +44,7 @@
       "الدوري الإنجليزي تحت 18 عامًا",
       "الدوري الإيطالي الدرجة الثالثة",
       "الدوري الإيطالي الدرجة الثانية",
+      "الدوري الإيطالي للشباب",
       "الدوري الاحتياطي الممتاز 1",
       "الدوري البرازيلي",
       "الدوري البرازيلي الدرجة الثالثة",
@@ -387,6 +388,10 @@
         "team_b": null
       },
       "tv_audio": [
+        {
+          "name": "beIN Sports Mena 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/PyMZVVF6KAk0uCaEBvL0C.png"
+        },
         {
           "name": "beIN SPORTS CONNECT",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
@@ -782,6 +787,10 @@
       "tv_audio": [],
       "tv_channels": [
         {
+          "name": "Abu Dhabi Sports 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/GWX-8iq5kfI9RT27_AaUv.png"
+        },
+        {
           "name": "Onefootball",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
         }
@@ -812,6 +821,10 @@
       },
       "tv_audio": [],
       "tv_channels": [
+        {
+          "name": "Abu Dhabi Sports 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gCN0g4VrtGNWvZ3DwTVEx.png"
+        },
         {
           "name": "Onefootball",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
@@ -1061,6 +1074,10 @@
       "tv_audio": [],
       "tv_channels": [
         {
+          "name": "Abu Dhabi Sports 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/GWX-8iq5kfI9RT27_AaUv.png"
+        },
+        {
           "name": "Onefootball",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
         }
@@ -1182,7 +1199,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 8",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/paPG39fLrmobdkH3I3GEP.png"
+        }
+      ],
       "tv_channels": [
         {
           "name": "TOD TV",
@@ -1216,8 +1238,8 @@
       "tv_audio": [],
       "tv_channels": [
         {
-          "name": "On Sport Max",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
+          "name": "On Sport 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
         }
       ],
       "venue": {
@@ -1247,8 +1269,8 @@
       "tv_audio": [],
       "tv_channels": [
         {
-          "name": "On Sport 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
+          "name": "On Sport Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
         }
       ],
       "venue": {
@@ -1368,13 +1390,13 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [
+      "tv_audio": [],
+      "tv_channels": [
         {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
+          "name": "تطبيق ثمانية",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/09_JlIwD5HCYgmax9_F-G.png"
         }
       ],
-      "tv_channels": [],
       "venue": {
         "name": "مدينة الملك عبدالله الرياضية (بريدة)"
       }
