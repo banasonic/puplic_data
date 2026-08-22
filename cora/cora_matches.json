@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-22 14:49:09",
+  "fetched_at_egypt": "2026-08-22 15:35:10",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -131,6 +131,7 @@
       "دوري الدرجة الأولى الأرجنتيني",
       "دوري الدرجة الأولى الدنماركي",
       "دوري الدرجة الأولى الدنماركي للسيدات",
+      "دوري الدرجة الأولى السعودي",
       "دوري الدرجة الثالثة الأرجنتيني",
       "دوري الدرجة الثالثة الدنماركي",
       "دوري الدرجة الثانية الأرجنتيني",
@@ -182,9 +183,9 @@
   "matches_count": 82,
   "matches": [
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-22 13:30:00",
-      "last_updated_at": "2026-08-22 14:33:16",
+      "last_updated_at": "2026-08-22 15:24:31",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -201,12 +202,7 @@
         "team_a": 2,
         "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "ملعب كيه سي"
@@ -246,7 +242,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-22 16:00:00",
-      "last_updated_at": "2026-08-21 15:33:22",
+      "last_updated_at": "2026-08-22 14:48:10",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -277,7 +273,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-22 16:00:00",
-      "last_updated_at": "2026-08-21 15:25:59",
+      "last_updated_at": "2026-08-22 14:58:54",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -765,9 +761,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-22 13:00:00",
-      "last_updated_at": "2026-08-22 14:13:46",
+      "last_updated_at": "2026-08-22 14:55:01",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -782,27 +778,18 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 1
+        "team_b": 2
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Abu Dhabi Sports 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/GWX-8iq5kfI9RT27_AaUv.png"
-        },
-        {
-          "name": "Onefootball",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "LEAG Energie Stadion"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-22 13:00:00",
-      "last_updated_at": "2026-08-22 14:37:42",
+      "last_updated_at": "2026-08-22 14:55:22",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -820,24 +807,15 @@
         "team_b": 4
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Abu Dhabi Sports 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gCN0g4VrtGNWvZ3DwTVEx.png"
-        },
-        {
-          "name": "Onefootball",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Brita-Arena"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-22 15:30:00",
-      "last_updated_at": "2026-06-29 12:29:25",
+      "last_updated_at": "2026-08-22 15:30:16",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -851,8 +829,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1K9pUTQXHjmhK2eBCZumq.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -866,9 +844,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-22 15:30:00",
-      "last_updated_at": "2026-06-29 12:23:40",
+      "last_updated_at": "2026-08-22 15:30:35",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -882,8 +860,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iLZSMG8Oc30AomkBDV7fp.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -897,9 +875,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-22 15:30:00",
-      "last_updated_at": "2026-06-29 12:23:40",
+      "last_updated_at": "2026-08-22 15:30:07",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -913,8 +891,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1WUK28z1JYdgyq4zBWYBv.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -928,9 +906,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-22 15:30:00",
-      "last_updated_at": "2026-06-29 12:21:34",
+      "last_updated_at": "2026-08-22 15:30:45",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -944,8 +922,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QvXc_LEra3PfYsmFMp9pH.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -959,9 +937,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-22 15:30:00",
-      "last_updated_at": "2026-06-29 12:31:14",
+      "last_updated_at": "2026-08-22 15:33:44",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -975,8 +953,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5hgh_rQvQkVRTh0fJL_VM.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -990,9 +968,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-22 15:30:00",
-      "last_updated_at": "2026-06-29 12:23:40",
+      "last_updated_at": "2026-08-22 15:31:25",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -1006,8 +984,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lgFXKgYZbVTKM8mTS5K9P.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -1739,7 +1717,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-23 18:30:00",
-      "last_updated_at": "2026-08-20 20:36:50",
+      "last_updated_at": "2026-08-22 13:59:23",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -1827,7 +1805,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-23 20:45:00",
-      "last_updated_at": "2026-08-21 15:54:03",
+      "last_updated_at": "2026-08-22 14:01:26",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -1871,7 +1849,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-23 20:45:00",
-      "last_updated_at": "2026-08-20 21:00:12",
+      "last_updated_at": "2026-08-22 14:03:27",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -1915,7 +1893,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-23 15:00:00",
-      "last_updated_at": "2026-08-20 19:39:17",
+      "last_updated_at": "2026-08-22 13:21:29",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
