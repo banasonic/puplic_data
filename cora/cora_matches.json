@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-22 22:54:03",
+  "fetched_at_egypt": "2026-08-22 23:26:20",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -349,7 +349,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-22 21:30:00",
-      "last_updated_at": "2026-08-22 22:36:31",
+      "last_updated_at": "2026-08-22 23:22:59",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -364,7 +364,7 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 1
+        "team_b": 2
       },
       "tv_audio": [
         {
@@ -1670,6 +1670,10 @@
       "tv_audio": [],
       "tv_channels": [
         {
+          "name": "Abu Dhabi Sports 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gCN0g4VrtGNWvZ3DwTVEx.png"
+        },
+        {
           "name": "Onefootball",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
         }
@@ -1948,6 +1952,10 @@
       },
       "tv_audio": [],
       "tv_channels": [
+        {
+          "name": "Abu Dhabi Sports 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/GWX-8iq5kfI9RT27_AaUv.png"
+        },
         {
           "name": "Onefootball",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
