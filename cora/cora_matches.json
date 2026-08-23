@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-23 16:54:53",
+  "fetched_at_egypt": "2026-08-23 17:27:18",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -158,9 +158,9 @@
   "matches_count": 47,
   "matches": [
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-23 15:00:00",
-      "last_updated_at": "2026-08-23 16:50:49",
+      "last_updated_at": "2026-08-23 16:55:52",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -177,21 +177,16 @@
         "team_a": 4,
         "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "فالمر"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-23 15:00:00",
-      "last_updated_at": "2026-08-23 16:53:07",
+      "last_updated_at": "2026-08-23 16:56:17",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -208,12 +203,7 @@
         "team_a": 2,
         "team_b": 1
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "ملعب الاتحاد"
@@ -251,9 +241,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-23 17:00:00",
-      "last_updated_at": "2026-08-23 15:53:28",
+      "last_updated_at": "2026-08-23 17:11:26",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -267,8 +257,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -633,9 +623,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-23 17:15:00",
-      "last_updated_at": "2026-08-23 16:40:33",
+      "last_updated_at": "2026-08-23 17:15:10",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -649,8 +639,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F_zla_b5a_HE5hGvveHfz.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -747,9 +737,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-23 15:30:00",
-      "last_updated_at": "2026-08-23 16:34:09",
+      "last_updated_at": "2026-08-23 17:23:54",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -764,23 +754,18 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 3
+        "team_b": 4
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Onefootball",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Kaiserstuhl Stadion"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-23 15:30:00",
-      "last_updated_at": "2026-08-23 16:34:14",
+      "last_updated_at": "2026-08-23 17:24:53",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -798,20 +783,15 @@
         "team_b": 2
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Onefootball",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Ernst Abbe Sportfeld"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-23 15:30:00",
-      "last_updated_at": "2026-08-23 16:52:01",
+      "last_updated_at": "2026-08-23 17:25:11",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -826,23 +806,18 @@
       },
       "score": {
         "team_a": 2,
-        "team_b": 2
+        "team_b": 4
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Onefootball",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Eintracht Stadion"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-23 15:30:00",
-      "last_updated_at": "2026-08-23 16:48:57",
+      "last_updated_at": "2026-08-23 17:21:00",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -857,23 +832,18 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 4
+        "team_b": 5
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Onefootball",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Otto-Schott-Sportzentrum"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-23 15:30:00",
-      "last_updated_at": "2026-08-23 16:45:05",
+      "last_updated_at": "2026-08-23 17:21:02",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -888,23 +858,18 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 7
+        "team_b": 9
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Onefootball",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Sportpark Krieschow"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-23 15:30:00",
-      "last_updated_at": "2026-08-23 16:42:12",
+      "last_updated_at": "2026-08-23 17:20:57",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -922,12 +887,7 @@
         "team_b": 6
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Onefootball",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Sportanlage Papenloh"
       }
@@ -1032,7 +992,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-23 16:00:00",
-      "last_updated_at": "2026-08-23 16:49:44",
+      "last_updated_at": "2026-08-23 17:08:20",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
