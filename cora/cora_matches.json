@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-23 12:54:28",
+  "fetched_at_egypt": "2026-08-23 13:25:02",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -700,9 +700,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-23 13:00:00",
-      "last_updated_at": "2026-06-29 12:24:46",
+      "last_updated_at": "2026-08-23 13:01:57",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -716,8 +716,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qwhqIg6jBXEyOvtteBQGG.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -735,9 +735,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-23 13:00:00",
-      "last_updated_at": "2026-06-29 12:25:13",
+      "last_updated_at": "2026-08-23 13:13:30",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -751,8 +751,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PLpiKddTc2GU0ZKAokqJo.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [
