@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-24 20:01:04",
+  "fetched_at_egypt": "2026-08-24 21:13:48",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -109,9 +109,9 @@
   "matches_count": 40,
   "matches": [
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-24 21:00:00",
-      "last_updated_at": "2026-08-24 19:49:30",
+      "last_updated_at": "2026-08-24 21:01:57",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -125,8 +125,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_audio": [
         {
@@ -142,7 +142,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-24 19:30:00",
-      "last_updated_at": "2026-08-24 19:31:07",
+      "last_updated_at": "2026-08-24 20:33:43",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -173,7 +173,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-24 21:30:00",
-      "last_updated_at": "2026-08-23 10:03:17",
+      "last_updated_at": "2026-08-24 20:52:40",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -202,9 +202,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-24 18:30:00",
-      "last_updated_at": "2026-08-24 19:52:18",
+      "last_updated_at": "2026-08-24 20:30:20",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -221,34 +221,16 @@
         "team_a": 0,
         "team_b": 1
       },
-      "tv_audio": [
-        {
-          "name": "stc tv",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/_qsCvlpAMJ1wUsDWP6coH.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "starzplay",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gGKOgFCA7gkaqRZLmUGOz.jpg"
-        },
-        {
-          "name": "شاشا",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exqaLs9Ay50yFBqNSA__h.png"
-        },
-        {
-          "name": "الرابعة الرياضية",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/etHTBgdQ4H9BoYmeTe6e4.jpg"
-        }
-      ],
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": {
         "name": "ريناتو دالارا"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-24 20:45:00",
-      "last_updated_at": "2026-08-24 19:56:35",
+      "last_updated_at": "2026-08-24 20:47:05",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -262,8 +244,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t1NUqOfCHjrNAW4ME5SEF.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -316,9 +298,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-24 18:00:00",
-      "last_updated_at": "2026-08-24 19:56:35",
+      "last_updated_at": "2026-08-24 20:50:37",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -332,16 +314,11 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ry9NoyRGMKs5Sgr22Cjg-.png"
       },
       "score": {
-        "team_a": 2,
-        "team_b": 2
+        "team_a": 3,
+        "team_b": 3
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Onefootball",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Friedrich-Ludwig-Jahn-Sportpark"
       }
@@ -373,9 +350,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-24 20:45:00",
-      "last_updated_at": "2026-06-29 12:29:04",
+      "last_updated_at": "2026-08-24 20:46:11",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -389,8 +366,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MJmLo-A0RXtnjZxKJWml6.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -408,9 +385,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-24 18:40:00",
-      "last_updated_at": "2026-08-24 19:56:19",
+      "last_updated_at": "2026-08-24 20:35:45",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -427,21 +404,16 @@
         "team_a": 0,
         "team_b": 2
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "مدينة الملك خالد الرياضية"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-24 20:00:00",
-      "last_updated_at": "2026-08-24 19:26:28",
+      "last_updated_at": "2026-08-24 21:07:58",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -455,8 +427,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VZtEayXIvHec3yob5W95H.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 1
       },
       "tv_audio": [
         {
@@ -614,7 +586,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "ORF ON",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/D0WUgXo9ARW4LViK8Vsxm.jpg"
+        }
+      ],
       "venue": null
     },
     {
