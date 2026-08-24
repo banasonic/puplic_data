@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-24 19:08:14",
+  "fetched_at_egypt": "2026-08-24 20:01:04",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -111,7 +111,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-24 21:00:00",
-      "last_updated_at": "2026-08-23 09:54:21",
+      "last_updated_at": "2026-08-24 19:49:30",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -140,9 +140,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-24 19:30:00",
-      "last_updated_at": "2026-08-24 19:05:48",
+      "last_updated_at": "2026-08-24 19:31:07",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -156,8 +156,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/O-dLKNu7kxdqPWfH2EpDy.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -204,7 +204,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-24 18:30:00",
-      "last_updated_at": "2026-08-24 18:32:14",
+      "last_updated_at": "2026-08-24 19:52:18",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -219,7 +219,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_audio": [
         {
@@ -248,7 +248,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-24 20:45:00",
-      "last_updated_at": "2026-08-23 09:52:51",
+      "last_updated_at": "2026-08-24 19:56:35",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -290,9 +290,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-24 18:00:00",
-      "last_updated_at": "2026-08-24 19:04:32",
+      "last_updated_at": "2026-08-24 19:52:16",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -307,19 +307,10 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 2
+        "team_b": 3
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Abu Dhabi Sports 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gCN0g4VrtGNWvZ3DwTVEx.png"
-        },
-        {
-          "name": "Onefootball",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Sportclub Arena"
       }
@@ -327,7 +318,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-24 18:00:00",
-      "last_updated_at": "2026-08-24 19:06:49",
+      "last_updated_at": "2026-08-24 19:56:35",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -341,8 +332,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ry9NoyRGMKs5Sgr22Cjg-.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 0
+        "team_a": 2,
+        "team_b": 2
       },
       "tv_audio": [],
       "tv_channels": [
@@ -356,9 +347,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-24 18:00:00",
-      "last_updated_at": "2026-08-24 19:05:10",
+      "last_updated_at": "2026-08-24 19:54:13",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -373,15 +364,10 @@
       },
       "score": {
         "team_a": 1,
-        "team_b": 0
+        "team_b": 2
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Onefootball",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Flyeralarm Arena"
       }
@@ -424,7 +410,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-24 18:40:00",
-      "last_updated_at": "2026-08-24 18:40:50",
+      "last_updated_at": "2026-08-24 19:56:19",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -439,7 +425,7 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 2
       },
       "tv_audio": [
         {
@@ -455,7 +441,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-24 20:00:00",
-      "last_updated_at": "2026-07-26 13:04:00",
+      "last_updated_at": "2026-08-24 19:26:28",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
