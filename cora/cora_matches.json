@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-25 00:36:15",
+  "fetched_at_egypt": "2026-08-25 01:26:13",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -113,32 +113,6 @@
   "matches": [
     {
       "status": "RESULT",
-      "start_date_egypt": "2026-08-24 21:00:00",
-      "last_updated_at": "2026-08-24 22:54:06",
-      "competition": "الدوري الإنجليزي الممتاز",
-      "round": null,
-      "team_a": {
-        "name": "فولهام",
-        "code_name": "فولهام",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
-      },
-      "team_b": {
-        "name": "تشيلسي",
-        "code_name": "تشيلسي",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
-      },
-      "score": {
-        "team_a": 2,
-        "team_b": 3
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": {
-        "name": "كرافن كوتيج"
-      }
-    },
-    {
-      "status": "RESULT",
       "start_date_egypt": "2026-08-24 19:30:00",
       "last_updated_at": "2026-08-24 21:21:20",
       "competition": "الدوري الإسباني",
@@ -187,6 +161,32 @@
       "tv_channels": [],
       "venue": {
         "name": "لا روزاليدا"
+      }
+    },
+    {
+      "status": "RESULT",
+      "start_date_egypt": "2026-08-24 21:00:00",
+      "last_updated_at": "2026-08-24 22:54:06",
+      "competition": "الدوري الإنجليزي الممتاز",
+      "round": null,
+      "team_a": {
+        "name": "فولهام",
+        "code_name": "فولهام",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png"
+      },
+      "team_b": {
+        "name": "تشيلسي",
+        "code_name": "تشيلسي",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png"
+      },
+      "score": {
+        "team_a": 2,
+        "team_b": 3
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "كرافن كوتيج"
       }
     },
     {
@@ -1522,7 +1522,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "VG+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/fBhupqwsrjewAtVmSQNsw.jpg"
+        }
+      ],
       "venue": {
         "name": "Brann Stadion"
       }
@@ -1574,7 +1579,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Skai TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/vRN3ngrcM77T5MWKT5XSK.jpg"
+        }
+      ],
       "venue": {
         "name": "Malsovicka Arena"
       }
@@ -1709,7 +1719,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Sport TV 4",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qlOLiAxiUnlDcsFrYucvG.png"
+        }
+      ],
       "venue": {
         "name": "يوهان كرويف أرينا"
       }
@@ -1735,7 +1750,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "  TV8 Turkey",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Cbx343MRX_hCQu8ttQ0Ic.png"
+        }
+      ],
       "venue": {
         "name": "DVTK stadion"
       }
@@ -1761,7 +1781,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "RTS Sport",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/TmyoQgst7bPrX-dfQYH0y.png"
+        }
+      ],
       "venue": {
         "name": "إيه إف جي أرينا"
       }
@@ -1787,7 +1812,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Sport TV 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Alx-XQfsOCot2Aqic32yt.png"
+        }
+      ],
       "venue": {
         "name": "Generali Arena"
       }
@@ -1813,7 +1843,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "SYN Sport Viaplay",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/NiyBlxNVQakRLixqNLRQx.png"
+        }
+      ],
       "venue": {
         "name": "Banja Luka Stadium"
       }
@@ -1839,7 +1874,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "VG+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/fBhupqwsrjewAtVmSQNsw.jpg"
+        }
+      ],
       "venue": {
         "name": "فالمر"
       }
@@ -1865,7 +1905,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Max Sport 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/SfJVHXlz9buM9qN1H96d4.png"
+        }
+      ],
       "venue": {
         "name": "Stadion Rujevica"
       }
@@ -1943,7 +1988,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Arena 1 Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/H84V7IZvbYj2ymIPafk7IRE3Zb5ccxvFkMlU2dGV.png"
+        }
+      ],
       "venue": {
         "name": "بارتيزان"
       }
@@ -1968,7 +2018,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "بالايدوس"
@@ -1994,7 +2049,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "كامب نو"
