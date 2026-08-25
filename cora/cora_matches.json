@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-25 20:52:44",
+  "fetched_at_egypt": "2026-08-25 21:35:32",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -84,9 +84,9 @@
   "matches_count": 69,
   "matches": [
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-25 18:45:00",
-      "last_updated_at": "2026-08-25 20:47:59",
+      "last_updated_at": "2026-08-25 21:31:00",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -100,24 +100,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TOTOd4xZYD_hMx1pwPK86.png"
       },
       "score": {
-        "team_a": 3,
+        "team_a": 5,
         "team_b": 2
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports ENG 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6be2ixGKqc4256Wtb6LFj.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "توفيك باخراموف ستاديوم"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-25 21:00:00",
-      "last_updated_at": "2026-08-25 19:51:09",
+      "last_updated_at": "2026-08-25 21:00:21",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -131,8 +126,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pxPtNm1Hx2GC6aIMLg1rn.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -151,9 +146,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-25 21:00:00",
-      "last_updated_at": "2026-08-25 19:50:14",
+      "last_updated_at": "2026-08-25 21:32:49",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -167,8 +162,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8UxaQpw2CLkIbVb6i3Avz.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [
         {
@@ -182,9 +177,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-25 21:00:00",
-      "last_updated_at": "2026-08-25 20:02:12",
+      "last_updated_at": "2026-08-25 21:15:15",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -198,8 +193,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -291,7 +286,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 20:00:00",
-      "last_updated_at": "2026-08-25 20:50:54",
+      "last_updated_at": "2026-08-25 21:18:33",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -306,7 +301,7 @@
       },
       "score": {
         "team_a": 2,
-        "team_b": 2
+        "team_b": 3
       },
       "tv_audio": [
         {
@@ -322,7 +317,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 20:00:00",
-      "last_updated_at": "2026-08-25 20:48:49",
+      "last_updated_at": "2026-08-25 21:19:50",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -1711,7 +1706,7 @@
       "team_b": {
         "name": "أتالانتا",
         "code_name": "أتالانتا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5SVrOmKwWwrCXabwbS8LR.png"
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4CGpPM0rgwp2T8GaN-lbX.png"
       },
       "score": {
         "team_a": null,
