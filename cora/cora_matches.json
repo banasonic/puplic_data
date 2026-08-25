@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-25 20:00:08",
+  "fetched_at_egypt": "2026-08-25 20:52:44",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -86,7 +86,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 18:45:00",
-      "last_updated_at": "2026-08-25 19:52:03",
+      "last_updated_at": "2026-08-25 20:47:59",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -100,8 +100,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TOTOd4xZYD_hMx1pwPK86.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 1
+        "team_a": 3,
+        "team_b": 2
       },
       "tv_audio": [
         {
@@ -184,7 +184,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-25 21:00:00",
-      "last_updated_at": "2026-08-25 12:35:31",
+      "last_updated_at": "2026-08-25 20:02:12",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -237,9 +237,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-25 18:05:00",
-      "last_updated_at": "2026-08-25 19:10:50",
+      "last_updated_at": "2026-08-25 20:01:03",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -257,20 +257,15 @@
         "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "تطبيق ثمانية",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/09_JlIwD5HCYgmax9_F-G.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "مدينة الأمير سلطان بن عبدالعزيز الرياضية"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-25 18:10:00",
-      "last_updated_at": "2026-08-25 19:13:21",
+      "last_updated_at": "2026-08-25 20:08:02",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -287,21 +282,16 @@
         "team_a": 0,
         "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "ملعب نادي التعاون"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-25 20:00:00",
-      "last_updated_at": "2026-08-25 19:21:55",
+      "last_updated_at": "2026-08-25 20:50:54",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -315,8 +305,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8D33fH0xv4yRZ_mvT35Mt.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 2
       },
       "tv_audio": [
         {
@@ -330,9 +320,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-25 20:00:00",
-      "last_updated_at": "2026-08-25 19:15:01",
+      "last_updated_at": "2026-08-25 20:48:49",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -346,8 +336,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xkFt_WVJYpUJPpA1XtvNo.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "tv_audio": [
         {
