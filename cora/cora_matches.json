@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-25 18:13:37",
+  "fetched_at_egypt": "2026-08-25 19:07:55",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -84,9 +84,9 @@
   "matches_count": 69,
   "matches": [
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-25 18:45:00",
-      "last_updated_at": "2026-08-25 17:34:35",
+      "last_updated_at": "2026-08-25 18:55:20",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -100,8 +100,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TOTOd4xZYD_hMx1pwPK86.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_audio": [
         {
@@ -215,7 +215,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 18:00:00",
-      "last_updated_at": "2026-08-25 18:00:50",
+      "last_updated_at": "2026-08-25 19:03:11",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -229,8 +229,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [
@@ -244,7 +244,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 18:05:00",
-      "last_updated_at": "2026-08-25 18:06:45",
+      "last_updated_at": "2026-08-25 18:54:28",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -258,8 +258,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7uAvqwEaOvBj1Esi0HzuD.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [
@@ -275,7 +275,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 18:10:00",
-      "last_updated_at": "2026-08-25 18:10:46",
+      "last_updated_at": "2026-08-25 18:57:41",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
