@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-25 22:34:24",
+  "fetched_at_egypt": "2026-08-25 23:00:06",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -110,9 +110,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-25 21:00:00",
-      "last_updated_at": "2026-08-25 22:33:35",
+      "last_updated_at": "2026-08-25 22:51:34",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -129,18 +129,8 @@
         "team_a": 3,
         "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "TOD TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
-        }
-      ],
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": {
         "name": "أسبميرا"
       }
@@ -148,7 +138,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 21:00:00",
-      "last_updated_at": "2026-08-25 22:15:45",
+      "last_updated_at": "2026-08-25 22:58:14",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -162,7 +152,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8UxaQpw2CLkIbVb6i3Avz.png"
       },
       "score": {
-        "team_a": 3,
+        "team_a": 4,
         "team_b": 1
       },
       "tv_audio": [
@@ -177,9 +167,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-25 21:00:00",
-      "last_updated_at": "2026-08-25 22:07:25",
+      "last_updated_at": "2026-08-25 22:58:41",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -194,14 +184,9 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 3",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/PyMZVVF6KAk0uCaEBvL0C.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "ميستايا"
