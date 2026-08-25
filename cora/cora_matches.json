@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-25 19:07:55",
+  "fetched_at_egypt": "2026-08-25 20:00:08",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -86,7 +86,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 18:45:00",
-      "last_updated_at": "2026-08-25 18:55:20",
+      "last_updated_at": "2026-08-25 19:52:03",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -100,7 +100,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TOTOd4xZYD_hMx1pwPK86.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 1
       },
       "tv_audio": [
@@ -117,7 +117,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-25 21:00:00",
-      "last_updated_at": "2026-08-12 08:24:35",
+      "last_updated_at": "2026-08-25 19:51:09",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -153,7 +153,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-25 21:00:00",
-      "last_updated_at": "2026-08-04 12:39:58",
+      "last_updated_at": "2026-08-25 19:50:14",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -213,9 +213,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-25 18:00:00",
-      "last_updated_at": "2026-08-25 19:03:11",
+      "last_updated_at": "2026-08-25 19:51:59",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -229,22 +229,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "ORF ON",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/D0WUgXo9ARW4LViK8Vsxm.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 18:05:00",
-      "last_updated_at": "2026-08-25 18:54:28",
+      "last_updated_at": "2026-08-25 19:10:50",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -275,7 +270,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 18:10:00",
-      "last_updated_at": "2026-08-25 18:57:41",
+      "last_updated_at": "2026-08-25 19:13:21",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -306,7 +301,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-25 20:00:00",
-      "last_updated_at": "2026-07-26 13:04:00",
+      "last_updated_at": "2026-08-25 19:21:55",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -337,7 +332,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-25 20:00:00",
-      "last_updated_at": "2026-07-26 13:04:00",
+      "last_updated_at": "2026-08-25 19:15:01",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
