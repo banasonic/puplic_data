@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-25 17:24:36",
+  "fetched_at_egypt": "2026-08-25 18:13:37",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -25,7 +25,6 @@
       "الدوري الإنجليزي الدرجة السادسة",
       "الدوري البحريني الممتاز",
       "الدوري البرازيلي الدرجة الثانية",
-      "الدوري البلجيكي الدرجة الثالثة",
       "الدوري البلغاري الدرجة الثانية",
       "الدوري البوليفي",
       "الدوري التنزاني الممتاز",
@@ -33,7 +32,6 @@
       "الدوري السلفادوري",
       "الدوري السويدي الدرجة الأولى",
       "الدوري السويدي الدرجة الثالثة",
-      "الدوري السويسري الدرجة الثالثة",
       "الدوري الفرنسي الوطني",
       "الدوري الكازاخستاني الممتاز",
       "الدوري الكوري الجنوبي",
@@ -47,12 +45,10 @@
       "الدوري النرويجي الدرجة الثانية",
       "الرابطة الجزائرية المحترفة الأولى",
       "بطولة اتحاد آسيان لكرة القدم",
-      "دوري البوسنة والهرسك - الدرجة الثانية",
       "دوري الدرجة الأولى السعودي للمحترفين",
       "دوري الدرجة الثالثة الأرجنتيني",
       "دوري الدرجة الثانية الأرجنتيني",
       "دوري الدرجة الثانية الأسترالي",
-      "دوري الدرجة الرابعة الأرجنتيني",
       "دوري السوبر الماليزي",
       "دوري الولايات المتحدة",
       "دوري الولايات المتحدة  الدرجة الثالثة",
@@ -90,7 +86,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-25 18:45:00",
-      "last_updated_at": "2026-08-13 13:26:03",
+      "last_updated_at": "2026-08-25 17:34:35",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -217,9 +213,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-25 18:00:00",
-      "last_updated_at": "2026-08-13 20:41:36",
+      "last_updated_at": "2026-08-25 18:00:50",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -233,8 +229,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -246,9 +242,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-25 18:05:00",
-      "last_updated_at": "2026-08-25 17:18:53",
+      "last_updated_at": "2026-08-25 18:06:45",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -262,8 +258,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7uAvqwEaOvBj1Esi0HzuD.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -277,9 +273,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-25 18:10:00",
-      "last_updated_at": "2026-08-25 17:15:22",
+      "last_updated_at": "2026-08-25 18:10:46",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -293,8 +289,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RMFlWbfYHStXNf2R3SdGx.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -1349,7 +1345,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Arena 2 Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/JRdtH7rnGc6WYGEh0PuR97Mg3gBXVZPfjehYllZ5.png"
+        }
+      ],
       "venue": {
         "name": "Stadion Strelnice"
       }
