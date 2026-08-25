@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-25 10:20:37",
+  "fetched_at_egypt": "2026-08-25 11:16:54",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -1318,7 +1318,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Club Channel",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9ftJm14M5OTTq-_E6LoDJ.png"
+        }
+      ],
       "venue": {
         "name": "Savon Sanomat Areena"
       }
@@ -1525,7 +1530,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Club Channel",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9ftJm14M5OTTq-_E6LoDJ.png"
+        }
+      ],
       "venue": {
         "name": "باركن"
       }
