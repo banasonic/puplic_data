@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-25 21:35:32",
+  "fetched_at_egypt": "2026-08-25 22:34:24",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -112,7 +112,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 21:00:00",
-      "last_updated_at": "2026-08-25 21:00:21",
+      "last_updated_at": "2026-08-25 22:33:35",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -126,7 +126,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pxPtNm1Hx2GC6aIMLg1rn.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 3,
         "team_b": 0
       },
       "tv_audio": [
@@ -148,7 +148,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 21:00:00",
-      "last_updated_at": "2026-08-25 21:32:49",
+      "last_updated_at": "2026-08-25 22:15:45",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -162,7 +162,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8UxaQpw2CLkIbVb6i3Avz.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 3,
         "team_b": 1
       },
       "tv_audio": [
@@ -179,7 +179,7 @@
     {
       "status": "LIVE",
       "start_date_egypt": "2026-08-25 21:00:00",
-      "last_updated_at": "2026-08-25 21:15:15",
+      "last_updated_at": "2026-08-25 22:07:25",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -284,9 +284,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-25 20:00:00",
-      "last_updated_at": "2026-08-25 21:18:33",
+      "last_updated_at": "2026-08-25 22:00:26",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -300,24 +300,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8D33fH0xv4yRZ_mvT35Mt.png"
       },
       "score": {
-        "team_a": 2,
+        "team_a": 3,
         "team_b": 3
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "اس اتش جي ارينا"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-25 20:00:00",
-      "last_updated_at": "2026-08-25 21:19:50",
+      "last_updated_at": "2026-08-25 22:11:10",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -332,14 +327,9 @@
       },
       "score": {
         "team_a": 2,
-        "team_b": 0
+        "team_b": 3
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "ملعب الأمير محمد بن فهد"
@@ -460,6 +450,10 @@
       },
       "tv_audio": [
         {
+          "name": "beIN Sports Mena 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/PyMZVVF6KAk0uCaEBvL0C.png"
+        },
+        {
           "name": "beIN SPORTS CONNECT",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
         }
@@ -552,7 +546,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport Plus",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2WIigj6BGnenxfPD1-XgA.png"
+        }
+      ],
       "venue": {
         "name": "استاد الجيش ببرج العرب"
       }
@@ -578,7 +577,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
+        }
+      ],
       "venue": {
         "name": "ستاد هيئة قناة السويس الجديد"
       }
@@ -604,7 +608,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
+        }
+      ],
       "venue": {
         "name": "بتروسبورت"
       }
