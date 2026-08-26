@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-26 12:09:09",
+  "fetched_at_egypt": "2026-08-26 13:04:11",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -1491,7 +1491,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Club Channel",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9ftJm14M5OTTq-_E6LoDJ.png"
+        }
+      ],
       "venue": {
         "name": "سكونتو"
       }
@@ -1734,7 +1739,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "arena sport 6",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Earcj9ETMa7RuyO0YzQ6FsqYx9eK4zkh0uTSXyEn.png"
+        }
+      ],
       "venue": {
         "name": "Easter Road Stadium"
       }
@@ -1760,7 +1770,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "NIFL TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/wYudT2vvwLkTUuksTMp_-.png"
+        }
+      ],
       "venue": {
         "name": "Inver Park"
       }
@@ -1879,7 +1894,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport Plus",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2WIigj6BGnenxfPD1-XgA.png"
+        }
+      ],
       "venue": {
         "name": "ستاد القاهرة الدولي"
       }
@@ -1905,7 +1925,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
+        }
+      ],
       "venue": {
         "name": "ستاد المقاولون العرب"
       }
@@ -1931,7 +1956,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
+        }
+      ],
       "venue": {
         "name": "ستاد الدفاع الجوي"
       }
