@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-26 16:21:20",
+  "fetched_at_egypt": "2026-08-26 18:03:06",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -292,7 +292,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-26 18:45:00",
-      "last_updated_at": "2026-08-19 01:27:25",
+      "last_updated_at": "2026-08-26 17:32:58",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -352,9 +352,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-08-26 16:00:00",
-      "last_updated_at": "2026-08-26 16:18:55",
+      "last_updated_at": "2026-08-26 18:00:42",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -372,12 +372,7 @@
         "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport Plus",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2WIigj6BGnenxfPD1-XgA.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "استاد الجيش ببرج العرب"
       }
@@ -480,9 +475,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-08-26 18:00:00",
-      "last_updated_at": "2026-08-11 13:32:18",
+      "last_updated_at": "2026-08-26 18:01:13",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -496,8 +491,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UNE1PU-1qDph-M9KNHyf4.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -679,7 +674,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-26 18:00:00",
-      "last_updated_at": "2026-08-04 19:36:43",
+      "last_updated_at": "2026-08-26 17:16:26",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
