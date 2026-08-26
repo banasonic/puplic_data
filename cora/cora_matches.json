@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-26 13:59:25",
+  "fetched_at_egypt": "2026-08-26 15:10:16",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -956,7 +956,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-27 20:00:00",
-      "last_updated_at": "2026-08-14 14:08:23",
+      "last_updated_at": "2026-08-26 13:14:09",
       "competition": "التصفيات المؤهلة للدوري الأوروبي",
       "round": null,
       "team_a": {
@@ -1328,7 +1328,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-27 19:00:00",
-      "last_updated_at": "2026-08-14 13:02:03",
+      "last_updated_at": "2026-08-26 13:05:45",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -1566,7 +1566,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-27 20:00:00",
-      "last_updated_at": "2026-08-14 13:09:24",
+      "last_updated_at": "2026-08-26 13:19:34",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -1690,7 +1690,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-27 20:45:00",
-      "last_updated_at": "2026-08-14 13:15:38",
+      "last_updated_at": "2026-08-26 13:24:50",
       "competition": "تصفيات دوري المؤتمر الأوروبي",
       "round": null,
       "team_a": {
@@ -1845,7 +1845,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-27 21:00:00",
-      "last_updated_at": "2026-08-24 21:00:08",
+      "last_updated_at": "2026-08-26 12:57:57",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -2186,7 +2186,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
+        }
+      ],
       "venue": {
         "name": "بتروسبورت"
       }
@@ -2212,7 +2217,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport Plus",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2WIigj6BGnenxfPD1-XgA.png"
+        }
+      ],
       "venue": {
         "name": "ستاد هيئة قناة السويس الجديد"
       }
@@ -2238,7 +2248,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
+        }
+      ],
       "venue": {
         "name": "استاد الإسكندرية"
       }
@@ -2264,7 +2279,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "On Sport 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
+        }
+      ],
       "venue": {
         "name": "ستاد السويس"
       }
