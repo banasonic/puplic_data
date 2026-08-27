@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-08-27 03:01:36",
+  "fetched_at_egypt": "2026-08-27 13:59:05",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -32,6 +32,7 @@
       "الدوري الأوكراني الممتاز",
       "الدوري الأيرلندي الدرجة الأولى",
       "الدوري الأيرلندي الممتاز",
+      "الدوري الأيسلندي",
       "الدوري الأيسلندي الدرجة الثانية",
       "الدوري الإسباني الدرجة الثالثة",
       "الدوري الإسباني الدرجة الثانية",
@@ -159,6 +160,7 @@
       "دوري السوبر الأمريكي للسيدات",
       "دوري السوبر السويسري",
       "دوري السوبر الصيني",
+      "دوري السوبر الكوسوفي",
       "دوري السوبر الماليزي",
       "دوري السوبر اليوناني",
       "دوري المحترفين الإيراني",
@@ -178,6 +180,7 @@
       "دوري جواتيمالا",
       "دوري سان مارينو",
       "دوري كوستاريكا",
+      "دوري كوستاريكا الدرجة الثانية",
       "دوري مقدونيا الشمالية",
       "دوري مونتينيجرو",
       "دوري نجوم العراق",
@@ -872,7 +875,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "VeikkausTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/u8Zlpb9KottXMZ_tacliK.png"
+        }
+      ],
       "venue": {
         "name": "Estadi de la FAF"
       }
@@ -1433,7 +1441,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-28 21:00:00",
-      "last_updated_at": "2026-08-25 21:00:08",
+      "last_updated_at": "2026-08-27 11:04:46",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -1464,7 +1472,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-28 19:00:00",
-      "last_updated_at": "2026-08-25 19:00:08",
+      "last_updated_at": "2026-08-27 10:59:53",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -1495,7 +1503,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-28 21:30:00",
-      "last_updated_at": "2026-08-25 22:00:08",
+      "last_updated_at": "2026-08-27 11:01:02",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -1526,7 +1534,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-28 20:30:00",
-      "last_updated_at": "2026-08-25 23:16:19",
+      "last_updated_at": "2026-08-27 11:07:40",
       "competition": "الدوري الألماني",
       "round": null,
       "team_a": {
@@ -1557,7 +1565,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-28 20:45:00",
-      "last_updated_at": "2026-08-25 21:00:08",
+      "last_updated_at": "2026-08-27 11:11:33",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -1601,7 +1609,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-08-28 20:45:00",
-      "last_updated_at": "2026-08-25 21:00:08",
+      "last_updated_at": "2026-08-27 11:14:15",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
