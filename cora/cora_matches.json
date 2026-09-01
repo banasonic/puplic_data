@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-01 14:44:03",
+  "fetched_at_egypt": "2026-09-01 19:15:21",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -30,12 +30,10 @@
       "الدوري الإنجليزي الدرجة الثانية",
       "الدوري الإنجليزي الدرجة الرابعة",
       "الدوري الإنجليزي الدرجة السادسة",
-      "الدوري البحريني الممتاز",
       "الدوري البرازيلي",
       "الدوري البرازيلي الدرجة الثانية",
       "الدوري البرازيلي الدرجة الرابعة",
       "الدوري البلجيكي",
-      "الدوري البلجيكي الدرجة الثالثة",
       "الدوري البلغاري",
       "الدوري البلغاري الدرجة الثانية",
       "الدوري البولندي الممتاز",
@@ -46,38 +44,29 @@
       "الدوري السويدي الدرجة الأولى",
       "الدوري السويدي الممتاز",
       "الدوري الفرنسي الوطني",
-      "الدوري الفنزويلي الدرجة الثانية",
-      "الدوري الكرواتي الدرجة الثانية",
       "الدوري الكندي الدرجة الأولى",
       "الدوري الكولومبي",
       "الدوري الكولومبي الدرجة الثانية",
       "الدوري الكويتي الممتاز",
-      "الدوري الكيني الممتاز",
       "الدوري الليتواني",
-      "الدوري المالطي الممتاز",
       "الدوري المجري",
       "الدوري المصري الدرجة الثانية",
       "الدوري المكسيكي الدرجة الثانية",
       "الدوري النرويجي الدرجة الثالثة",
       "الدوري النرويجي للسيدات",
       "الدوري النمساوي الممتاز",
-      "الدوري الياباني الدرجة الأولى",
       "الدوري الياباني الممتاز",
       "الرابطة الجزائرية المحترفة الأولى",
       "السوبر القبرصي",
       "دوري البوسنة والهرسك",
-      "دوري البوسنة والهرسك - الدرجة الثانية",
       "دوري التحدي السويسري - الدرجة الثانية",
-      "دوري الدرجة الأولى السعودي للمحترفين",
       "دوري الدرجة الثانية الأرجنتيني",
-      "دوري الدرجة الثانية الأسترالي",
       "دوري السوبر السويسري",
       "دوري المحترفين الإيراني",
       "دوري الولايات المتحدة",
       "دوري الولايات المتحدة  الدرجة الثالثة",
       "دوري باراجواي",
       "دوري باراجواي الدرجة الثانية",
-      "دوري بوتسوانا",
       "دوري بيرو الممتاز",
       "دوري بيلاروسيا الممتاز",
       "دوري تشيلي",
@@ -88,7 +77,6 @@
       "دوري نجوم العراق",
       "دوري نجوم بنك الدوحة",
       "كأس الأرجنتين",
-      "كأس الإتحاد الإنجليزي للأندية الهواة",
       "كأس الاتحاد البولندي",
       "كأس البرازيل",
       "كأس التحدي الإسكتلندي",
@@ -114,9 +102,9 @@
   "matches_count": 30,
   "matches": [
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-01 18:00:00",
-      "last_updated_at": "2026-08-20 13:07:24",
+      "last_updated_at": "2026-09-01 19:04:06",
       "competition": "كأس إيطاليا",
       "round": null,
       "team_a": {
@@ -130,8 +118,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FnmfMzvcu_32_RynNiPom.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_audio": [
         {
@@ -213,9 +201,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-01 16:00:00",
-      "last_updated_at": "2026-08-20 17:07:34",
+      "last_updated_at": "2026-09-01 18:04:06",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -229,24 +217,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5xPmFysmpvO-CKasFAT1y.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport Max",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "استاد غزل المحلة"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-01 16:00:00",
-      "last_updated_at": "2026-08-07 07:26:35",
+      "last_updated_at": "2026-09-01 18:03:07",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -260,24 +243,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ef9WfeZeEJtMHcjRy98D6.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport Plus",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2WIigj6BGnenxfPD1-XgA.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "ستاد جهاز الرياضة العسكري"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-01 19:00:00",
-      "last_updated_at": "2026-08-07 07:26:35",
+      "last_updated_at": "2026-09-01 19:03:32",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -291,8 +269,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lpn0d_GGdMUzrit3mGhRX.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -306,9 +284,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-01 18:00:00",
-      "last_updated_at": "2026-08-13 20:45:26",
+      "last_updated_at": "2026-09-01 19:07:46",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -322,8 +300,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/H73_IYDjJY_FgLLkgUHni.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -337,7 +315,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-01 20:00:00",
-      "last_updated_at": "2026-07-26 15:46:28",
+      "last_updated_at": "2026-09-01 19:11:08",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
