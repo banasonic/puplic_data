@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-01 19:15:21",
+  "fetched_at_egypt": "2026-09-01 22:07:49",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -102,9 +102,9 @@
   "matches_count": 30,
   "matches": [
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-01 18:00:00",
-      "last_updated_at": "2026-09-01 19:04:06",
+      "last_updated_at": "2026-09-01 19:53:56",
       "competition": "كأس إيطاليا",
       "round": null,
       "team_a": {
@@ -121,24 +121,14 @@
         "team_a": 0,
         "team_b": 2
       },
-      "tv_audio": [
-        {
-          "name": "MBC Shahid",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "arena sport 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/YIB7hkPNCtSIaYr3u7Dbl8Trw5eMkQ0G9HWdQEQC.png"
-        }
-      ],
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-01 21:00:00",
-      "last_updated_at": "2026-08-20 13:04:32",
+      "last_updated_at": "2026-09-01 22:06:44",
       "competition": "كأس إيطاليا",
       "round": null,
       "team_a": {
@@ -152,8 +142,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ds3Kt9BS4KLSUsePs9p0X.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_audio": [
         {
@@ -170,9 +160,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-01 20:45:00",
-      "last_updated_at": "2026-06-29 12:34:36",
+      "last_updated_at": "2026-09-01 22:01:30",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -186,8 +176,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EmDXkZ5B61SrXUUTUPV3X.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 5
       },
       "tv_audio": [],
       "tv_channels": [
@@ -203,7 +193,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-09-01 16:00:00",
-      "last_updated_at": "2026-09-01 18:04:06",
+      "last_updated_at": "2026-09-01 19:14:55",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -229,7 +219,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-09-01 16:00:00",
-      "last_updated_at": "2026-09-01 18:03:07",
+      "last_updated_at": "2026-09-01 19:25:32",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -253,9 +243,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-01 19:00:00",
-      "last_updated_at": "2026-09-01 19:03:32",
+      "last_updated_at": "2026-09-01 21:19:06",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -273,20 +263,15 @@
         "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "ستاد السلام"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-01 18:00:00",
-      "last_updated_at": "2026-09-01 19:07:46",
+      "last_updated_at": "2026-09-01 19:52:36",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -300,22 +285,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/H73_IYDjJY_FgLLkgUHni.png"
       },
       "score": {
-        "team_a": 2,
+        "team_a": 4,
         "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Sunrise TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/hGcLgZnMyrurC2dFTYoth.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-01 20:00:00",
-      "last_updated_at": "2026-09-01 19:11:08",
+      "last_updated_at": "2026-09-01 21:59:15",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -329,15 +309,10 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jDuqwmBeZQnXQpvzMJZLp.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "استاد الأمير فيصل بن فهد بن عبدالعزيز"
@@ -715,7 +690,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Real Madrid TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/xXbQRdqdlWYgZEVKHcGnw.jpg"
+        }
+      ],
       "venue": null
     },
     {
