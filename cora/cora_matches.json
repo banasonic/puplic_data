@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-02 20:00:56",
+  "fetched_at_egypt": "2026-09-02 23:13:55",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -201,7 +201,7 @@
     {
       "status": "RESULT",
       "start_date_egypt": "2026-09-02 18:00:00",
-      "last_updated_at": "2026-09-02 19:55:23",
+      "last_updated_at": "2026-09-02 20:42:19",
       "competition": "كأس إيطاليا",
       "round": null,
       "team_a": {
@@ -223,9 +223,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-02 20:45:00",
-      "last_updated_at": "2026-06-29 12:29:04",
+      "last_updated_at": "2026-09-02 22:37:43",
       "competition": "كأس ألمانيا",
       "round": null,
       "team_a": {
@@ -239,16 +239,11 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 4
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Abu Dhabi Sports 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gCN0g4VrtGNWvZ3DwTVEx.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Stadium at the Bremer Brucke"
       }
@@ -280,9 +275,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-02 19:00:00",
-      "last_updated_at": "2026-09-02 19:50:44",
+      "last_updated_at": "2026-09-02 21:07:10",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -297,23 +292,18 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 2
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "استاد الإسكندرية"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-02 19:00:00",
-      "last_updated_at": "2026-09-02 19:47:37",
+      "last_updated_at": "2026-09-02 20:57:37",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -327,24 +317,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/04HM4cw9TEvfPz20QVCyI.png"
       },
       "score": {
-        "team_a": 1,
+        "team_a": 2,
         "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport Max",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "ستاد هيئة قناة السويس الجديد"
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-02 18:30:00",
-      "last_updated_at": "2026-09-02 19:37:08",
+      "last_updated_at": "2026-09-02 21:22:30",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -358,22 +343,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nDpWUBJ5YF7PhitzIRI8E.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 0
+        "team_a": 3,
+        "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Sunrise TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/hGcLgZnMyrurC2dFTYoth.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-02 18:30:00",
-      "last_updated_at": "2026-09-02 19:33:05",
+      "last_updated_at": "2026-09-02 21:03:09",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -387,22 +367,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/byLfqdBAJyepmk88Eeh8n.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 0
+        "team_a": 5,
+        "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Globe TV Ghana",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Q_td3HOIDgYe8jFxJyV93.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-02 18:45:00",
-      "last_updated_at": "2026-09-02 19:50:11",
+      "last_updated_at": "2026-09-02 20:36:44",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -416,22 +391,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XTh3Z_bQEGR7UlEtW5QpL.png"
       },
       "score": {
-        "team_a": 2,
+        "team_a": 3,
         "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "RTS Sport",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/TmyoQgst7bPrX-dfQYH0y.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-02 19:00:00",
-      "last_updated_at": "2026-09-02 19:45:32",
+      "last_updated_at": "2026-09-02 20:50:51",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -445,22 +415,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fdDZSbE4B5fm29f_4YsSq.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Sport LIVE",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/eKGXOSfDJGnmDlSHku_K7.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-02 19:00:00",
-      "last_updated_at": "2026-09-02 19:46:07",
+      "last_updated_at": "2026-09-02 20:49:56",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -475,16 +440,16 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-02 20:00:00",
-      "last_updated_at": "2026-08-13 20:43:13",
+      "last_updated_at": "2026-09-02 21:50:05",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -498,22 +463,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aLY6l6FPnaVgJvV31_QeC.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Ketnet",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/duiYksFwUBTszk-eCQt5V.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-02 20:00:00",
-      "last_updated_at": "2026-09-02 20:00:21",
+      "last_updated_at": "2026-09-02 21:56:17",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -527,22 +487,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oiPxzUR8VEx4KbSHJ04hw.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 2,
+        "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Real Madrid TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/xXbQRdqdlWYgZEVKHcGnw.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-02 20:30:00",
-      "last_updated_at": "2026-08-13 20:45:26",
+      "last_updated_at": "2026-09-02 22:18:12",
       "competition": "التصفيات المؤهلة لدوري أبطال أوروبا للسيدات",
       "round": null,
       "team_a": {
@@ -556,16 +511,11 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aE9iSVEDvQhePJrHQ-1Hm.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "ORF ON",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/D0WUgXo9ARW4LViK8Vsxm.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
