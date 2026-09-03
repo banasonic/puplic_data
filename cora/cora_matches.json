@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-03 08:26:43",
+  "fetched_at_egypt": "2026-09-03 13:40:21",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -210,9 +210,9 @@
   "daily_matches_count": {
     "2026-09-03": 8,
     "2026-09-04": 16,
-    "2026-09-05": 137
+    "2026-09-05": 136
   },
-  "matches_count": 161,
+  "matches_count": 160,
   "matches": [
     {
       "status": "FIXTURE",
@@ -288,12 +288,12 @@
       "round": null,
       "team_a": {
         "name": "باليرمو",
-        "code_name": "PAL",
+        "code_name": "بالرمو",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/L7-Wx8KST2Vblm06HCTOB.png"
       },
       "team_b": {
         "name": "مانتوفا",
-        "code_name": "MAN",
+        "code_name": "مانتوفا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8zw7KdKrgEAUn5xsyC9R3.png"
       },
       "score": {
@@ -1797,6 +1797,30 @@
     },
     {
       "status": "FIXTURE",
+      "start_date_egypt": "2026-09-05 14:30:00",
+      "last_updated_at": "2026-09-03 08:15:51",
+      "competition": "تصفيات كأس الاتحاد الإنجليزي",
+      "round": null,
+      "team_a": {
+        "name": "بورغيس هيل تاون",
+        "code_name": "BHT",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pcegk5xpa63TPICcoUu-e.png"
+      },
+      "team_b": {
+        "name": "جيرسي بولز",
+        "code_name": "JBU",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qIxB3JlSjQDEmM9lqDSyQ.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
       "start_date_egypt": "2026-09-05 15:00:00",
       "last_updated_at": "2026-08-29 09:58:42",
       "competition": "تصفيات كأس الاتحاد الإنجليزي",
@@ -2242,30 +2266,6 @@
         "name": "نونيتون",
         "code_name": "NUN",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/A0QC4sw8CexMfgv1yUyTk.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-05 16:00:00",
-      "last_updated_at": "2026-08-25 18:12:42",
-      "competition": "تصفيات كأس الاتحاد الإنجليزي",
-      "round": null,
-      "team_a": {
-        "name": "بورغيس هيل تاون",
-        "code_name": "BHT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pcegk5xpa63TPICcoUu-e.png"
-      },
-      "team_b": {
-        "name": "جيرسي بولز",
-        "code_name": "JBU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qIxB3JlSjQDEmM9lqDSyQ.png"
       },
       "score": {
         "team_a": null,
@@ -3610,30 +3610,6 @@
         "name": "بريستويتش هيز",
         "code_name": "PEH",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WDV3pVoCT_Lc-M1TbpiMM.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-05 16:00:00",
-      "last_updated_at": "2026-08-25 18:15:06",
-      "competition": "تصفيات كأس الاتحاد الإنجليزي",
-      "round": null,
-      "team_a": {
-        "name": "ساوثال",
-        "code_name": "SOU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1qFtaG7Hg9XOmY3zft7SM.png"
-      },
-      "team_b": {
-        "name": "Cobham",
-        "code_name": "COB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tmrz4Zi9gvPN64Hu2LLWS.png"
       },
       "score": {
         "team_a": null,
