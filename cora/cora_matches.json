@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-10 08:36:39",
+  "fetched_at_egypt": "2026-09-10 14:08:45",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -39,6 +39,7 @@
       "الدوري الإسكتلندي الدرجة الأولى",
       "الدوري الإسكتلندي الدرجة الثالثة",
       "الدوري الإسكتلندي الدرجة الثانية",
+      "الدوري الإكوادوري",
       "الدوري الإكوادوري الدرجة الثانية",
       "الدوري الإنجليزي الدرجة الأولى",
       "الدوري الإنجليزي الدرجة الثالثة",
@@ -184,6 +185,7 @@
       "دوري جواتيمالا",
       "دوري سان مارينو",
       "دوري كوستاريكا",
+      "دوري كوستاريكا الدرجة الثانية",
       "دوري لوكسومبورج الوطني",
       "دوري مقدونيا الشمالية",
       "دوري مونتينيجرو",
@@ -707,8 +709,8 @@
       },
       "tv_audio": [
         {
-          "name": "beIN Sports Mena 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
+          "name": "beIN Sports Mena 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/PyMZVVF6KAk0uCaEBvL0C.png"
         }
       ],
       "tv_channels": [],
@@ -738,8 +740,8 @@
       },
       "tv_audio": [
         {
-          "name": "beIN Sports Mena 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
+          "name": "beIN Sports Mena 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
         }
       ],
       "tv_channels": [],
@@ -769,8 +771,8 @@
       },
       "tv_audio": [
         {
-          "name": "beIN Sports Mena 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
+          "name": "beIN Sports Mena 4",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/vSKlM172dkwkGI1vhqxw-.png"
         }
       ],
       "tv_channels": [],
@@ -800,8 +802,8 @@
       },
       "tv_audio": [
         {
-          "name": "beIN Sports Mena 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
+          "name": "beIN Sports Mena 5",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ER4v9bo7dNL95x8ax16KW.png"
         }
       ],
       "tv_channels": [],
@@ -833,6 +835,10 @@
         {
           "name": "beIN Sports Mena 1",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
+        },
+        {
+          "name": "beIN Sports ENG 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Zv_kGHtU20fOxPeRMEvUd.png"
         }
       ],
       "tv_channels": [],
@@ -864,6 +870,10 @@
         {
           "name": "beIN Sports Mena 1",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
+        },
+        {
+          "name": "beIN Sports ENG 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Zv_kGHtU20fOxPeRMEvUd.png"
         }
       ],
       "tv_channels": [],
@@ -895,6 +905,10 @@
         {
           "name": "beIN Sports Mena 1",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
+        },
+        {
+          "name": "beIN Sports ENG 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Zv_kGHtU20fOxPeRMEvUd.png"
         }
       ],
       "tv_channels": [],
@@ -922,7 +936,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 9",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Iz8fQ7oNELLocwLd3qK96.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "إل ساردينيرو"
@@ -948,7 +967,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 9",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Iz8fQ7oNELLocwLd3qK96.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "آل سادار"
@@ -974,7 +998,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "سان ماميس"
@@ -1000,7 +1029,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "سانتياجو بيرنابيو"
@@ -1026,7 +1060,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "إس جي إل أرينا"
@@ -1052,7 +1091,16 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Action",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/eCZ0uJqj28EfwmfADiDxK.png"
+        },
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "سيجنال إيدونا بارك"
@@ -1078,7 +1126,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "Europa-Park Stadion"
@@ -1104,7 +1157,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "راين نيكار أرينا"
@@ -1130,7 +1188,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "كوفاسه أرينا"
@@ -1156,7 +1219,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "رين إينيرجي ستاديون"
@@ -1314,7 +1382,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 8",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/paPG39fLrmobdkH3I3GEP.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "Stade de la Meinau"
@@ -1340,7 +1413,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 5",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ER4v9bo7dNL95x8ax16KW.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "ابي ديشان"
@@ -1366,7 +1444,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 9",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Iz8fQ7oNELLocwLd3qK96.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "Stade Oceane"
@@ -1392,7 +1475,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 6",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2TJX17Q7L1CmylRf5kSPQ.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "Stade du Moustoir"
@@ -1418,7 +1506,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 4",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/vSKlM172dkwkGI1vhqxw-.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "Stade Jean Bouin"
@@ -1636,7 +1729,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "Thmanyah",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "ملعب نادي التعاون"
@@ -1662,7 +1760,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "Thmanyah",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "ملعب الأمير محمد بن فهد"
@@ -1688,7 +1791,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "Thmanyah",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
+        }
+      ],
       "tv_channels": [],
       "venue": {
         "name": "اس اتش جي ارينا"
