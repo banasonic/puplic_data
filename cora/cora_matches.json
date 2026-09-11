@@ -1,9 +1,8 @@
 {
-  "fetched_at_egypt": "2026-09-11 15:47:11",
+  "fetched_at_egypt": "2026-09-11 19:40:31",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
-      "التصفيات المؤهلة 2 لدوري الولايات الأسترالي",
       "الدوري الألماني",
       "الدوري الإسباني",
       "الدوري الإنجليزي الممتاز",
@@ -15,7 +14,6 @@
       "الدوري  التركي الدرجة الأولى",
       "الدوري  التركي الدرجة الثانية",
       "الدوري الأذربيجاني",
-      "الدوري الأردني للمحترفين",
       "الدوري الأرميني",
       "الدوري الأستوني",
       "الدوري الأستوني الدرجة الثانية",
@@ -42,7 +40,6 @@
       "الدوري الإسكتلندي الدرجة الثالثة",
       "الدوري الإسكتلندي الدرجة الثانية",
       "الدوري الإكوادوري",
-      "الدوري الإكوادوري الدرجة الثانية",
       "الدوري الإنجليزي الدرجة الأولى",
       "الدوري الإنجليزي الدرجة الثالثة",
       "الدوري الإنجليزي الدرجة الثانية",
@@ -55,7 +52,6 @@
       "الدوري الإيطالي الدرجة الرابعة",
       "الدوري الإيطالي للشباب",
       "الدوري الاحتياطي الممتاز 1",
-      "الدوري البحريني الممتاز",
       "الدوري البرازيلي",
       "الدوري البرازيلي الدرجة الثالثة",
       "الدوري البرازيلي الدرجة الثانية",
@@ -74,7 +70,6 @@
       "الدوري التايلندي",
       "الدوري التركي الممتاز",
       "الدوري التنزاني الممتاز",
-      "الدوري الجورجي الدرجة الثانية",
       "الدوري الجورجي الممتاز",
       "الدوري الدنماركي",
       "الدوري الدنماركي للسيدات",
@@ -98,7 +93,6 @@
       "الدوري الفرنسي الدرجة الثانية",
       "الدوري الفرنسي الدرجة الرابعة",
       "الدوري الفرنسي الوطني",
-      "الدوري الفلبيني",
       "الدوري الفنزويلي الدرجة الثانية",
       "الدوري الفنزويلي الممتاز",
       "الدوري الفنلندي",
@@ -148,7 +142,6 @@
       "دوري أندورا",
       "دوري أوروجواي الدرجة الثانية",
       "دوري أوروجواي الممتاز",
-      "دوري أيرلندا الشمالية الدرجة الأولى",
       "دوري أيرلندا الشمالية الممتاز",
       "دوري البوسنة والهرسك",
       "دوري البوسنة والهرسك - الدرجة الثانية",
@@ -163,7 +156,6 @@
       "دوري الدرجة الثانية الأسترالي",
       "دوري الدرجة الثانية الدنماركي",
       "دوري الدرجة الرابعة الأرجنتيني",
-      "دوري الدرجة الرابعة الأسترالي",
       "دوري السوبر الألباني",
       "دوري السوبر الأمريكي للسيدات",
       "دوري السوبر الإنجليزي للسيدات",
@@ -179,7 +171,6 @@
       "دوري الولايات المتحدة  الدرجة الثالثة",
       "دوري باراجواي",
       "دوري باراجواي الدرجة الثانية",
-      "دوري بوتسوانا",
       "دوري بيرو الدرجة الثانية",
       "دوري بيرو الممتاز",
       "دوري بيلاروسيا الممتاز",
@@ -207,10 +198,10 @@
   },
   "daily_matches_count": {
     "2026-09-11": 8,
-    "2026-09-12": 36,
+    "2026-09-12": 33,
     "2026-09-13": 17
   },
-  "matches_count": 61,
+  "matches_count": 58,
   "matches": [
     {
       "status": "FIXTURE",
@@ -246,7 +237,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-11 20:30:00",
-      "last_updated_at": "2026-09-10 15:30:52",
+      "last_updated_at": "2026-09-11 19:16:47",
       "competition": "الدوري الألماني",
       "round": null,
       "team_a": {
@@ -382,9 +373,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-11 17:25:00",
-      "last_updated_at": "2026-08-31 13:21:32",
+      "last_updated_at": "2026-09-11 19:26:12",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -398,24 +389,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uA2inOzfvm_Plu1FmsC1o.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 3
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "مدينة الأمير سعود بن جلوي الرياضية"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-11 17:45:00",
-      "last_updated_at": "2026-08-31 13:21:33",
+      "last_updated_at": "2026-09-11 19:34:13",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -429,8 +415,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/h4um8LbVcB4zN_E2ern6K.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 3
       },
       "tv_audio": [
         {
@@ -446,7 +432,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-11 20:00:00",
-      "last_updated_at": "2026-08-31 13:21:33",
+      "last_updated_at": "2026-09-11 19:34:22",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -477,7 +463,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-12 16:00:00",
-      "last_updated_at": "2026-09-09 16:00:09",
+      "last_updated_at": "2026-09-11 15:02:14",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -508,7 +494,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-12 16:00:00",
-      "last_updated_at": "2026-09-09 16:00:09",
+      "last_updated_at": "2026-09-11 15:04:43",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -570,7 +556,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-12 16:00:00",
-      "last_updated_at": "2026-09-09 16:00:09",
+      "last_updated_at": "2026-09-11 15:12:58",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -601,7 +587,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-12 16:00:00",
-      "last_updated_at": "2026-09-09 16:00:10",
+      "last_updated_at": "2026-09-11 15:12:42",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -636,7 +622,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-12 18:30:00",
-      "last_updated_at": "2026-09-09 19:00:07",
+      "last_updated_at": "2026-09-11 15:21:42",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -671,7 +657,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-12 21:00:00",
-      "last_updated_at": "2026-09-09 21:00:09",
+      "last_updated_at": "2026-09-11 15:22:50",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -1303,78 +1289,6 @@
       "venue": {
         "name": "Stade Jean Bouin"
       }
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-12 09:00:00",
-      "last_updated_at": "2026-09-01 23:44:23",
-      "competition": "التصفيات المؤهلة 2 لدوري الولايات الأسترالي",
-      "round": null,
-      "team_a": {
-        "name": "آرمادايل",
-        "code_name": "ARM",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5vLUz43MeQvqPOFsMMWWj.png"
-      },
-      "team_b": {
-        "name": "Joondalup City FC",
-        "code_name": "JOC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-12 09:00:00",
-      "last_updated_at": "2026-09-01 23:44:23",
-      "competition": "التصفيات المؤهلة 2 لدوري الولايات الأسترالي",
-      "round": null,
-      "team_a": {
-        "name": "Nedlands",
-        "code_name": "NED",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "ماندورا سيتي",
-        "code_name": "MAC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-12 10:30:00",
-      "last_updated_at": "2026-09-01 23:44:19",
-      "competition": "التصفيات المؤهلة 2 لدوري الولايات الأسترالي",
-      "round": null,
-      "team_a": {
-        "name": "جورج سانتس",
-        "code_name": "STG",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TUWZ1X_7RrX2Fj3hs86WX.png"
-      },
-      "team_b": {
-        "name": "نورثن تايغرز",
-        "code_name": "NRT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/z76xnITRomVcbTyjju1mf.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
     },
     {
       "status": "FIXTURE",
