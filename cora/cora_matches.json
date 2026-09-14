@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-14 16:22:59",
+  "fetched_at_egypt": "2026-09-14 21:34:11",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -8,7 +8,6 @@
       "الدوري الإنجليزي الممتاز",
       "الدوري الإيطالي",
       "الدوري المصري الممتاز",
-      "تصفيات كأس الاتحاد الإنجليزي",
       "كأس إيطاليا"
     ],
     "hidden_club_competitions": [
@@ -95,15 +94,12 @@
       "دوري البوسنة والهرسك",
       "دوري البوسنة والهرسك - الدرجة الثانية",
       "دوري الدرجة الأولى الأرجنتيني",
-      "دوري الدرجة الأولى السعودي للمحترفين",
       "دوري الدرجة الثانية الأرجنتيني",
-      "دوري الدرجة الرابعة الأرجنتيني",
       "دوري السوبر السنغافوري",
       "دوري السوبر السويسري",
       "دوري السوبر اليوناني الدرجة الثانية",
       "دوري الولايات المتحدة",
       "دوري الولايات المتحدة  الدرجة الثالثة",
-      "دوري باراجواي الدرجة الثانية",
       "دوري بوتسوانا",
       "دوري تشيلي",
       "دوري تشيلي الدرجة الثانية",
@@ -116,11 +112,9 @@
       "كأس أمريكا الوسطى (كونكاكاف)",
       "كأس الأرجنتين",
       "كأس الإكوادور",
-      "كأس الاتحاد البولندي",
       "كأس التحدي الإسكتلندي",
       "كأس الدنمارك",
       "كأس الدنمارك للسيدات",
-      "كأس الكاريبي (كونكاكاف)",
       "كأس الكاميرون",
       "كأس النرويج",
       "كأس النرويج للسيدات",
@@ -137,15 +131,15 @@
   },
   "daily_matches_count": {
     "2026-09-14": 7,
-    "2026-09-15": 10,
+    "2026-09-15": 9,
     "2026-09-16": 15
   },
-  "matches_count": 32,
+  "matches_count": 31,
   "matches": [
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-14 21:00:00",
-      "last_updated_at": "2026-09-13 11:03:09",
+      "last_updated_at": "2026-09-14 21:31:32",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -159,8 +153,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -178,9 +172,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-14 21:00:00",
-      "last_updated_at": "2026-09-13 11:01:17",
+      "last_updated_at": "2026-09-14 21:29:10",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -194,8 +188,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -209,9 +203,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-14 18:30:00",
-      "last_updated_at": "2026-09-13 11:04:12",
+      "last_updated_at": "2026-09-14 20:24:36",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -225,37 +219,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G_RUYD43lljirbAuQpDvc.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 1
       },
-      "tv_audio": [
-        {
-          "name": "stc tv",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/_qsCvlpAMJ1wUsDWP6coH.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "starzplay",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gGKOgFCA7gkaqRZLmUGOz.jpg"
-        },
-        {
-          "name": "شاشا",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exqaLs9Ay50yFBqNSA__h.png"
-        },
-        {
-          "name": "الرابعة الرياضية",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/etHTBgdQ4H9BoYmeTe6e4.jpg"
-        }
-      ],
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": {
         "name": "جوسيبي سينيجاليا"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-14 18:30:00",
-      "last_updated_at": "2026-09-13 11:05:26",
+      "last_updated_at": "2026-09-14 20:27:23",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -269,37 +245,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
-      "tv_audio": [
-        {
-          "name": "stc tv",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/_qsCvlpAMJ1wUsDWP6coH.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "starzplay",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gGKOgFCA7gkaqRZLmUGOz.jpg"
-        },
-        {
-          "name": "شاشا",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exqaLs9Ay50yFBqNSA__h.png"
-        },
-        {
-          "name": "الرابعة الرياضية",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/etHTBgdQ4H9BoYmeTe6e4.jpg"
-        }
-      ],
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": {
         "name": "أولمبيكو دي تورينو"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-14 20:45:00",
-      "last_updated_at": "2026-09-13 11:06:51",
+      "last_updated_at": "2026-09-14 21:32:38",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -313,8 +271,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/55ilL8H7D1Fy1Y4nycklh.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 2
       },
       "tv_audio": [
         {
@@ -341,9 +299,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-14 16:00:00",
-      "last_updated_at": "2026-09-14 16:04:00",
+      "last_updated_at": "2026-09-14 18:03:30",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -358,23 +316,18 @@
       },
       "score": {
         "team_a": 0,
-        "team_b": 0
+        "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport Plus",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2WIigj6BGnenxfPD1-XgA.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "ستاد جهاز الرياضة العسكري"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-14 19:00:00",
-      "last_updated_at": "2026-08-07 07:26:35",
+      "last_updated_at": "2026-09-14 20:59:18",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -388,16 +341,11 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JWW7CvCe5hMfY9EyPWGku.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "ستاد هيئة قناة السويس الجديد"
       }
@@ -680,30 +628,6 @@
       "venue": {
         "name": "ستاد القاهرة الدولي"
       }
-    },
-    {
-      "status": "POSTPONED",
-      "start_date_egypt": "2026-09-08 20:45:00",
-      "last_updated_at": "2026-09-08 21:20:52",
-      "competition": "تصفيات كأس الاتحاد الإنجليزي",
-      "round": null,
-      "team_a": {
-        "name": "جيرسي بولز",
-        "code_name": "JBU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qIxB3JlSjQDEmM9lqDSyQ.png"
-      },
-      "team_b": {
-        "name": "بورغيس هيل تاون",
-        "code_name": "BHT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pcegk5xpa63TPICcoUu-e.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
     },
     {
       "status": "FIXTURE",
