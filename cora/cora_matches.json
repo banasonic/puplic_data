@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-22 00:31:32",
+  "fetched_at_egypt": "2026-09-22 03:06:39",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -21,6 +21,7 @@
       "الدوري الإكوادوري الدرجة الثانية",
       "الدوري الإنجليزي الدرجة السادسة",
       "الدوري الإيراني الدرجة الأولى",
+      "الدوري البرازيلي الدرجة الثانية",
       "الدوري الدنماركي للسيدات",
       "الدوري الروماني الدرجة الأولى",
       "الدوري السلفادوري",
@@ -65,78 +66,6 @@
   },
   "matches_count": 40,
   "matches": [
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-23 21:00:00",
-      "last_updated_at": "2026-09-01 09:14:00",
-      "competition": "دوري أمم الكونكاكاف",
-      "round": null,
-      "team_a": {
-        "name": "جزر تركس وكايكوس",
-        "code_name": "جزر توركس وكايكوس",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SJNaHSnYBd5KEd39Wr9Z2.png"
-      },
-      "team_b": {
-        "name": "مونتسيرات",
-        "code_name": "مونتسرات",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/C6hoJ-ZOyjoqsmiGYjabi.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-23 22:00:00",
-      "last_updated_at": "2026-08-05 02:51:36",
-      "competition": "دوري أمم الكونكاكاف",
-      "round": null,
-      "team_a": {
-        "name": "جزر الباهاما",
-        "code_name": "البهاما",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pQp2H-HUns_LefjVxwVpq.png"
-      },
-      "team_b": {
-        "name": "سانت مارتن",
-        "code_name": "SMN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FRnOU1GOdj-9t3kdyh3eA.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-24 01:00:00",
-      "last_updated_at": "2026-09-01 09:14:19",
-      "competition": "دوري أمم الكونكاكاف",
-      "round": null,
-      "team_a": {
-        "name": "آروبا",
-        "code_name": "أروبا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3SL5vaBNItET-GsNagda6.png"
-      },
-      "team_b": {
-        "name": "أنتيغوا وبربودا",
-        "code_name": "أنتيغوا وباربودا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JQyr8O43JhhBt3uFrIIo6.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-23 18:00:00",
@@ -218,6 +147,78 @@
         "name": "ثايم يونايتد",
         "code_name": "THA",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aQr4cJzl9l0IGMBGShQFR.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-23 21:00:00",
+      "last_updated_at": "2026-09-01 09:14:00",
+      "competition": "دوري أمم الكونكاكاف",
+      "round": null,
+      "team_a": {
+        "name": "جزر تركس وكايكوس",
+        "code_name": "جزر توركس وكايكوس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SJNaHSnYBd5KEd39Wr9Z2.png"
+      },
+      "team_b": {
+        "name": "مونتسيرات",
+        "code_name": "مونتسرات",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/C6hoJ-ZOyjoqsmiGYjabi.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-23 22:00:00",
+      "last_updated_at": "2026-08-05 02:51:36",
+      "competition": "دوري أمم الكونكاكاف",
+      "round": null,
+      "team_a": {
+        "name": "جزر الباهاما",
+        "code_name": "البهاما",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pQp2H-HUns_LefjVxwVpq.png"
+      },
+      "team_b": {
+        "name": "سانت مارتن",
+        "code_name": "SMN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FRnOU1GOdj-9t3kdyh3eA.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-24 01:00:00",
+      "last_updated_at": "2026-09-01 09:14:19",
+      "competition": "دوري أمم الكونكاكاف",
+      "round": null,
+      "team_a": {
+        "name": "آروبا",
+        "code_name": "أروبا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3SL5vaBNItET-GsNagda6.png"
+      },
+      "team_b": {
+        "name": "أنتيغوا وبربودا",
+        "code_name": "أنتيغوا وباربودا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JQyr8O43JhhBt3uFrIIo6.png"
       },
       "score": {
         "team_a": null,
@@ -351,19 +352,19 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-09-24 21:00:00",
-      "last_updated_at": "2026-09-01 09:14:58",
-      "competition": "دوري أمم الكونكاكاف",
+      "start_date_egypt": "2026-09-24 20:45:00",
+      "last_updated_at": "2026-09-21 22:49:38",
+      "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
-        "name": "بورتو ريكو",
-        "code_name": "بورتوريكو",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/irLoqUCsiOneN_yvZL_kH.png"
+        "name": "هولندا",
+        "code_name": "هولندا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nP0-BZ6KwNQKWMPufe9C0.png"
       },
       "team_b": {
-        "name": "جوايانا",
-        "code_name": "غيانا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NAwVXMR7DJGTO36Y4HNyW.png"
+        "name": "ألمانيا",
+        "code_name": "ألمانيا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yxD7Y-2TddyrwOJBTC1ew.png"
       },
       "score": {
         "team_a": null,
@@ -371,23 +372,25 @@
       },
       "tv_audio": [],
       "tv_channels": [],
-      "venue": null
+      "venue": {
+        "name": "يوهان كرويف أرينا"
+      }
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-09-25 02:00:00",
-      "last_updated_at": "2026-09-01 09:13:12",
-      "competition": "دوري أمم الكونكاكاف",
+      "start_date_egypt": "2026-09-24 20:45:00",
+      "last_updated_at": "2026-09-21 23:05:18",
+      "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
-        "name": "جمهورية الدومينيكان",
-        "code_name": "الدومينيكان",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yMCjNBZic7HgY5q0Yu_Lv.png"
+        "name": "صربيا",
+        "code_name": "صربيا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIctpxZsQQ7fDQi8tuPAG.png"
       },
       "team_b": {
-        "name": "نيكاراجوا",
-        "code_name": "نيكاراجوا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-wKLt3W4bejwNABv7CBJq.png"
+        "name": "اليونان",
+        "code_name": "اليونان",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-MyfLG8UiEoZMmjgA58PK.png"
       },
       "score": {
         "team_a": null,
@@ -395,23 +398,25 @@
       },
       "tv_audio": [],
       "tv_channels": [],
-      "venue": null
+      "venue": {
+        "name": "Stadion Rajko Mitic"
+      }
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-09-25 02:00:00",
-      "last_updated_at": "2026-09-01 09:12:58",
-      "competition": "دوري أمم الكونكاكاف",
+      "start_date_egypt": "2026-09-24 20:45:00",
+      "last_updated_at": "2026-09-21 22:54:23",
+      "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
-        "name": "هايتي",
-        "code_name": "هايتي",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P_GinAct1J27Hfcr_qSys.png"
+        "name": "النرويج",
+        "code_name": "النرويج",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0fmSMr-CdA3m0oQliE26M.png"
       },
       "team_b": {
-        "name": "ترينيداد وتوباجو",
-        "code_name": "ترينيداد وتوباجو",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/h0WPSfOl8-HNqOy4tnr6n.png"
+        "name": "الدنمارك",
+        "code_name": "الدنمارك",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_ObAPDOkb-QqThW3Sc9u_.png"
       },
       "score": {
         "team_a": null,
@@ -419,23 +424,25 @@
       },
       "tv_audio": [],
       "tv_channels": [],
-      "venue": null
+      "venue": {
+        "name": "أولِّيفال"
+      }
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-09-25 02:00:00",
-      "last_updated_at": "2026-09-01 09:14:58",
-      "competition": "دوري أمم الكونكاكاف",
+      "start_date_egypt": "2026-09-24 20:45:00",
+      "last_updated_at": "2026-09-21 22:55:58",
+      "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
-        "name": "جزر كايمان",
-        "code_name": "كايمان",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kMKvexNTgsznrGfp17Yup.png"
+        "name": "البرتغال",
+        "code_name": "البرتغال",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CsqvsY98_na4K-XlZOS3n.png"
       },
       "team_b": {
-        "name": "دومينيكا",
-        "code_name": "دومينيكا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/H57i8iPuxixuxa6LsIMp0.png"
+        "name": "ويلز",
+        "code_name": "ويلز",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/g5njIyXKUfBEEv_qntEbm.png"
       },
       "score": {
         "team_a": null,
@@ -443,31 +450,9 @@
       },
       "tv_audio": [],
       "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-25 04:00:00",
-      "last_updated_at": "2026-09-01 09:12:42",
-      "competition": "دوري أمم الكونكاكاف",
-      "round": null,
-      "team_a": {
-        "name": "كوستاريكا",
-        "code_name": "كوستاريكا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XhcZTBAbWEoB1nd5C_X-W.png"
-      },
-      "team_b": {
-        "name": "كوراساو",
-        "code_name": "كوراساو",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/f1PffFoNxPYbteC9zYPZn.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
+      "venue": {
+        "name": "خوسيه ألفالادي"
+      }
     },
     {
       "status": "FIXTURE",
@@ -636,110 +621,6 @@
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-24 20:45:00",
-      "last_updated_at": "2026-09-21 22:49:38",
-      "competition": "دوري الأمم الأوروبية - المسار الأول",
-      "round": null,
-      "team_a": {
-        "name": "هولندا",
-        "code_name": "هولندا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nP0-BZ6KwNQKWMPufe9C0.png"
-      },
-      "team_b": {
-        "name": "ألمانيا",
-        "code_name": "ألمانيا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yxD7Y-2TddyrwOJBTC1ew.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": {
-        "name": "يوهان كرويف أرينا"
-      }
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-24 20:45:00",
-      "last_updated_at": "2026-09-21 23:05:18",
-      "competition": "دوري الأمم الأوروبية - المسار الأول",
-      "round": null,
-      "team_a": {
-        "name": "صربيا",
-        "code_name": "صربيا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIctpxZsQQ7fDQi8tuPAG.png"
-      },
-      "team_b": {
-        "name": "اليونان",
-        "code_name": "اليونان",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-MyfLG8UiEoZMmjgA58PK.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": {
-        "name": "Stadion Rajko Mitic"
-      }
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-24 20:45:00",
-      "last_updated_at": "2026-09-21 22:54:23",
-      "competition": "دوري الأمم الأوروبية - المسار الأول",
-      "round": null,
-      "team_a": {
-        "name": "النرويج",
-        "code_name": "النرويج",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0fmSMr-CdA3m0oQliE26M.png"
-      },
-      "team_b": {
-        "name": "الدنمارك",
-        "code_name": "الدنمارك",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_ObAPDOkb-QqThW3Sc9u_.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": {
-        "name": "أولِّيفال"
-      }
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-24 20:45:00",
-      "last_updated_at": "2026-09-21 22:55:58",
-      "competition": "دوري الأمم الأوروبية - المسار الأول",
-      "round": null,
-      "team_a": {
-        "name": "البرتغال",
-        "code_name": "البرتغال",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CsqvsY98_na4K-XlZOS3n.png"
-      },
-      "team_b": {
-        "name": "ويلز",
-        "code_name": "ويلز",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/g5njIyXKUfBEEv_qntEbm.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": {
-        "name": "خوسيه ألفالادي"
-      }
     },
     {
       "status": "FIXTURE",
@@ -924,6 +805,126 @@
         "name": "أوغندا",
         "code_name": "أوغندا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2nOO75EgY9xQr2F2yBIqF.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-24 21:00:00",
+      "last_updated_at": "2026-09-01 09:14:58",
+      "competition": "دوري أمم الكونكاكاف",
+      "round": null,
+      "team_a": {
+        "name": "بورتو ريكو",
+        "code_name": "بورتوريكو",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/irLoqUCsiOneN_yvZL_kH.png"
+      },
+      "team_b": {
+        "name": "جوايانا",
+        "code_name": "غيانا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NAwVXMR7DJGTO36Y4HNyW.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-25 02:00:00",
+      "last_updated_at": "2026-09-01 09:13:12",
+      "competition": "دوري أمم الكونكاكاف",
+      "round": null,
+      "team_a": {
+        "name": "جمهورية الدومينيكان",
+        "code_name": "الدومينيكان",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yMCjNBZic7HgY5q0Yu_Lv.png"
+      },
+      "team_b": {
+        "name": "نيكاراجوا",
+        "code_name": "نيكاراجوا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-wKLt3W4bejwNABv7CBJq.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-25 02:00:00",
+      "last_updated_at": "2026-09-01 09:12:58",
+      "competition": "دوري أمم الكونكاكاف",
+      "round": null,
+      "team_a": {
+        "name": "هايتي",
+        "code_name": "هايتي",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P_GinAct1J27Hfcr_qSys.png"
+      },
+      "team_b": {
+        "name": "ترينيداد وتوباجو",
+        "code_name": "ترينيداد وتوباجو",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/h0WPSfOl8-HNqOy4tnr6n.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-25 02:00:00",
+      "last_updated_at": "2026-09-01 09:14:58",
+      "competition": "دوري أمم الكونكاكاف",
+      "round": null,
+      "team_a": {
+        "name": "جزر كايمان",
+        "code_name": "كايمان",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kMKvexNTgsznrGfp17Yup.png"
+      },
+      "team_b": {
+        "name": "دومينيكا",
+        "code_name": "دومينيكا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/H57i8iPuxixuxa6LsIMp0.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-25 04:00:00",
+      "last_updated_at": "2026-09-01 09:12:42",
+      "competition": "دوري أمم الكونكاكاف",
+      "round": null,
+      "team_a": {
+        "name": "كوستاريكا",
+        "code_name": "كوستاريكا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XhcZTBAbWEoB1nd5C_X-W.png"
+      },
+      "team_b": {
+        "name": "كوراساو",
+        "code_name": "كوراساو",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/f1PffFoNxPYbteC9zYPZn.png"
       },
       "score": {
         "team_a": null,
