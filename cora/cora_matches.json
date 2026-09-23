@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-23 03:43:30",
+  "fetched_at_egypt": "2026-09-23 09:36:03",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -18,6 +18,7 @@
       "الدوري الألماني الدرجة الثالثة",
       "الدوري الألماني الدرجة الخامسة",
       "الدوري الألماني الدرجة الرابعة",
+      "الدوري الأمريكي",
       "الدوري الأمريكي للسيدات",
       "الدوري الأيرلندي الدرجة الأولى",
       "الدوري الأيرلندي الممتاز",
@@ -25,24 +26,20 @@
       "الدوري الإسباني الدرجة الثانية",
       "الدوري الإسكتلندي الدرجة الأولى",
       "الدوري الإكوادوري الدرجة الثانية",
-      "الدوري الإنجليزي الدرجة السادسة",
-      "الدوري الإيراني الدرجة الأولى",
       "الدوري البرازيلي الدرجة الثانية",
-      "الدوري الدنماركي للسيدات",
-      "الدوري الروماني الدرجة الأولى",
       "الدوري السلفادوري",
       "الدوري السلوفاكي الدرجة الأولى",
       "الدوري السلوفيني الدرجة الثانية",
       "الدوري السويدي الدرجة الثالثة",
       "الدوري السويدي الدرجة الثانية",
       "الدوري الصيني الدرجة الأولى",
+      "الدوري الغاني الممتاز",
       "الدوري الفرنسي الوطني",
       "الدوري الفنلندي الدرجة الثالثة",
       "الدوري الفنلندي الدرجة الثانية",
       "الدوري الكرواتي الدرجة الثانية",
       "الدوري الكندي الممتاز",
       "الدوري الكولومبي",
-      "الدوري الكولومبي الدرجة الثانية",
       "الدوري المصري الدرجة الثانية",
       "الدوري المغربي الممتاز",
       "الدوري المكسيكي الدرجة الثالثة",
@@ -51,9 +48,9 @@
       "الدوري المكسيكي للسيدات",
       "الدوري النرويجي الدرجة الثالثة",
       "الدوري النرويجي للسيدات",
+      "الدوري النيجيري للمحترفين",
       "الدوري النيوزيلندي الوطني",
       "الدوري الهولندي الدرجة الثانية",
-      "الرابطة الجزائرية المحترفة الأولى",
       "دوري أبطال أوروبا للسيدات",
       "دوري أيرلندا الشمالية الدرجة الأولى",
       "دوري أيرلندا الشمالية الممتاز",
@@ -66,23 +63,317 @@
       "دوري باراجواي",
       "دوري باراجواي الدرجة الثانية",
       "دوري بيرو الدرجة الثانية",
+      "دوري بيرو الممتاز",
       "دوري جواتيمالا",
       "دوري كوستاريكا الدرجة الثانية",
+      "دوري مقدونيا الشمالية",
       "كأس الإكوادور",
+      "كأس الاتحاد الانجليزي للسيدات",
       "كأس التحدي الإسكتلندي",
+      "كأس النرويج",
+      "كأس اليابان",
       "كأس باراجواي",
       "كأس تشيلي",
-      "كأس دوري كرة القدم الإنجليزية",
+      "كأس جمهورية التشيك",
+      "كأس سلوفاكيا",
       "وديات الأندية"
     ]
   },
   "daily_matches_count": {
-    "2026-09-22": 0,
+    "2026-09-23": 7,
     "2026-09-24": 32,
     "2026-09-25": 41
   },
-  "matches_count": 73,
+  "matches_count": 80,
   "matches": [
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-23 21:00:00",
+      "last_updated_at": "2026-09-01 09:14:00",
+      "competition": "دوري أمم الكونكاكاف",
+      "round": null,
+      "team_a": {
+        "name": "جزر تركس وكايكوس",
+        "code_name": "جزر توركس وكايكوس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SJNaHSnYBd5KEd39Wr9Z2.png"
+      },
+      "team_b": {
+        "name": "مونتسيرات",
+        "code_name": "مونتسرات",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/C6hoJ-ZOyjoqsmiGYjabi.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-23 22:00:00",
+      "last_updated_at": "2026-08-05 02:51:36",
+      "competition": "دوري أمم الكونكاكاف",
+      "round": null,
+      "team_a": {
+        "name": "جزر الباهاما",
+        "code_name": "البهاما",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pQp2H-HUns_LefjVxwVpq.png"
+      },
+      "team_b": {
+        "name": "سانت مارتن",
+        "code_name": "SMN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FRnOU1GOdj-9t3kdyh3eA.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-24 01:00:00",
+      "last_updated_at": "2026-09-01 09:14:19",
+      "competition": "دوري أمم الكونكاكاف",
+      "round": null,
+      "team_a": {
+        "name": "آروبا",
+        "code_name": "أروبا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3SL5vaBNItET-GsNagda6.png"
+      },
+      "team_b": {
+        "name": "أنتيغوا وبربودا",
+        "code_name": "أنتيغوا وباربودا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JQyr8O43JhhBt3uFrIIo6.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-23 18:00:00",
+      "last_updated_at": "2026-09-01 11:43:17",
+      "competition": "المباريات الودية",
+      "round": null,
+      "team_a": {
+        "name": "أذربيجان",
+        "code_name": "أذربيجان",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zYrCfbQt5tW2t2GTAdpf8.png"
+      },
+      "team_b": {
+        "name": "طاجيكستان",
+        "code_name": "طاجكستان",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8ouwW0VRem8AEbAFwSH7l.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [
+        {
+          "name": "CBC Sport",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/iXCC6II6h_Gp3cmwcVavS.jpg"
+        },
+        {
+          "name": "Viaplay Sweden",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/MHaqBAZPFCNLmY3BLyCbk.jpg"
+        }
+      ],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-23 18:00:00",
+      "last_updated_at": "2026-09-17 11:45:32",
+      "competition": "المباريات الودية",
+      "round": null,
+      "team_a": {
+        "name": "جبل طارق",
+        "code_name": "جبل طارق",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Eg6BHd2Eyf-J_JXbOutjn.png"
+      },
+      "team_b": {
+        "name": "ساو تومي وبرينسيب",
+        "code_name": "ساو تومي",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qp8WhIUVwWclzQkHK2HPe.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [
+        {
+          "name": "Sport TV 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Alx-XQfsOCot2Aqic32yt.png"
+        },
+        {
+          "name": "Viaplay Sweden",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/MHaqBAZPFCNLmY3BLyCbk.jpg"
+        }
+      ],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-23 16:30:00",
+      "last_updated_at": "2026-08-19 08:22:05",
+      "competition": "كأس الخليج",
+      "round": null,
+      "team_a": {
+        "name": "العراق",
+        "code_name": "العراق",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/z5TVNTSqSR28hkocHtCpu.png"
+      },
+      "team_b": {
+        "name": "عمان",
+        "code_name": "عمان",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NhHCjLdmqIHQvhVbYyVB0.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [
+        {
+          "name": "AL KASS One",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/nbtPQAsNj_PdA3B_ZGOmL.jpg"
+        },
+        {
+          "name": "AL KASS Two",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/SNXRJtG9520B8iFoPJi9F.jpg"
+        },
+        {
+          "name": "شاشا",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exqaLs9Ay50yFBqNSA__h.png"
+        },
+        {
+          "name": "السعودية الرياضية 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/OtqxoZRcp82a9WVrKcatFwhp078G6l0UbyzppWIy.jpg"
+        },
+        {
+          "name": "الشارقة الرياضية",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/T9cTk88D6umBfrI2nxDyod84S1V2962UGTpjr3DU.jpg"
+        },
+        {
+          "name": "Oman Sports TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/rLkFZ3FhoPYSkzp5ZZFH6.png"
+        },
+        {
+          "name": "Sportdigital FUSSBALL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/hul1cGWamFCLcZpPryhaG.png"
+        },
+        {
+          "name": "Sportdigital1+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/itQZxlO1V614AU1nV-KqK.png"
+        },
+        {
+          "name": "Sunrise TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/hGcLgZnMyrurC2dFTYoth.jpg"
+        },
+        {
+          "name": "DAZN Germany",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/52lQzE7_jLIHHBtF3IrEU.png"
+        },
+        {
+          "name": "Al Iraqiya Sports",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RIjbkhQJUG2oy9elczmSq.jpg"
+        },
+        {
+          "name": "Shoof",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/65SDvl2d8lfHwIHbg0_ir.png"
+        },
+        {
+          "name": "Almanasa",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/S2r6Quo1iudhgNQEmzN8f.jpg"
+        }
+      ],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-23 20:00:00",
+      "last_updated_at": "2026-08-19 08:22:05",
+      "competition": "كأس الخليج",
+      "round": null,
+      "team_a": {
+        "name": "السعودية",
+        "code_name": "السعودية",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PdAVgAPpz5wl7aKJ44vY3.png"
+      },
+      "team_b": {
+        "name": "الكويت",
+        "code_name": "الكويت",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yxg5P2DBSI4gZIlu-nqtw.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [
+        {
+          "name": "AL KASS One",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/nbtPQAsNj_PdA3B_ZGOmL.jpg"
+        },
+        {
+          "name": "AL KASS Two",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/SNXRJtG9520B8iFoPJi9F.jpg"
+        },
+        {
+          "name": "شاشا",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exqaLs9Ay50yFBqNSA__h.png"
+        },
+        {
+          "name": "السعودية الرياضية 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/OtqxoZRcp82a9WVrKcatFwhp078G6l0UbyzppWIy.jpg"
+        },
+        {
+          "name": "الشارقة الرياضية",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/T9cTk88D6umBfrI2nxDyod84S1V2962UGTpjr3DU.jpg"
+        },
+        {
+          "name": "Oman Sports TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/rLkFZ3FhoPYSkzp5ZZFH6.png"
+        },
+        {
+          "name": "Sportdigital FUSSBALL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/hul1cGWamFCLcZpPryhaG.png"
+        },
+        {
+          "name": "Sportdigital1+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/itQZxlO1V614AU1nV-KqK.png"
+        },
+        {
+          "name": "Sunrise TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/hGcLgZnMyrurC2dFTYoth.jpg"
+        },
+        {
+          "name": "DAZN Germany",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/52lQzE7_jLIHHBtF3IrEU.png"
+        },
+        {
+          "name": "Shoof",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/65SDvl2d8lfHwIHbg0_ir.png"
+        },
+        {
+          "name": "Almanasa",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/S2r6Quo1iudhgNQEmzN8f.jpg"
+        }
+      ],
+      "venue": null
+    },
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-24 21:00:00",
