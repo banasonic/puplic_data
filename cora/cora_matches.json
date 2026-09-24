@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-24 16:22:53",
+  "fetched_at_egypt": "2026-09-24 20:37:59",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -14,7 +14,7 @@
       "كأس الخليج"
     ],
     "hidden_club_competitions": [
-      "FIFA  ASEAN Cup",
+      "FIFA ASEAN Cup",
       "الألعاب الأسيوية",
       "البطولة الاحترافية إنوي القسم الثاني",
       "الدوري  التركي الدرجة الثانية",
@@ -59,7 +59,6 @@
       "الدوري الكندي الممتاز",
       "الدوري الكولومبي",
       "الدوري الكولومبي الدرجة الثانية",
-      "الدوري المصري الدرجة الثانية",
       "الدوري المغربي الممتاز",
       "الدوري المكسيكي الدرجة الثالثة",
       "الدوري المكسيكي الدرجة الثانية",
@@ -332,9 +331,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-24 16:00:00",
-      "last_updated_at": "2026-09-24 16:15:19",
+      "last_updated_at": "2026-09-24 19:58:51",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -348,22 +347,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ULsDq8DJKlLHlbk3Qg0wo.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 0
+        "team_a": 3,
+        "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "IRIB Varzesh",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ROdTYvsD8j-RZvGaJ13WD.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-24 20:45:00",
-      "last_updated_at": "2026-09-24 13:08:51",
+      "last_updated_at": "2026-09-24 19:39:19",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -431,7 +425,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-24 20:45:00",
-      "last_updated_at": "2026-09-24 13:52:41",
+      "last_updated_at": "2026-09-24 19:33:14",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -499,7 +493,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-24 20:45:00",
-      "last_updated_at": "2026-09-24 10:40:29",
+      "last_updated_at": "2026-09-24 19:37:39",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -567,7 +561,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-24 20:45:00",
-      "last_updated_at": "2026-09-23 14:31:06",
+      "last_updated_at": "2026-09-24 19:35:00",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -633,9 +627,9 @@
       }
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-24 15:00:00",
-      "last_updated_at": "2026-09-24 16:12:52",
+      "last_updated_at": "2026-09-24 17:02:11",
       "competition": "التصفيات المؤهلة إلى كأس أمم إفريقيا",
       "round": null,
       "team_a": {
@@ -653,22 +647,13 @@
         "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "vidio",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
-        },
-        {
-          "name": "Canal+ Sport 1 Afrique",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/HARuFfqT8U19BWMnW6MU2.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-24 18:00:00",
-      "last_updated_at": "2026-09-06 12:30:15",
+      "last_updated_at": "2026-09-24 19:59:51",
       "competition": "التصفيات المؤهلة إلى كأس أمم إفريقيا",
       "round": null,
       "team_a": {
@@ -682,43 +667,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tUtoZ13r9IhjBXGdGzckE.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "beIN SPORTS 2 (FR)",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ALlDswfoeuQtNZ1JZG08m.png"
-        },
-        {
-          "name": "beIN Sports MAX 4",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/vq04XAC3fcUtfyq1UibGy.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "myCANAL",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
-        },
-        {
-          "name": "vidio",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
-        },
-        {
-          "name": "AIS PLAY",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ljo4pDHMiRwpoyLx0G2O0.jpg"
-        },
-        {
-          "name": "Canal+ Sport 1 Afrique",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/HARuFfqT8U19BWMnW6MU2.png"
-        }
-      ],
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-24 18:00:00",
-      "last_updated_at": "2026-09-11 15:54:20",
+      "last_updated_at": "2026-09-24 19:59:48",
       "competition": "التصفيات المؤهلة إلى كأس أمم إفريقيا",
       "round": null,
       "team_a": {
@@ -732,35 +691,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bqeN7H1pE43G_0aE4_zI_.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 1
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
-        },
-        {
-          "name": "beIN SPORTS CONNECT",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "TOD TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
-        },
-        {
-          "name": "vidio",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
-        }
-      ],
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-24 18:00:00",
-      "last_updated_at": "2026-09-06 12:33:33",
+      "last_updated_at": "2026-09-24 20:06:31",
       "competition": "التصفيات المؤهلة إلى كأس أمم إفريقيا",
       "round": null,
       "team_a": {
@@ -774,29 +715,11 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XTsTHiCnsYHt_orTQBk7j.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 2
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
-        },
-        {
-          "name": "beIN SPORTS CONNECT",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "TOD TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
-        },
-        {
-          "name": "vidio",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
-        }
-      ],
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": null
     },
     {
@@ -860,7 +783,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-24 21:00:00",
-      "last_updated_at": "2026-09-06 12:30:15",
+      "last_updated_at": "2026-09-24 20:25:01",
       "competition": "التصفيات المؤهلة إلى كأس أمم إفريقيا",
       "round": null,
       "team_a": {
@@ -1000,9 +923,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-24 20:00:00",
-      "last_updated_at": "2026-09-11 16:08:11",
+      "last_updated_at": "2026-09-24 20:00:21",
       "competition": "التصفيات المؤهلة لأمم أوروبا للشباب",
       "round": null,
       "team_a": {
@@ -1016,8 +939,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gOxZ3_3pOD9MJHclW3h_F.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -1033,9 +956,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-24 20:30:00",
-      "last_updated_at": "2026-09-11 16:13:15",
+      "last_updated_at": "2026-09-24 20:31:36",
       "competition": "التصفيات المؤهلة لأمم أوروبا للشباب",
       "round": null,
       "team_a": {
@@ -1049,8 +972,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x-t1zDYJ5j0kMc6wDIJK4.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -1062,9 +985,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-09-24 17:00:00",
-      "last_updated_at": "2026-08-19 08:27:33",
+      "status": "RESULT",
+      "start_date_egypt": "2026-09-24 17:55:00",
+      "last_updated_at": "2026-09-24 19:59:17",
       "competition": "كأس الخليج",
       "round": null,
       "team_a": {
@@ -1078,82 +1001,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QoFiPVjPByiZLi76Gsz1a.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 4,
+        "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Abu Dhabi Sports 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gCN0g4VrtGNWvZ3DwTVEx.png"
-        },
-        {
-          "name": "Abu Dhabi Sports 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/GWX-8iq5kfI9RT27_AaUv.png"
-        },
-        {
-          "name": "AL KASS One",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/nbtPQAsNj_PdA3B_ZGOmL.jpg"
-        },
-        {
-          "name": "AL KASS Two",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/SNXRJtG9520B8iFoPJi9F.jpg"
-        },
-        {
-          "name": "شاشا",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exqaLs9Ay50yFBqNSA__h.png"
-        },
-        {
-          "name": "السعودية الرياضية 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/OtqxoZRcp82a9WVrKcatFwhp078G6l0UbyzppWIy.jpg"
-        },
-        {
-          "name": "الشارقة الرياضية",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/T9cTk88D6umBfrI2nxDyod84S1V2962UGTpjr3DU.jpg"
-        },
-        {
-          "name": "Oman Sports TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/rLkFZ3FhoPYSkzp5ZZFH6.png"
-        },
-        {
-          "name": "Kuwait Sport TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3uAFpRn5GF8YRUkWbfsow.png"
-        },
-        {
-          "name": "Sportdigital FUSSBALL",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/hul1cGWamFCLcZpPryhaG.png"
-        },
-        {
-          "name": "Sportdigital1+",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/itQZxlO1V614AU1nV-KqK.png"
-        },
-        {
-          "name": "Sunrise TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/hGcLgZnMyrurC2dFTYoth.jpg"
-        },
-        {
-          "name": "Onefootball",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4c1z4hBvmtMJWjBh4oSG5.jpg"
-        },
-        {
-          "name": "DAZN Germany",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/52lQzE7_jLIHHBtF3IrEU.png"
-        },
-        {
-          "name": "Shoof",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/65SDvl2d8lfHwIHbg0_ir.png"
-        },
-        {
-          "name": "Almanasa",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/S2r6Quo1iudhgNQEmzN8f.jpg"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-24 20:00:00",
-      "last_updated_at": "2026-08-19 08:27:33",
+      "last_updated_at": "2026-09-24 20:00:56",
       "competition": "كأس الخليج",
       "round": null,
       "team_a": {
@@ -1167,8 +1025,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/I2eXnVpieECeE5hfgVvD-.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -1242,7 +1100,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-24 20:45:00",
-      "last_updated_at": "2026-09-23 13:23:31",
+      "last_updated_at": "2026-09-24 19:37:31",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -1310,7 +1168,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-24 20:45:00",
-      "last_updated_at": "2026-09-23 13:01:02",
+      "last_updated_at": "2026-09-24 19:38:26",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -1376,9 +1234,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-24 18:00:00",
-      "last_updated_at": "2026-09-16 12:18:52",
+      "last_updated_at": "2026-09-24 19:57:58",
       "competition": "دوري الأمم الأوروبية - المسار الرابع",
       "round": null,
       "team_a": {
@@ -1392,53 +1250,11 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/J1gIEU7ufhO5s4BdTibD5.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 2
       },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 3",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/PyMZVVF6KAk0uCaEBvL0C.png"
-        },
-        {
-          "name": "beIN Sports ENG 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Zv_kGHtU20fOxPeRMEvUd.png"
-        },
-        {
-          "name": "beIN SPORTS CONNECT",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "TOD TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
-        },
-        {
-          "name": "Supersport Premiere League",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/mT_vd3P_z5U_i9LGy27Ed.jpg"
-        },
-        {
-          "name": "SuperSport Máximo 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/sg1idU7cLaBP6KJCCtLUU.png"
-        },
-        {
-          "name": "CBC Sport",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/iXCC6II6h_Gp3cmwcVavS.jpg"
-        },
-        {
-          "name": "DAZN Spain",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/0LPgFogeILbzgeUT9qnPj.png"
-        },
-        {
-          "name": "tapmad",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/cNEQk-W4QJVeR2L4KZWHI.png"
-        },
-        {
-          "name": "DStv Now",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
-        }
-      ],
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": {
         "name": "Estadi de la FAF"
       }
@@ -1446,7 +1262,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-24 20:45:00",
-      "last_updated_at": "2026-07-05 10:25:47",
+      "last_updated_at": "2026-09-24 19:56:15",
       "competition": "دوري الأمم الأوروبية - المسار الرابع",
       "round": null,
       "team_a": {
@@ -1732,7 +1548,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-25 20:45:00",
-      "last_updated_at": "2026-07-05 10:03:56",
+      "last_updated_at": "2026-09-24 15:15:17",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -2984,7 +2800,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-25 20:45:00",
-      "last_updated_at": "2026-02-13 13:24:54",
+      "last_updated_at": "2026-09-24 15:35:58",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -3879,8 +3695,33 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Action",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/eCZ0uJqj28EfwmfADiDxK.png"
+        },
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        },
+        {
+          "name": "MBC 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/OyD5j2kVLdziqxTvY1Mqg.png"
+        }
+      ],
       "tv_channels": [
+        {
+          "name": "AL KASS One",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/nbtPQAsNj_PdA3B_ZGOmL.jpg"
+        },
+        {
+          "name": "starzplay",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gGKOgFCA7gkaqRZLmUGOz.jpg"
+        },
+        {
+          "name": "شاشا",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exqaLs9Ay50yFBqNSA__h.png"
+        },
         {
           "name": "الشارقة الرياضية",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/T9cTk88D6umBfrI2nxDyod84S1V2962UGTpjr3DU.jpg"
@@ -3888,6 +3729,14 @@
         {
           "name": "Kuwait Sport TV",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3uAFpRn5GF8YRUkWbfsow.png"
+        },
+        {
+          "name": "51 Kuwait",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/k_0a1hfXlmo0NvDJtwmaQ.png"
+        },
+        {
+          "name": "Shoof",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/65SDvl2d8lfHwIHbg0_ir.png"
         }
       ],
       "venue": null
