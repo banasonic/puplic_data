@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-25 07:59:52",
+  "fetched_at_egypt": "2026-09-25 13:43:07",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -113,15 +113,16 @@
       "كأس التحدي الإسكتلندي",
       "كأس النرويج للسيدات",
       "كأس تشيلي",
+      "كأس كولومبيا",
       "وديات الأندية"
     ]
   },
   "daily_matches_count": {
     "2026-09-25": 41,
-    "2026-09-26": 28,
+    "2026-09-26": 30,
     "2026-09-27": 23
   },
-  "matches_count": 92,
+  "matches_count": 94,
   "matches": [
     {
       "status": "FIXTURE",
@@ -292,9 +293,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-25 12:00:00",
-      "last_updated_at": "2026-07-15 11:20:51",
+      "last_updated_at": "2026-09-25 13:40:37",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -308,8 +309,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pbi1_AHDJSppsYVJLSngB.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -2401,8 +2402,56 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-09-26 12:00:00",
-      "last_updated_at": "2026-09-23 14:34:25",
+      "start_date_egypt": "2026-09-26 06:00:00",
+      "last_updated_at": "2026-09-25 08:57:54",
+      "competition": "المباريات الودية",
+      "round": null,
+      "team_a": {
+        "name": "كاليدونيا الجديدة",
+        "code_name": "NCL",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0vAoiRwFxnTTE-nlMfCwI.png"
+      },
+      "team_b": {
+        "name": "جزر السولومون",
+        "code_name": "SLB",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9X3Hc5BXuERR2jEzWjyYo.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-26 09:00:00",
+      "last_updated_at": "2026-09-25 08:57:54",
+      "competition": "المباريات الودية",
+      "round": null,
+      "team_a": {
+        "name": "بابوا نيو جيني",
+        "code_name": "NEW",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fdtsgVavdwvBrmFa429Z_.png"
+      },
+      "team_b": {
+        "name": "فاناتو",
+        "code_name": "VUT",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JRkjYrVfNqFw-_lSp9izG.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-26 14:00:00",
+      "last_updated_at": "2026-09-25 08:53:29",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
