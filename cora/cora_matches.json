@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-26 03:55:17",
+  "fetched_at_egypt": "2026-09-26 09:22:02",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -40,6 +40,7 @@
       "الدوري البرازيلي الدرجة الثانية",
       "الدوري البلجيكي الدرجة الثالثة",
       "الدوري البلغاري الدرجة الثانية",
+      "الدوري البنيني",
       "الدوري الجامايكي الممتاز",
       "الدوري الدنماركي للسيدات",
       "الدوري السلفادوري",
@@ -513,7 +514,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Nnn52AyKSxy65VG7f_m4W.png"
+        }
+      ],
       "tv_channels": [
         {
           "name": "SABC Plus",
@@ -734,6 +740,10 @@
       ],
       "tv_channels": [
         {
+          "name": "Abu Dhabi Sports 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gCN0g4VrtGNWvZ3DwTVEx.png"
+        },
+        {
           "name": "AL KASS One",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/nbtPQAsNj_PdA3B_ZGOmL.jpg"
         },
@@ -748,6 +758,10 @@
         {
           "name": "الشارقة الرياضية",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/T9cTk88D6umBfrI2nxDyod84S1V2962UGTpjr3DU.jpg"
+        },
+        {
+          "name": "Oman Sports TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/rLkFZ3FhoPYSkzp5ZZFH6.png"
         },
         {
           "name": "Kuwait Sport TV",
@@ -808,6 +822,10 @@
       ],
       "tv_channels": [
         {
+          "name": "Abu Dhabi Sports 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gCN0g4VrtGNWvZ3DwTVEx.png"
+        },
+        {
           "name": "AL KASS One",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/nbtPQAsNj_PdA3B_ZGOmL.jpg"
         },
@@ -820,8 +838,16 @@
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exqaLs9Ay50yFBqNSA__h.png"
         },
         {
+          "name": "السعودية الرياضية 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/OtqxoZRcp82a9WVrKcatFwhp078G6l0UbyzppWIy.jpg"
+        },
+        {
           "name": "الشارقة الرياضية",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/T9cTk88D6umBfrI2nxDyod84S1V2962UGTpjr3DU.jpg"
+        },
+        {
+          "name": "Oman Sports TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/rLkFZ3FhoPYSkzp5ZZFH6.png"
         },
         {
           "name": "Kuwait Sport TV",
@@ -1881,7 +1907,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-27 20:45:00",
-      "last_updated_at": "2026-09-26 03:33:03",
+      "last_updated_at": "2026-09-26 03:33:53",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -1949,7 +1975,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-27 20:45:00",
-      "last_updated_at": "2026-02-13 13:30:22",
+      "last_updated_at": "2026-09-26 03:37:09",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -2216,7 +2242,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-27 20:45:00",
-      "last_updated_at": "2026-07-05 10:13:43",
+      "last_updated_at": "2026-09-26 03:34:57",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
