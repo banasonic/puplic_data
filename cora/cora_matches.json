@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-27 08:26:04",
+  "fetched_at_egypt": "2026-09-27 14:23:30",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -7,6 +7,7 @@
       "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
       "التصفيات المؤهلة لأمم أوروبا للشباب",
       "المباريات الودية",
+      "تصفيات كأس الاتحاد الإنجليزي",
       "دوري أمم الكونكاكاف",
       "دوري الأمم الأوروبية - المسار الأول",
       "دوري الأمم الأوروبية - المسار الثالث",
@@ -86,9 +87,9 @@
   "daily_matches_count": {
     "2026-09-27": 23,
     "2026-09-28": 25,
-    "2026-09-29": 49
+    "2026-09-29": 50
   },
-  "matches_count": 97,
+  "matches_count": 98,
   "matches": [
     {
       "status": "FIXTURE",
@@ -259,9 +260,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-27 09:00:00",
-      "last_updated_at": "2026-09-17 14:45:01",
+      "last_updated_at": "2026-09-27 10:56:29",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -275,17 +276,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xeKCRXn31zVAO31OGHYZV.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-27 13:35:00",
-      "last_updated_at": "2026-09-24 15:31:12",
+      "last_updated_at": "2026-09-27 14:04:26",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -299,8 +300,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eexrIS6j2TmF--YRZvanW.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_audio": [],
       "tv_channels": [
@@ -316,9 +317,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-09-27 14:00:00",
-      "last_updated_at": "2026-09-17 14:45:01",
+      "last_updated_at": "2026-09-27 14:18:27",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -332,8 +333,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XZE-zgPdHAXVhfegWf5s9.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -1025,7 +1026,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-27 15:00:00",
-      "last_updated_at": "2026-07-05 10:26:43",
+      "last_updated_at": "2026-09-27 13:52:28",
       "competition": "دوري الأمم الأوروبية - المسار الرابع",
       "round": null,
       "team_a": {
@@ -1463,7 +1464,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-28 20:45:00",
-      "last_updated_at": "2026-02-13 13:16:49",
+      "last_updated_at": "2026-09-27 09:02:08",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -1531,7 +1532,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-28 20:45:00",
-      "last_updated_at": "2026-07-15 09:04:54",
+      "last_updated_at": "2026-09-27 09:22:57",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -1827,7 +1828,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-28 18:00:00",
-      "last_updated_at": "2026-02-13 13:17:41",
+      "last_updated_at": "2026-09-27 08:57:09",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -1895,7 +1896,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-28 20:45:00",
-      "last_updated_at": "2026-02-13 13:17:41",
+      "last_updated_at": "2026-09-27 09:07:33",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -1963,7 +1964,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-28 20:45:00",
-      "last_updated_at": "2026-07-05 10:14:35",
+      "last_updated_at": "2026-09-27 09:11:14",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -2031,7 +2032,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-09-28 20:45:00",
-      "last_updated_at": "2026-02-13 13:24:57",
+      "last_updated_at": "2026-09-27 09:15:29",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -2467,7 +2468,16 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        }
+      ],
       "venue": null
     },
     {
@@ -2491,7 +2501,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "TV 360",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/z4cVAid7BylbAo2m5tOJK.jpg"
+        }
+      ],
       "venue": null
     },
     {
@@ -2629,6 +2644,30 @@
       "venue": {
         "name": "رامون سانشيز بثخوان"
       }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-09-29 20:45:00",
+      "last_updated_at": "2026-09-27 12:31:50",
+      "competition": "تصفيات كأس الاتحاد الإنجليزي",
+      "round": null,
+      "team_a": {
+        "name": "وودفورد تاون",
+        "code_name": "WOD",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Hr_JgPppqapmfwytfpjEU.png"
+      },
+      "team_b": {
+        "name": "مولبارتون واندررز",
+        "code_name": "MWA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/D3EGSEjyuos7O8vUATLSS.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
     },
     {
       "status": "FIXTURE",
