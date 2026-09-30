@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-09-30 07:54:40",
+  "fetched_at_egypt": "2026-09-30 14:15:54",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -56,6 +56,7 @@
       "دوري أوروجواي الممتاز",
       "دوري أيرلندا الشمالية الدرجة الأولى",
       "دوري الدرجة الأولى الأرجنتيني",
+      "دوري الدرجة الثانية الأرجنتيني",
       "دوري الدرجة الثانية الدنماركي",
       "دوري السوبر الأمريكي للسيدات",
       "دوري الولايات المتحدة",
@@ -85,9 +86,9 @@
   "matches_count": 71,
   "matches": [
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-09-30 09:00:00",
-      "last_updated_at": "2026-09-17 15:11:01",
+      "last_updated_at": "2026-09-30 10:55:09",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -101,17 +102,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0qeFrM-vXOAqlhb0_dhcB.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "SUSPENDED",
       "start_date_egypt": "2026-09-30 14:00:00",
-      "last_updated_at": "2026-09-17 15:11:01",
+      "last_updated_at": "2026-09-30 14:13:22",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -125,8 +126,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OhC-6pJYtIPTNctDjQWEg.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -251,7 +252,32 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Sky Sport",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/niIleCvflOdLoS6TrRBVr.png"
+        },
+        {
+          "name": "Match TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/OLrK56I6Wd85hEW7cffXk.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "VG+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/fBhupqwsrjewAtVmSQNsw.jpg"
+        },
+        {
+          "name": "DAZN japan",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/U3fGmZs6QvYl3az5bZ51s.png"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        }
+      ],
       "venue": null
     },
     {
@@ -1043,7 +1069,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-01 20:45:00",
-      "last_updated_at": "2026-05-08 11:55:35",
+      "last_updated_at": "2026-09-30 10:04:52",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -1111,7 +1137,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-01 20:45:00",
-      "last_updated_at": "2026-07-06 14:10:27",
+      "last_updated_at": "2026-09-30 10:07:07",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -1179,7 +1205,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-01 20:45:00",
-      "last_updated_at": "2026-02-13 13:30:22",
+      "last_updated_at": "2026-09-30 09:58:25",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -1251,7 +1277,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-01 20:45:00",
-      "last_updated_at": "2026-02-13 13:30:23",
+      "last_updated_at": "2026-09-30 10:17:01",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -1530,7 +1556,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-01 20:45:00",
-      "last_updated_at": "2026-02-13 13:21:39",
+      "last_updated_at": "2026-09-30 10:10:38",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -1598,7 +1624,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-01 20:45:00",
-      "last_updated_at": "2026-07-06 14:21:06",
+      "last_updated_at": "2026-09-30 10:12:38",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -2079,7 +2105,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        }
+      ],
       "venue": null
     },
     {
