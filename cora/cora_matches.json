@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-10-02 08:06:38",
+  "fetched_at_egypt": "2026-10-02 15:05:59",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -299,9 +299,62 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-02 13:00:00",
-      "last_updated_at": "2026-09-30 13:51:00",
+      "last_updated_at": "2026-10-02 14:55:34",
+      "competition": "المباريات الودية",
+      "round": null,
+      "team_a": {
+        "name": "كوريا الجنوبية",
+        "code_name": "كوريا الجنوبية",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MVDYf1me3yjM9zii5xDsA.png"
+      },
+      "team_b": {
+        "name": "فنزويلا",
+        "code_name": "فنزويلا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/U2mODg3pqkGc5fsGD7MjH.png"
+      },
+      "score": {
+        "team_a": 0,
+        "team_b": 0
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "LIVE",
+      "start_date_egypt": "2026-10-02 13:35:00",
+      "last_updated_at": "2026-10-02 14:55:50",
+      "competition": "المباريات الودية",
+      "round": null,
+      "team_a": {
+        "name": "الصين",
+        "code_name": "الصين",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NTv9U_AAtFxqrY8D7rJe1.png"
+      },
+      "team_b": {
+        "name": "فلسطين",
+        "code_name": "فلسطين",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HUua4d35yXoglS9exhj2E.png"
+      },
+      "score": {
+        "team_a": 0,
+        "team_b": 4
+      },
+      "tv_audio": [],
+      "tv_channels": [
+        {
+          "name": "Migu",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ul8r9tnafpgAOCU4jB438.png"
+        }
+      ],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-10-02 15:00:00",
+      "last_updated_at": "2026-10-02 09:09:31",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -323,64 +376,6 @@
         {
           "name": "UBC TV",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/pYW6x4kk1SoIWA5syKCRk.jpg"
-        }
-      ],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-02 13:00:00",
-      "last_updated_at": "2026-09-21 19:42:22",
-      "competition": "المباريات الودية",
-      "round": null,
-      "team_a": {
-        "name": "كوريا الجنوبية",
-        "code_name": "كوريا الجنوبية",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MVDYf1me3yjM9zii5xDsA.png"
-      },
-      "team_b": {
-        "name": "فنزويلا",
-        "code_name": "فنزويلا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/U2mODg3pqkGc5fsGD7MjH.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "TVN",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9628K3l7YQyWDzczLrtuJ.png"
-        }
-      ],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-02 13:35:00",
-      "last_updated_at": "2026-09-17 15:11:01",
-      "competition": "المباريات الودية",
-      "round": null,
-      "team_a": {
-        "name": "الصين",
-        "code_name": "الصين",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NTv9U_AAtFxqrY8D7rJe1.png"
-      },
-      "team_b": {
-        "name": "فلسطين",
-        "code_name": "فلسطين",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HUua4d35yXoglS9exhj2E.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Migu",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ul8r9tnafpgAOCU4jB438.png"
         }
       ],
       "venue": null
@@ -3322,8 +3317,8 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-10-04 21:00:00",
-      "last_updated_at": "2026-09-01 09:27:23",
+      "start_date_egypt": "2026-10-04 22:00:00",
+      "last_updated_at": "2026-10-02 10:46:04",
       "competition": "دوري أمم الكونكاكاف",
       "round": null,
       "team_a": {
