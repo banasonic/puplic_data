@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-10-03 00:52:08",
+  "fetched_at_egypt": "2026-10-03 03:49:08",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -129,9 +129,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-02 23:00:00",
-      "last_updated_at": "2026-10-03 00:45:05",
+      "last_updated_at": "2026-10-03 00:53:24",
       "competition": "دوري أمم الكونكاكاف",
       "round": null,
       "team_a": {
@@ -153,9 +153,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-03 00:00:00",
-      "last_updated_at": "2026-10-03 00:48:16",
+      "last_updated_at": "2026-10-03 01:53:12",
       "competition": "دوري أمم الكونكاكاف",
       "round": null,
       "team_a": {
@@ -177,9 +177,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-03 02:00:00",
-      "last_updated_at": "2026-09-01 09:24:20",
+      "last_updated_at": "2026-10-03 03:46:38",
       "competition": "دوري أمم الكونكاكاف",
       "round": null,
       "team_a": {
@@ -193,17 +193,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Rr7IGe2Siyml7Vp4YNqKe.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-03 02:00:00",
-      "last_updated_at": "2026-09-01 09:24:45",
+      "last_updated_at": "2026-10-03 03:43:24",
       "competition": "دوري أمم الكونكاكاف",
       "round": null,
       "team_a": {
@@ -217,17 +217,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Qjjvhz12IAYNy2yGnzwId.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 4,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-03 02:00:00",
-      "last_updated_at": "2026-09-01 09:25:05",
+      "last_updated_at": "2026-10-03 03:25:55",
       "competition": "دوري أمم الكونكاكاف",
       "round": null,
       "team_a": {
@@ -241,8 +241,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hQg4Y-BoN65gKMJzqsin1.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 3
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -369,9 +369,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-03 02:00:00",
-      "last_updated_at": "2026-09-21 20:00:26",
+      "last_updated_at": "2026-10-03 03:21:31",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -385,8 +385,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Jmg5sxbW4X3-SOx8V8wKz.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [
