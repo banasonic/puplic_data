@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-10-04 11:31:27",
+  "fetched_at_egypt": "2026-10-04 16:57:43",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -51,6 +51,7 @@
       "الدوري الكوري الجنوبي الدرجة الثالثة",
       "الدوري الكولومبي",
       "الدوري الكولومبي الدرجة الثانية",
+      "الدوري المكسيكي الدرجة الثالثة",
       "الدوري المكسيكي الدرجة الثانية",
       "الدوري المكسيكي للسيدات",
       "الدوري النرويجي الدرجة الأولى",
@@ -95,10 +96,10 @@
   },
   "daily_matches_count": {
     "2026-10-04": 23,
-    "2026-10-05": 23,
+    "2026-10-05": 24,
     "2026-10-06": 53
   },
-  "matches_count": 99,
+  "matches_count": 100,
   "matches": [
     {
       "status": "FIXTURE",
@@ -293,9 +294,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-04 15:00:00",
-      "last_updated_at": "2026-09-29 10:19:07",
+      "last_updated_at": "2026-10-04 16:14:00",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -309,8 +310,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t5zWNisgikzhA12eHM04C.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -322,9 +323,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-04 16:00:00",
-      "last_updated_at": "2026-10-04 07:54:40",
+      "last_updated_at": "2026-10-04 16:49:24",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -338,8 +339,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OG-Xa6EIjRy0EpSikEZXu.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -432,9 +433,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "CANCELLED",
       "start_date_egypt": "2026-10-05 00:30:00",
-      "last_updated_at": "2026-09-30 15:11:08",
+      "last_updated_at": "2026-10-04 14:28:45",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -448,8 +449,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P1csxHJ2BNPMfC6_fVjJi.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -728,9 +729,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-04 15:00:00",
-      "last_updated_at": "2026-09-10 10:06:58",
+      "last_updated_at": "2026-10-04 16:55:09",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -744,8 +745,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iccTIvf8FHCylooZJ45_.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 3
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -754,7 +755,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-04 18:00:00",
-      "last_updated_at": "2026-10-03 16:11:59",
+      "last_updated_at": "2026-10-04 16:49:54",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -888,9 +889,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-04 15:00:00",
-      "last_updated_at": "2026-09-16 12:21:09",
+      "last_updated_at": "2026-10-04 16:05:05",
       "competition": "دوري الأمم الأوروبية - المسار الرابع",
       "round": null,
       "team_a": {
@@ -904,8 +905,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JxzNKSSw9fUSluXv_WWwv.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -962,7 +963,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-04 18:00:00",
-      "last_updated_at": "2026-07-06 14:31:53",
+      "last_updated_at": "2026-10-04 16:50:06",
       "competition": "دوري الأمم الأوروبية - المسار الرابع",
       "round": null,
       "team_a": {
@@ -1221,30 +1222,6 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-10-05 12:00:00",
-      "last_updated_at": "2026-09-21 19:57:37",
-      "competition": "المباريات الودية",
-      "round": null,
-      "team_a": {
-        "name": "أوغندا",
-        "code_name": "أوغندا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2nOO75EgY9xQr2F2yBIqF.png"
-      },
-      "team_b": {
-        "name": "الكونغو الديمقراطية",
-        "code_name": "الكونغو الديمقراطية",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/boummC7lFCZgURd3Xpb_U.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
       "start_date_egypt": "2026-10-05 12:30:00",
       "last_updated_at": "2026-10-01 14:52:11",
       "competition": "المباريات الودية",
@@ -1269,6 +1246,30 @@
     },
     {
       "status": "FIXTURE",
+      "start_date_egypt": "2026-10-05 15:00:00",
+      "last_updated_at": "2026-10-04 14:34:13",
+      "competition": "المباريات الودية",
+      "round": null,
+      "team_a": {
+        "name": "أوغندا",
+        "code_name": "أوغندا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2nOO75EgY9xQr2F2yBIqF.png"
+      },
+      "team_b": {
+        "name": "الكونغو الديمقراطية",
+        "code_name": "الكونغو الديمقراطية",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/boummC7lFCZgURd3Xpb_U.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
       "start_date_egypt": "2026-10-05 17:00:00",
       "last_updated_at": "2026-09-29 10:19:32",
       "competition": "المباريات الودية",
@@ -1282,6 +1283,30 @@
         "name": "موريشيوس",
         "code_name": "موريشيوس",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ip1AAeZ56lhihI0XVm7LV.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-10-05 18:00:00",
+      "last_updated_at": "2026-10-04 14:38:33",
+      "competition": "المباريات الودية",
+      "round": null,
+      "team_a": {
+        "name": "رواندا",
+        "code_name": "رواندا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nGyWclOf2amnVYFAVX0v0.png"
+      },
+      "team_b": {
+        "name": "كينيا",
+        "code_name": "كينيا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/M1Q6k3nP-CSPCarb7u2_O.png"
       },
       "score": {
         "team_a": null,
@@ -1344,7 +1369,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-05 20:45:00",
-      "last_updated_at": "2026-02-13 13:16:54",
+      "last_updated_at": "2026-10-04 13:37:30",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -1412,7 +1437,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-05 20:45:00",
-      "last_updated_at": "2026-07-06 14:09:29",
+      "last_updated_at": "2026-10-04 13:44:53",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -1566,7 +1591,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-05 20:45:00",
-      "last_updated_at": "2026-02-13 13:17:45",
+      "last_updated_at": "2026-10-04 13:47:01",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -1634,7 +1659,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-05 20:45:00",
-      "last_updated_at": "2026-08-04 11:45:45",
+      "last_updated_at": "2026-10-04 14:27:58",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -1702,7 +1727,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-05 20:45:00",
-      "last_updated_at": "2026-07-06 14:23:51",
+      "last_updated_at": "2026-10-04 13:35:44",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -1770,7 +1795,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-05 20:45:00",
-      "last_updated_at": "2026-07-06 14:23:33",
+      "last_updated_at": "2026-10-04 14:02:44",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
