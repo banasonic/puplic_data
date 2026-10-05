@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-10-05 00:15:46",
+  "fetched_at_egypt": "2026-10-05 03:13:23",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -178,9 +178,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-05 00:00:00",
-      "last_updated_at": "2026-10-05 00:01:47",
+      "last_updated_at": "2026-10-05 01:53:47",
       "competition": "دوري أمم الكونكاكاف",
       "round": null,
       "team_a": {
@@ -194,17 +194,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/f1PffFoNxPYbteC9zYPZn.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 0
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-05 00:00:00",
-      "last_updated_at": "2026-10-05 00:01:26",
+      "last_updated_at": "2026-10-05 01:52:42",
       "competition": "دوري أمم الكونكاكاف",
       "round": null,
       "team_a": {
@@ -218,7 +218,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kMKvexNTgsznrGfp17Yup.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 0
       },
       "tv_audio": [],
@@ -226,9 +226,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-05 01:00:00",
-      "last_updated_at": "2026-09-01 09:27:42",
+      "last_updated_at": "2026-10-05 02:54:04",
       "competition": "دوري أمم الكونكاكاف",
       "round": null,
       "team_a": {
@@ -242,17 +242,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wHav8BlCX2mKsTV6Df3yD.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 2
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-05 02:00:00",
-      "last_updated_at": "2026-09-01 09:26:13",
+      "last_updated_at": "2026-10-05 03:02:57",
       "competition": "دوري أمم الكونكاكاف",
       "round": null,
       "team_a": {
@@ -266,8 +266,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P_GinAct1J27Hfcr_qSys.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -370,30 +370,6 @@
       "venue": null
     },
     {
-      "status": "CANCELLED",
-      "start_date_egypt": "2026-10-04 20:00:00",
-      "last_updated_at": "2026-10-01 09:41:15",
-      "competition": "المباريات الودية",
-      "round": null,
-      "team_a": {
-        "name": "المغرب",
-        "code_name": "المغرب",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fUywga5rPodLl9WOl6Ljz.png"
-      },
-      "team_b": {
-        "name": "غانا",
-        "code_name": "غانا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NU7qndtEZHRIFGHPwd-Ud.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
       "status": "RESULT",
       "start_date_egypt": "2026-10-04 20:00:00",
       "last_updated_at": "2026-10-04 22:03:08",
@@ -412,6 +388,30 @@
       "score": {
         "team_a": 1,
         "team_b": 1
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "CANCELLED",
+      "start_date_egypt": "2026-10-04 20:00:00",
+      "last_updated_at": "2026-10-01 09:41:15",
+      "competition": "المباريات الودية",
+      "round": null,
+      "team_a": {
+        "name": "المغرب",
+        "code_name": "المغرب",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fUywga5rPodLl9WOl6Ljz.png"
+      },
+      "team_b": {
+        "name": "غانا",
+        "code_name": "غانا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NU7qndtEZHRIFGHPwd-Ud.png"
+      },
+      "score": {
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
