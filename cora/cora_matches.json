@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-10-05 09:38:35",
+  "fetched_at_egypt": "2026-10-05 19:00:05",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -8,8 +8,6 @@
       "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
       "التصفيات المؤهلة لأمم أوروبا للشباب",
       "المباريات الودية",
-      "تصفيات الصعود والهبوط في الدوري الكيني الممتاز",
-      "تصفيات كأس الاتحاد الإنجليزي",
       "دوري أمم الكونكاكاف",
       "دوري الأمم الأوروبية - المسار الأول",
       "دوري الأمم الأوروبية - المسار الثالث",
@@ -32,7 +30,6 @@
       "الدوري البرازيلي",
       "الدوري البرازيلي الدرجة الثانية",
       "الدوري البلجيكي الدرجة الثالثة",
-      "الدوري السلوفيني الدرجة الثانية",
       "الدوري الصيني الدرجة الأولى",
       "الدوري الفنلندي",
       "الدوري الفنلندي الدرجة الثالثة",
@@ -47,11 +44,9 @@
       "دوري الدرجة الأولى الأرجنتيني",
       "دوري الدرجة الثالثة الأرجنتيني",
       "دوري الدرجة الثانية الأرجنتيني",
-      "دوري الدرجة الرابعة الأرجنتيني",
       "دوري السوبر اليوناني الدرجة الثانية",
       "دوري الولايات المتحدة  الدرجة الثالثة",
       "دوري باراجواي",
-      "دوري باراجواي الدرجة الثانية",
       "دوري بيرو الدرجة الثانية",
       "كأس الإكوادور",
       "كأس السويد",
@@ -60,16 +55,16 @@
       "كأس اليابان",
       "كأس تشيلي",
       "كأس دوري كرة القدم الإنجليزية",
-      "كأس فيتنام",
+      "وديات الأندية",
       "وديات تحت 21 عاماً"
     ]
   },
   "daily_matches_count": {
     "2026-10-05": 24,
-    "2026-10-06": 54,
+    "2026-10-06": 48,
     "2026-10-07": 7
   },
-  "matches_count": 85,
+  "matches_count": 79,
   "matches": [
     {
       "status": "FIXTURE",
@@ -240,9 +235,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-05 08:30:00",
-      "last_updated_at": "2026-10-05 09:35:35",
+      "last_updated_at": "2026-10-05 10:41:24",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -256,7 +251,7 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/U2tE_62VTz9Gz4i-FxPqz.png"
       },
       "score": {
-        "team_a": 0,
+        "team_a": 1,
         "team_b": 1
       },
       "tv_audio": [],
@@ -264,9 +259,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-05 12:30:00",
-      "last_updated_at": "2026-10-01 14:52:11",
+      "last_updated_at": "2026-10-05 14:24:47",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -280,17 +275,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eexrIS6j2TmF--YRZvanW.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-05 15:00:00",
-      "last_updated_at": "2026-10-04 14:34:13",
+      "last_updated_at": "2026-10-05 16:57:32",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -304,17 +299,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/boummC7lFCZgURd3Xpb_U.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-05 17:00:00",
-      "last_updated_at": "2026-09-29 10:19:32",
+      "last_updated_at": "2026-10-05 18:42:48",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -328,17 +323,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ip1AAeZ56lhihI0XVm7LV.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 2
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-05 18:00:00",
-      "last_updated_at": "2026-10-04 14:38:33",
+      "last_updated_at": "2026-10-05 18:50:02",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -352,8 +347,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/M1Q6k3nP-CSPCarb7u2_O.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -546,9 +541,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-05 16:30:00",
-      "last_updated_at": "2026-09-11 16:26:10",
+      "last_updated_at": "2026-10-05 18:25:45",
       "competition": "التصفيات المؤهلة لأمم أوروبا للشباب",
       "round": null,
       "team_a": {
@@ -562,22 +557,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lhUfUTF5Y5_iOiGy7f0IB.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "TVCG 3",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qOeI079FKQSHIJ7RGYhDR.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-05 18:15:00",
-      "last_updated_at": "2026-09-11 16:26:10",
+      "last_updated_at": "2026-10-05 18:41:48",
       "competition": "التصفيات المؤهلة لأمم أوروبا للشباب",
       "round": null,
       "team_a": {
@@ -591,8 +581,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iGnih7GKu56Fd86OPZSgs.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -608,9 +598,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-05 18:30:00",
-      "last_updated_at": "2026-09-11 16:26:10",
+      "last_updated_at": "2026-10-05 18:47:00",
       "competition": "التصفيات المؤهلة لأمم أوروبا للشباب",
       "round": null,
       "team_a": {
@@ -624,11 +614,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Jr7QFGEldNxUf10YtY1rD.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Viaplay Sweden",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/MHaqBAZPFCNLmY3BLyCbk.jpg"
+        }
+      ],
       "venue": null
     },
     {
@@ -838,7 +833,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-05 20:45:00",
-      "last_updated_at": "2026-10-04 14:02:44",
+      "last_updated_at": "2026-10-05 10:17:53",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -904,9 +899,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-05 18:00:00",
-      "last_updated_at": "2026-09-16 12:06:39",
+      "last_updated_at": "2026-10-05 18:47:55",
       "competition": "دوري الأمم الأوروبية - المسار الثالث",
       "round": null,
       "team_a": {
@@ -920,8 +915,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5R7ujTd8o28gukNf5laf8.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -1161,8 +1156,8 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-10-06 12:00:00",
-      "last_updated_at": "2026-10-01 13:06:05",
+      "start_date_egypt": "2026-10-06 13:00:00",
+      "last_updated_at": "2026-10-05 15:59:14",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -1468,7 +1463,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-06 20:45:00",
-      "last_updated_at": "2026-07-06 14:14:13",
+      "last_updated_at": "2026-10-05 12:05:23",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -1536,7 +1531,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-06 20:45:00",
-      "last_updated_at": "2026-02-13 13:26:00",
+      "last_updated_at": "2026-10-05 12:18:52",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -1600,126 +1595,6 @@
       "venue": {
         "name": "ويمبلي"
       }
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-06 20:45:00",
-      "last_updated_at": "2026-10-04 18:15:43",
-      "competition": "تصفيات كأس الاتحاد الإنجليزي",
-      "round": null,
-      "team_a": {
-        "name": "أثيرتون كولليريس",
-        "code_name": "ATC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gSxVm8E-hEcyRC9jzq9Ty.png"
-      },
-      "team_b": {
-        "name": "ترافورد",
-        "code_name": "TRA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-06 20:45:00",
-      "last_updated_at": "2026-10-04 10:18:51",
-      "competition": "تصفيات كأس الاتحاد الإنجليزي",
-      "round": null,
-      "team_a": {
-        "name": "هاليسوين",
-        "code_name": "HAL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bNZYq7LMs3XzH8lbcjjKT.png"
-      },
-      "team_b": {
-        "name": "ستافورد",
-        "code_name": "STA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OrJ92t3npVeauntn2WZZ1.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-06 20:45:00",
-      "last_updated_at": "2026-10-04 10:18:51",
-      "competition": "تصفيات كأس الاتحاد الإنجليزي",
-      "round": null,
-      "team_a": {
-        "name": "سكاربوروف أثليتيك",
-        "code_name": "SCA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3gDrbrXykq63CVMo2XqW7.png"
-      },
-      "team_b": {
-        "name": "ماكسفيلد",
-        "code_name": "MAC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kzBBcATod6MCftGBD5sKo.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-06 20:45:00",
-      "last_updated_at": "2026-10-04 10:18:51",
-      "competition": "تصفيات كأس الاتحاد الإنجليزي",
-      "round": null,
-      "team_a": {
-        "name": "سبالدينغ يونايتد",
-        "code_name": "SPA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uzwrq5-WtiUc7ErpRXMkb.png"
-      },
-      "team_b": {
-        "name": "بوري تاون",
-        "code_name": "BUT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qMtnZA16ziWhTjeXfaksS.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-06 20:45:00",
-      "last_updated_at": "2026-10-04 10:18:51",
-      "competition": "تصفيات كأس الاتحاد الإنجليزي",
-      "round": null,
-      "team_a": {
-        "name": "وينجات آند فينتشلي",
-        "code_name": "WIF",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yEs-1vSO_DJ1k-m-aa4MV.png"
-      },
-      "team_b": {
-        "name": "بيدفورد",
-        "code_name": "BED",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FGbRkb1zHpU8mRSddae50.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
     },
     {
       "status": "FIXTURE",
@@ -2463,14 +2338,52 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "MBC Action",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/eCZ0uJqj28EfwmfADiDxK.png"
+        },
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        },
+        {
+          "name": "MBC 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/OyD5j2kVLdziqxTvY1Mqg.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "AL KASS One",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/nbtPQAsNj_PdA3B_ZGOmL.jpg"
+        },
+        {
+          "name": "starzplay",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gGKOgFCA7gkaqRZLmUGOz.jpg"
+        },
+        {
+          "name": "شاشا",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exqaLs9Ay50yFBqNSA__h.png"
+        },
+        {
+          "name": "Sportdigital FUSSBALL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/hul1cGWamFCLcZpPryhaG.png"
+        },
+        {
+          "name": "Sportdigital1+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/itQZxlO1V614AU1nV-KqK.png"
+        },
+        {
+          "name": "Shoof",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/65SDvl2d8lfHwIHbg0_ir.png"
+        }
+      ],
       "venue": null
     },
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-06 20:45:00",
-      "last_updated_at": "2026-02-13 13:13:24",
+      "last_updated_at": "2026-10-05 13:34:13",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -2536,7 +2449,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-06 20:45:00",
-      "last_updated_at": "2026-02-13 13:13:25",
+      "last_updated_at": "2026-10-05 12:30:06",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -3014,30 +2927,6 @@
       "venue": {
         "name": "Stade de Luxembourg"
       }
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-06 14:00:00",
-      "last_updated_at": "2026-09-30 20:44:27",
-      "competition": "تصفيات الصعود والهبوط في الدوري الكيني الممتاز",
-      "round": null,
-      "team_a": {
-        "name": "كاريوبانجي",
-        "code_name": "KAS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GOjTvDy00pKqOClPiriUs.png"
-      },
-      "team_b": {
-        "name": "Mombasa United",
-        "code_name": "MOM",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
     },
     {
       "status": "FIXTURE",
