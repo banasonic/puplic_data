@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-10-07 17:23:23",
+  "fetched_at_egypt": "2026-10-07 22:45:21",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -28,7 +28,6 @@
       "الدوري الإسباني الدرجة الثالثة",
       "الدوري الإسباني الدرجة الرابعة",
       "الدوري الإكوادوري",
-      "الدوري الإكوادوري الدرجة الثانية",
       "الدوري الإنجليزي الدرجة الأولى",
       "الدوري الإنجليزي الدرجة الرابعة",
       "الدوري الإنجليزي الدرجة السادسة",
@@ -98,7 +97,6 @@
       "دوري التحدي السويسري - الدرجة الثانية",
       "دوري الدرجة الأولى الأرجنتيني",
       "دوري الدرجة الأولى الدنماركي",
-      "دوري الدرجة الأولى السعودي للمحترفين",
       "دوري الدرجة الثالثة الأرجنتيني",
       "دوري الدرجة الثالثة الدنماركي",
       "دوري الدرجة الثانية السعودي",
@@ -111,7 +109,6 @@
       "دوري باراجواي الدرجة الثانية",
       "دوري بوتسوانا",
       "دوري بوركينا فاسو",
-      "دوري بيرو الدرجة الثانية",
       "دوري بيرو الممتاز",
       "دوري بيلاروسيا الممتاز",
       "دوري جمهورية التشيك",
@@ -119,6 +116,7 @@
       "دوري جواتيمالا",
       "دوري سان مارينو",
       "دوري كوستاريكا",
+      "دوري كوستاريكا الدرجة الثانية",
       "دوري نجوم العراق",
       "دوري نجوم بنك الدوحة",
       "دوري هونج كونج",
@@ -543,6 +541,30 @@
     },
     {
       "status": "FIXTURE",
+      "start_date_egypt": "2026-10-09 15:30:00",
+      "last_updated_at": "2026-10-07 18:42:58",
+      "competition": "التصفيات المؤهلة لكأس العالم للسيدات - أوروبا",
+      "round": null,
+      "team_a": {
+        "name": "الكيان العبري للسيدات",
+        "code_name": "الكيان العبري للسيدات",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FKkap2yaU5kxyxtUcWdhE.png"
+      },
+      "team_b": {
+        "name": "سويسرا للسيدات",
+        "code_name": "SUI",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qIWPnOkFzQWOXNCoz1axD.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
       "start_date_egypt": "2026-10-09 17:30:00",
       "last_updated_at": "2026-09-13 09:42:13",
       "competition": "التصفيات المؤهلة لكأس العالم للسيدات - أوروبا",
@@ -735,30 +757,6 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-10-09 18:30:00",
-      "last_updated_at": "2026-09-13 09:42:13",
-      "competition": "التصفيات المؤهلة لكأس العالم للسيدات - أوروبا",
-      "round": null,
-      "team_a": {
-        "name": "الكيان العبري للسيدات",
-        "code_name": "الكيان العبري للسيدات",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FKkap2yaU5kxyxtUcWdhE.png"
-      },
-      "team_b": {
-        "name": "سويسرا للسيدات",
-        "code_name": "SUI",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qIWPnOkFzQWOXNCoz1axD.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
       "start_date_egypt": "2026-10-09 18:45:00",
       "last_updated_at": "2026-09-13 09:42:13",
       "competition": "التصفيات المؤهلة لكأس العالم للسيدات - أوروبا",
@@ -784,6 +782,30 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-09 19:00:00",
+      "last_updated_at": "2026-10-07 18:43:10",
+      "competition": "التصفيات المؤهلة لكأس العالم للسيدات - أوروبا",
+      "round": null,
+      "team_a": {
+        "name": "جمهورية التشيك للسيدات",
+        "code_name": "CZE",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HeNTchhfNQOkFhkP_vUHv.png"
+      },
+      "team_b": {
+        "name": "أسكتلندا للسيدات",
+        "code_name": "SCO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kX_YSRfbiH2nnVE-IMoQo.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-10-09 19:00:00",
       "last_updated_at": "2026-09-13 09:42:13",
       "competition": "التصفيات المؤهلة لكأس العالم للسيدات - أوروبا",
       "round": null,
@@ -796,30 +818,6 @@
         "name": "النرويج للسيدات",
         "code_name": "NOR",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1ar7-WjbHPttv0APLKcub.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-09 20:00:00",
-      "last_updated_at": "2026-09-23 14:59:40",
-      "competition": "التصفيات المؤهلة لكأس العالم للسيدات - أوروبا",
-      "round": null,
-      "team_a": {
-        "name": "جمهورية التشيك للسيدات",
-        "code_name": "CZE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HeNTchhfNQOkFhkP_vUHv.png"
-      },
-      "team_b": {
-        "name": "أسكتلندا للسيدات",
-        "code_name": "SCO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kX_YSRfbiH2nnVE-IMoQo.png"
       },
       "score": {
         "team_a": null,
@@ -879,8 +877,8 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-10-09 21:15:00",
-      "last_updated_at": "2026-09-23 14:58:43",
+      "start_date_egypt": "2026-10-09 20:15:00",
+      "last_updated_at": "2026-10-07 18:43:24",
       "competition": "التصفيات المؤهلة لكأس العالم للسيدات - أوروبا",
       "round": null,
       "team_a": {
