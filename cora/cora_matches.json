@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-10-08 16:52:55",
+  "fetched_at_egypt": "2026-10-08 22:36:09",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -120,7 +120,6 @@
       "الدوري المالطي الممتاز",
       "الدوري المجري",
       "الدوري المجري الدرجة الثانية",
-      "الدوري المصري الدرجة الثانية",
       "الدوري المغربي الممتاز",
       "الدوري المكسيكي الدرجة الثالثة",
       "الدوري المكسيكي الدرجة الثانية",
@@ -199,10 +198,10 @@
   },
   "daily_matches_count": {
     "2026-10-08": 0,
-    "2026-10-09": 29,
+    "2026-10-09": 24,
     "2026-10-10": 40
   },
-  "matches_count": 69,
+  "matches_count": 64,
   "matches": [
     {
       "status": "FIXTURE",
@@ -410,54 +409,6 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-10-09 12:00:00",
-      "last_updated_at": "2026-09-23 14:34:26",
-      "competition": "المباريات الودية",
-      "round": null,
-      "team_a": {
-        "name": "آندورا للسيدات",
-        "code_name": "ندو",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oRc9BxRoNZ5uBY0aHYJge.png"
-      },
-      "team_b": {
-        "name": "جزر الفارو للسيدات",
-        "code_name": "FO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WJF6-x1cSWcUu3PUc2ymX.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-09 16:00:00",
-      "last_updated_at": "2026-09-23 14:36:23",
-      "competition": "المباريات الودية",
-      "round": null,
-      "team_a": {
-        "name": "مولدوفا للسيدات",
-        "code_name": "مول",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KgVMW6nSdm1EvPHCXaAZa.png"
-      },
-      "team_b": {
-        "name": "جورجيا للسيدات",
-        "code_name": "GEO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vUjQ_m1pjIehY6ofBSxBa.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
       "start_date_egypt": "2026-10-09 20:30:00",
       "last_updated_at": "2026-08-19 14:06:03",
       "competition": "المباريات الودية",
@@ -536,78 +487,6 @@
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
         }
       ],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-10 03:30:00",
-      "last_updated_at": "2026-10-08 11:47:15",
-      "competition": "المباريات الودية",
-      "round": null,
-      "team_a": {
-        "name": "السلفادور",
-        "code_name": "SLV",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RY6o0nr2q8CWCwiJlwloj.png"
-      },
-      "team_b": {
-        "name": "باراجواي",
-        "code_name": "بار",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/z6z839WSSJrlOeTanI-Ta.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-09 12:30:00",
-      "last_updated_at": "2026-09-27 16:10:43",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
-      "round": null,
-      "team_a": {
-        "name": "ألمانيا",
-        "code_name": "GER",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aebHdOMjCo2aKIvKmJRRY.png"
-      },
-      "team_b": {
-        "name": "كازاخستان",
-        "code_name": "KAZ",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xiD-wRLooQQqo3iE-d6tc.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-09 17:00:00",
-      "last_updated_at": "2026-09-27 16:10:43",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
-      "round": null,
-      "team_a": {
-        "name": "أيسلندا",
-        "code_name": "ICE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-ftEBAch_QkQKIpBo-rS6.png"
-      },
-      "team_b": {
-        "name": "التشيك",
-        "code_name": "CZE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eralLorYtBBaOABkHYSqd.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
       "venue": null
     },
     {
