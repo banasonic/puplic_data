@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-10-15 09:11:59",
+  "fetched_at_egypt": "2026-10-15 14:49:25",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -98,6 +98,7 @@
       "الدوري الفرنسي الدرجة الثانية",
       "الدوري الفرنسي الدرجة الرابعة",
       "الدوري الفرنسي الوطني",
+      "الدوري الفنزويلي الممتاز",
       "الدوري الفنلندي",
       "الدوري الفنلندي الدرجة الثانية",
       "الدوري الفيتنامي",
@@ -172,6 +173,7 @@
       "دوري السوبر الماليزي",
       "دوري السوبر الهندي",
       "دوري السوبر اليوناني",
+      "دوري السوبر اليوناني الدرجة الثانية",
       "دوري المحترفين الإيراني",
       "دوري الولايات المتحدة",
       "دوري الولايات المتحدة  الدرجة الثالثة",
@@ -188,8 +190,10 @@
       "دوري جنوب إفريقيا الممتاز",
       "دوري جواتيمالا",
       "دوري كوستاريكا",
+      "دوري كوستاريكا الدرجة الثانية",
       "دوري لوكسومبورج الوطني",
       "دوري مقدونيا الشمالية",
+      "دوري مونتينيجرو",
       "دوري نجوم العراق",
       "دوري نجوم بنك الدوحة",
       "دوري هونج كونج",
@@ -222,8 +226,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/X963ylMA_nSxn3F6AOvrP.png"
       },
       "team_b": {
-        "name": "هابويل بير شيفا",
-        "code_name": "HBS",
+        "name": "هابويل بئر سبع",
+        "code_name": "هابويل بئر السبع",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TOTOd4xZYD_hMx1pwPK86.png"
       },
       "score": {
@@ -417,13 +421,13 @@
       "competition": "الدوري الأوروبي",
       "round": null,
       "team_a": {
-        "name": "سيليي NK",
-        "code_name": "CEL",
+        "name": "تساليه",
+        "code_name": "تساليه",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CObIiq7v0CI9-6h-6rvHO.png"
       },
       "team_b": {
         "name": "أومونيا نيقوسيا",
-        "code_name": "OMO",
+        "code_name": "أومونيا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mDsQXAxmtrNqeGYLlPrEP.png"
       },
       "score": {
@@ -551,7 +555,7 @@
       },
       "team_b": {
         "name": "ليلستروم",
-        "code_name": "LIL",
+        "code_name": "ليلستروم",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IGbF2AvTnm-I_Vw_wbHJX.png"
       },
       "score": {
@@ -1146,12 +1150,12 @@
       "round": null,
       "team_a": {
         "name": "ياجييلونيا بياليوستوك",
-        "code_name": "JAG",
+        "code_name": "ياجيلونيا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sUgnbwMe4NBm6MYSThEbA.png"
       },
       "team_b": {
         "name": "أرارات أرمينيا",
-        "code_name": "AMY",
+        "code_name": "أرارات",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FY4zR6lpqwWFueNv_58A4.png"
       },
       "score": {
@@ -1402,7 +1406,7 @@
       "round": null,
       "team_a": {
         "name": "سسكا صوفيا",
-        "code_name": "CSS",
+        "code_name": "سسكا صوفيا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YClTub2_rG1nbEuPQGoKq.png"
       },
       "team_b": {
@@ -1470,7 +1474,7 @@
       "round": null,
       "team_a": {
         "name": "إيجناتيا",
-        "code_name": "EGN",
+        "code_name": "إجناتيا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uq7IJ1XfWK4rzdb7TlRbC.png"
       },
       "team_b": {
@@ -1514,7 +1518,7 @@
       "round": null,
       "team_a": {
         "name": "جينت",
-        "code_name": "GNT",
+        "code_name": "خينت",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RbRJAkTnt3dvn2Naugpud.png"
       },
       "team_b": {
@@ -1562,7 +1566,7 @@
       "round": null,
       "team_a": {
         "name": "هايدوك سبليت",
-        "code_name": "HAS",
+        "code_name": "هايدوك سبلت",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EJd6EkdMreAZe_m1y8qFE.png"
       },
       "team_b": {
@@ -1630,7 +1634,7 @@
       "round": null,
       "team_a": {
         "name": "كوبس",
-        "code_name": "KUP",
+        "code_name": "كوبس",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DBu9rTSBxnYXIdCYQYfF1.png"
       },
       "team_b": {
@@ -1690,7 +1694,7 @@
       "round": null,
       "team_a": {
         "name": "لوجانو",
-        "code_name": "LUG",
+        "code_name": "لوجانو",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qr9a9GE4OVSYbnUaajt13.png"
       },
       "team_b": {
@@ -1754,7 +1758,7 @@
       "round": null,
       "team_a": {
         "name": "ميالبي",
-        "code_name": "MJA",
+        "code_name": "ميالبي",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AF9qBa2VQ9pUBATUnWaKn.png"
       },
       "team_b": {
@@ -1854,7 +1858,7 @@
       "round": null,
       "team_a": {
         "name": "آر إف إس",
-        "code_name": "RIG",
+        "code_name": "ريجا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YSrjxV2blw37IWTESMZX_.png"
       },
       "team_b": {
@@ -1898,7 +1902,7 @@
       "round": null,
       "team_a": {
         "name": "يونيفيرسيتاتيا كرايوفا",
-        "code_name": "UCR",
+        "code_name": "كرايوفا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dJVx12CsM66oxX7AjBToq.png"
       },
       "team_b": {
@@ -2035,7 +2039,7 @@
       },
       "team_b": {
         "name": "لينكولن ريد امبس",
-        "code_name": "LRI",
+        "code_name": "لينكولن",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7LWBpKyt4MbsOAl1nNuvM.png"
       },
       "score": {
@@ -2086,8 +2090,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
       },
       "team_b": {
-        "name": "كاونو زالغيريس",
-        "code_name": "KZA",
+        "name": "كاونو زالجيريس",
+        "code_name": "كاونو زالجيريس",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ORdtBTgP_ppXuqZySt_Vh.png"
       },
       "score": {
@@ -2227,7 +2231,7 @@
       },
       "team_b": {
         "name": "ثون",
-        "code_name": "THU",
+        "code_name": "ثون",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bptDfZ1phwKvKFNWVv2jB.png"
       },
       "score": {
@@ -2335,7 +2339,7 @@
       },
       "team_b": {
         "name": "إف سي نوردسيايلاند",
-        "code_name": "FCN",
+        "code_name": "نوردسيايلاند",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epUz-4Ys2oUs0PcIDMkTJ.png"
       },
       "score": {
@@ -2382,12 +2386,12 @@
       "round": null,
       "team_a": {
         "name": "سانت ترويدن",
-        "code_name": "STT",
+        "code_name": "سانت ترويدن",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1RK5udGe1ieimdSJ8tyoQ.png"
       },
       "team_b": {
-        "name": "Iberia 1999",
-        "code_name": "IBE",
+        "name": "أيبيريا",
+        "code_name": "أيبيريا",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d-RKCzCghp4MaIkp3TmMZ.png"
       },
       "score": {
