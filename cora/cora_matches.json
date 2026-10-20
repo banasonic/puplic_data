@@ -1,10 +1,9 @@
 {
-  "fetched_at_egypt": "2026-10-20 14:04:43",
+  "fetched_at_egypt": "2026-10-20 19:28:44",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
       "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
       "الدوري الأوروبي",
       "الدوري الإسباني",
       "الدوري المصري الممتاز",
@@ -33,39 +32,31 @@
       "الدوري الإنجليزي الدرجة السادسة",
       "الدوري الإيراني الدرجة الأولى",
       "الدوري الإيطالي الدرجة الثالثة",
-      "الدوري الإيطالي الدرجة الرابعة",
       "الدوري البحريني الممتاز",
       "الدوري البرازيلي الدرجة الثانية",
-      "الدوري البلجيكي الدرجة الثالثة",
       "الدوري الدنماركي للسيدات",
       "الدوري الروماني الدرجة الأولى",
       "الدوري السلفادوري",
       "الدوري السويدي الدرجة الأولى",
-      "الدوري السويسري الدرجة الثالثة",
       "الدوري الفيتنامي",
-      "الدوري الكاميروني الممتاز",
       "الدوري الكندي الدرجة الأولى",
       "الدوري الكولومبي",
       "الدوري الكولومبي الدرجة الثانية",
       "الدوري الليبي الممتاز",
       "الدوري المالطي الممتاز",
       "الدوري المصري الدرجة الثانية",
-      "الدوري المكسيكي الدرجة الثالثة",
       "الدوري المكسيكي الدرجة الثانية",
       "الدوري المكسيكي الممتاز",
       "الدوري المكسيكي للسيدات",
       "الدوري النرويجي الدرجة الأولى",
       "الدوري النرويجي الدرجة الأولى للسيدات",
       "الدوري النرويجي الدرجة الثالثة",
-      "الدوري الياباني الدرجة الأولى",
       "الدوري الياباني الدرجة الثالثة",
       "الدوري الياباني الدرجة الثانية",
       "الدوري الياباني الممتاز",
       "دوري أبطال أوروبا للشباب",
       "دوري أبطال إفريقيا - المرحلة التمهيدية",
       "دوري أيرلندا الشمالية الممتاز",
-      "دوري البوسنة والهرسك - الدرجة الثانية",
-      "دوري الدرجة الأولى السعودي للمحترفين",
       "دوري السوبر الأمريكي للسيدات",
       "دوري السوبر السنغافوري",
       "دوري المحترفين الإيراني",
@@ -78,7 +69,6 @@
       "كأس الاتحاد الانجليزي للسيدات",
       "كأس الاتحاد الكرواتي",
       "كأس الدنمارك",
-      "كأس الدنمارك للسيدات",
       "كأس الكاريبي (كونكاكاف)",
       "كأس النرويج للسيدات",
       "كأس الولايات المتحدة المفتوحة",
@@ -96,15 +86,15 @@
   },
   "daily_matches_count": {
     "2026-10-20": 28,
-    "2026-10-21": 15,
+    "2026-10-21": 13,
     "2026-10-22": 41
   },
-  "matches_count": 84,
+  "matches_count": 82,
   "matches": [
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-20 18:45:00",
-      "last_updated_at": "2026-10-19 13:35:56",
+      "last_updated_at": "2026-10-20 19:00:18",
       "competition": "دوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -118,8 +108,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VKbRDYN3uOPopTT0wEI1U.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 1
       },
       "tv_audio": [
         {
@@ -170,9 +160,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-20 18:45:00",
-      "last_updated_at": "2026-10-19 13:52:01",
+      "last_updated_at": "2026-10-20 19:24:04",
       "competition": "دوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -186,8 +176,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EmDXkZ5B61SrXUUTUPV3X.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [
         {
@@ -718,9 +708,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-20 16:00:00",
-      "last_updated_at": "2026-08-07 07:26:36",
+      "last_updated_at": "2026-10-20 17:53:49",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -734,24 +724,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/l22L9qjeS-jOBuS_QnBv5.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "Asyut University Stadium"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-20 16:00:00",
-      "last_updated_at": "2026-10-13 08:57:00",
+      "last_updated_at": "2026-10-20 18:04:54",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -765,24 +750,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/04HM4cw9TEvfPz20QVCyI.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 2
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport Plus",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2WIigj6BGnenxfPD1-XgA.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "ستاد السويس"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-20 19:00:00",
-      "last_updated_at": "2026-08-07 07:26:36",
+      "last_updated_at": "2026-10-20 19:16:27",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -796,8 +776,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JTf73VVwEf8AlNOdmNtN5.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_audio": [],
       "tv_channels": [
@@ -811,9 +791,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-20 19:00:00",
-      "last_updated_at": "2026-10-19 16:54:42",
+      "last_updated_at": "2026-10-20 19:15:55",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -827,8 +807,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JWW7CvCe5hMfY9EyPWGku.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -1106,9 +1086,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-20 17:00:00",
-      "last_updated_at": "2026-09-13 14:21:51",
+      "last_updated_at": "2026-10-20 18:59:23",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -1122,24 +1102,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8D33fH0xv4yRZ_mvT35Mt.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "الأول بارك"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-20 17:10:00",
-      "last_updated_at": "2026-08-31 13:21:35",
+      "last_updated_at": "2026-10-20 19:11:16",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -1153,15 +1128,10 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bIX9a115OlqAWxOo7AwXp.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "ملعب نادي التعاون"
@@ -1170,7 +1140,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-20 20:00:00",
-      "last_updated_at": "2026-08-31 13:21:35",
+      "last_updated_at": "2026-10-20 19:19:07",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -1201,7 +1171,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-20 20:00:00",
-      "last_updated_at": "2026-08-31 13:21:35",
+      "last_updated_at": "2026-10-20 19:04:06",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -2001,54 +1971,6 @@
       "venue": {
         "name": "ستاد هيئة قناة السويس الجديد"
       }
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-21 13:00:00",
-      "last_updated_at": "2026-09-27 16:30:49",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
-      "round": null,
-      "team_a": {
-        "name": "فرنسا",
-        "code_name": "FRA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SxeJFAkrDcnLGEWg9ZXA3.png"
-      },
-      "team_b": {
-        "name": "الكيان العبري تحت 17 عامًا للسيدات",
-        "code_name": "الكيان العبري تحت 17 عامًا للسيدات",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oKbdNNkbRad7jHL98An_Z.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-21 18:00:00",
-      "last_updated_at": "2026-09-27 16:30:49",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
-      "round": null,
-      "team_a": {
-        "name": "Sweden U17",
-        "code_name": "SWE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TtV6TPBzM3ctZgPl-3tfg.png"
-      },
-      "team_b": {
-        "name": "هولندا",
-        "code_name": "NLD",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EA7xs13NPx-1UKcw48i6a.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
     },
     {
       "status": "FIXTURE",
