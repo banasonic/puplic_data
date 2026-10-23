@@ -1,9 +1,8 @@
 {
-  "fetched_at_egypt": "2026-10-23 16:23:54",
+  "fetched_at_egypt": "2026-10-23 20:40:42",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
-      "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
       "الدوري الألماني",
       "الدوري الإسباني",
       "الدوري الإنجليزي الممتاز",
@@ -17,7 +16,6 @@
       "الدوري  التركي الدرجة الأولى",
       "الدوري  التركي الدرجة الثانية",
       "الدوري الأذربيجاني",
-      "الدوري الأردني للمحترفين",
       "الدوري الأرميني",
       "الدوري الأسترالي",
       "الدوري الأسترالي للسيدات",
@@ -45,7 +43,6 @@
       "الدوري الإسكتلندي الدرجة الثانية",
       "الدوري الإسكتلندي الممتاز",
       "الدوري الإكوادوري",
-      "الدوري الإكوادوري الدرجة الثانية",
       "الدوري الإنجليزي الدرجة الأولى",
       "الدوري الإنجليزي الدرجة الثالثة",
       "الدوري الإنجليزي الدرجة الثانية",
@@ -59,7 +56,6 @@
       "الدوري الإيطالي للسيدات",
       "الدوري الإيطالي للشباب",
       "الدوري الاحتياطي الممتاز 1",
-      "الدوري البحريني الممتاز",
       "الدوري البرازيلي",
       "الدوري البرازيلي الدرجة الثالثة",
       "الدوري البرازيلي الدرجة الثانية",
@@ -79,9 +75,7 @@
       "الدوري التايلندي",
       "الدوري التركي الممتاز",
       "الدوري التنزاني الممتاز",
-      "الدوري الجابوني",
       "الدوري الجامايكي الممتاز",
-      "الدوري الجورجي الدرجة الثانية",
       "الدوري الجورجي الممتاز",
       "الدوري الدنماركي",
       "الدوري الدنماركي للسيدات",
@@ -92,14 +86,12 @@
       "الدوري السلوفاكي الدرجة الأولى",
       "الدوري السويدي الدرجة الأولى",
       "الدوري السويدي الدرجة الثالثة",
-      "الدوري السويدي الدرجة الثالثة - ملحق الصعود والهبوط",
       "الدوري السويدي الدرجة الثانية",
       "الدوري السويدي الممتاز",
       "الدوري السويدي للسيدات",
       "الدوري السويسري الدرجة الثالثة",
       "الدوري الصربي",
       "الدوري الصيني الدرجة الأولى",
-      "الدوري العماني عمانتل",
       "الدوري الغاني الدرجة الثانية",
       "الدوري الغاني الممتاز",
       "الدوري الفرنسي الدرجة الثانية",
@@ -113,7 +105,6 @@
       "الدوري الكازاخستاني الممتاز",
       "الدوري الكاميروني الممتاز",
       "الدوري الكرواتي",
-      "الدوري الكرواتي الدرجة الثانية",
       "الدوري الكندي الممتاز",
       "الدوري الكوري الجنوبي",
       "الدوري الكوري الجنوبي الدرجة الثانية",
@@ -158,7 +149,6 @@
       "دوري أندورا",
       "دوري أوروجواي الدرجة الثانية",
       "دوري أوروجواي الممتاز",
-      "دوري أيرلندا الشمالية الدرجة الأولى",
       "دوري أيرلندا الشمالية الممتاز",
       "دوري البوسنة والهرسك",
       "دوري البوسنة والهرسك - الدرجة الثانية",
@@ -170,7 +160,6 @@
       "دوري الدرجة الثالثة الدنماركي",
       "دوري الدرجة الثانية الأرجنتيني",
       "دوري الدرجة الثانية الدنماركي",
-      "دوري الدرجة الثانية السعودي",
       "دوري الدرجة الرابعة الأرجنتيني",
       "دوري السوبر الألباني",
       "دوري السوبر الأمريكي للسيدات",
@@ -208,7 +197,6 @@
       "دوري مونتينيجرو",
       "دوري نجوم العراق",
       "دوري نجوم بنك الدوحة",
-      "كأس الإتحاد الإنجليزي للأندية الهواة",
       "كأس الاتحاد الإسكتلندي",
       "كأس النوك أوت الجنوب إفريقي",
       "كأس رئيس الدولة",
@@ -218,15 +206,15 @@
   },
   "daily_matches_count": {
     "2026-10-23": 10,
-    "2026-10-24": 96,
+    "2026-10-24": 27,
     "2026-10-25": 109
   },
-  "matches_count": 215,
+  "matches_count": 146,
   "matches": [
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-23 21:00:00",
-      "last_updated_at": "2026-10-22 14:52:38",
+      "last_updated_at": "2026-10-23 19:49:12",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -298,7 +286,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-23 21:00:00",
-      "last_updated_at": "2026-10-22 14:54:27",
+      "last_updated_at": "2026-10-23 19:58:25",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -364,9 +352,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-23 20:30:00",
-      "last_updated_at": "2026-10-22 14:46:17",
+      "last_updated_at": "2026-10-23 20:35:17",
       "competition": "الدوري الألماني",
       "round": null,
       "team_a": {
@@ -380,8 +368,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HM49b4dKNaIgkvz6V2U4U.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -434,7 +422,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-23 20:45:00",
-      "last_updated_at": "2026-10-22 14:49:24",
+      "last_updated_at": "2026-10-23 20:02:32",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -502,7 +490,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-23 20:45:00",
-      "last_updated_at": "2026-10-22 14:47:38",
+      "last_updated_at": "2026-10-23 19:48:05",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -570,7 +558,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-23 21:05:00",
-      "last_updated_at": "2026-10-17 22:11:55",
+      "last_updated_at": "2026-10-23 20:17:48",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -592,9 +580,9 @@
       "venue": null
     },
     {
-      "status": "LIVE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-23 15:30:00",
-      "last_updated_at": "2026-10-23 16:17:44",
+      "last_updated_at": "2026-10-23 17:24:04",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -608,24 +596,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xkFt_WVJYpUJPpA1XtvNo.png"
       },
       "score": {
-        "team_a": 0,
-        "team_b": 1
+        "team_a": 1,
+        "team_b": 3
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "مدينة المجمعة الرياضية"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-23 17:30:00",
-      "last_updated_at": "2026-08-31 13:21:35",
+      "last_updated_at": "2026-10-23 19:26:57",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -639,24 +622,19 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpbeObfsZEfvhmtFw9MNW.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 2,
+        "team_b": 0
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "الإنماء"
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-23 20:00:00",
-      "last_updated_at": "2026-10-23 08:39:48",
+      "last_updated_at": "2026-10-23 20:19:18",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -670,8 +648,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7uAvqwEaOvBj1Esi0HzuD.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -685,9 +663,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-23 20:00:00",
-      "last_updated_at": "2026-08-31 13:21:35",
+      "last_updated_at": "2026-10-23 20:31:43",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -701,8 +679,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7B-B14BUExP3pp4zNnlrX.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 1
       },
       "tv_audio": [
         {
@@ -922,7 +900,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 18:30:00",
-      "last_updated_at": "2026-10-21 19:00:09",
+      "last_updated_at": "2026-10-23 16:23:10",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -1058,7 +1036,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 16:15:00",
-      "last_updated_at": "2026-10-21 17:00:09",
+      "last_updated_at": "2026-10-23 14:59:34",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -1534,7 +1512,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 15:30:00",
-      "last_updated_at": "2026-10-21 16:00:11",
+      "last_updated_at": "2026-10-23 15:20:35",
       "competition": "الدوري الألماني",
       "round": null,
       "team_a": {
@@ -1602,7 +1580,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 18:30:00",
-      "last_updated_at": "2026-10-21 19:00:09",
+      "last_updated_at": "2026-10-23 16:35:56",
       "competition": "الدوري الألماني",
       "round": null,
       "team_a": {
@@ -1738,7 +1716,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 15:00:00",
-      "last_updated_at": "2026-10-21 15:00:08",
+      "last_updated_at": "2026-10-23 15:12:17",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -1806,7 +1784,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-21 18:00:09",
+      "last_updated_at": "2026-10-23 16:57:22",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -1874,7 +1852,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 20:45:00",
-      "last_updated_at": "2026-10-21 21:00:08",
+      "last_updated_at": "2026-10-23 17:01:51",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -2010,1614 +1988,6 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 15:00:00",
-      "last_updated_at": "2026-10-18 16:30:34",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Cernex ES",
-        "code_name": "CER",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "RCF 07",
-        "code_name": "RCF",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 15:00:00",
-      "last_updated_at": "2026-10-19 14:46:08",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Concarneau Hermine",
-        "code_name": "CHE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "Tinteniac FC",
-        "code_name": "TIN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 15:00:00",
-      "last_updated_at": "2026-10-19 11:43:14",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Roeschwoog",
-        "code_name": "ROE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "بيشايم",
-        "code_name": "BIE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/S4OWrDdwozJmgBHdA3NwG.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 15:30:00",
-      "last_updated_at": "2026-10-19 11:43:14",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Bogny",
-        "code_name": "BOG",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NvWcbhSoJ-Y6za6QIuYZo.png"
-      },
-      "team_b": {
-        "name": "Thionville Lusitanos",
-        "code_name": "THI",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/owrthkbx6swf__YEMg2hw.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 15:30:00",
-      "last_updated_at": "2026-10-18 16:30:34",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "فور",
-        "code_name": "FEU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4NtzJx1bH3lwMUp6q_4x1.png"
-      },
-      "team_b": {
-        "name": "US Monistrol",
-        "code_name": "MON",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 16:00:00",
-      "last_updated_at": "2026-10-18 13:00:29",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "SCNA Derval",
-        "code_name": "DER",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "لو بوار سور فاي",
-        "code_name": "LPS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wAmjC_4J8lKxAf-Tledye.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 16:00:00",
-      "last_updated_at": "2026-10-18 16:30:34",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "US Sucs et Lignon",
-        "code_name": "USS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "هوت ليوني",
-        "code_name": "HTL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CrO6Tpez6WIyEx1SO-XCJ.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 17:00:00",
-      "last_updated_at": "2026-10-19 13:37:21",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "فريوس ساينت رافايل",
-        "code_name": "EFS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MJwskdZ4g7TbFbHz-ioaE.png"
-      },
-      "team_b": {
-        "name": "فوسين",
-        "code_name": "FOS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8Kt9dYkL3o0jYmlMaLYeg.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 17:00:00",
-      "last_updated_at": "2026-10-19 14:46:08",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "سانت بريوك",
-        "code_name": "BRI",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/v5fYp7l28W_aYQlM2c30p.png"
-      },
-      "team_b": {
-        "name": "أرجينتري دو بليسيس أو رين تي أي",
-        "code_name": "RTA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/URnDAP03WPtJ-rb5-rSSp.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 17:00:00",
-      "last_updated_at": "2026-10-19 14:46:08",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Saint Pierre Milizac",
-        "code_name": "SPM",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/un3wSd86OJQfTng1ORoqz.png"
-      },
-      "team_b": {
-        "name": "إيرج جابريك",
-        "code_name": "EGP",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zPMPNk_-YzjcxHaUgrBZQ.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-18 16:30:34",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "AS Domarin",
-        "code_name": "ASD",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "فيليفرانش سور ساون",
-        "code_name": "VFS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fGXlcslb-66nZbn9SGodL.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-20 12:38:14",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "أس ستينفوردي",
-        "code_name": "ASS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VTy4N9EmjRXOdu6Dn7S95.png"
-      },
-      "team_b": {
-        "name": "أماينز",
-        "code_name": "ASC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CrlckRjHu30ocy6HXr-iZ.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 10:35:49",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "الفوزيل",
-        "code_name": "ASA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "كوسن",
-        "code_name": "COS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XOdQFNMWzx0MAPevWD910.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-18 15:49:43",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "بلوا",
-        "code_name": "BLO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TxAYlRuAZIQqeOP9rMylh.png"
-      },
-      "team_b": {
-        "name": "أورلينز",
-        "code_name": "ORL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PJfN1DcJL0hoH_l4Pu9Rh.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 10:35:48",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "سانت ساوفور",
-        "code_name": "CSS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0VRQQCpiwikliir_J8_ZW.png"
-      },
-      "team_b": {
-        "name": "فاسول",
-        "code_name": "VES",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3fk1pxxUkWJc0JuhZsUJQ.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-18 16:30:34",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Colombier Satolas",
-        "code_name": "COS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "شاسيو ديسين",
-        "code_name": "CDE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zBwjoMqjYO9I_n2mXboSq.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-20 23:22:39",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Comtal",
-        "code_name": "COM",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oj7ZDVu9J5_mv5zmA1Ibe.png"
-      },
-      "team_b": {
-        "name": "بالما",
-        "code_name": "BAL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uCYNMn9E3ToZCxOWfZxEK.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-18 16:30:34",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "انتىنت كريست أوستى",
-        "code_name": "CTA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uIVvg1WE3Rcs-P_W5q0cm.png"
-      },
-      "team_b": {
-        "name": "فالينسى",
-        "code_name": "ODV",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pbz_15CZyxN39MbkDcMC4.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 10:35:48",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "ديجون إيه إس بي تي تي",
-        "code_name": "DJA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/i1kDJ7JZ249Vr8awSsrtg.png"
-      },
-      "team_b": {
-        "name": "EF Villages",
-        "code_name": "VLG",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-20 23:22:40",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "FC 2 Rives 82",
-        "code_name": "FC2",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "ستاد بيايكاريوس 30",
-        "code_name": "STB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PJca3ypRAwxrySvkbnIH9.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-18 16:30:34",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "ريوم",
-        "code_name": "FRI",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5YXxuzZbE9NnntQuZ5AON.png"
-      },
-      "team_b": {
-        "name": "زوير",
-        "code_name": "YZE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/D4dFW-PdvesW4br3n4nvw.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 11:43:14",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "ستراسبورغ كوينشوفين",
-        "code_name": "FCO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/A1Ne43f1mSsK6DCgxCXxm.png"
-      },
-      "team_b": {
-        "name": "هاجيوناو",
-        "code_name": "HAG",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Yzw__jw0wRITYfvLYGoJV.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 10:35:49",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "FCVI St Maurice Blussans",
-        "code_name": "FCV",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "سيلونغي",
-        "code_name": "SEL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/E5_2iuvUEciWiLbX_0SKR.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-20 12:38:14",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "أولنوي",
-        "code_name": "AUL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-vHkAAkgmX0LBfiXLczom.png"
-      },
-      "team_b": {
-        "name": "كرويكس",
-        "code_name": "CRO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3AI6duAu9kky55GgVc2Dn.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-20 12:38:14",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "غرافليين",
-        "code_name": "GRA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/spcpHKfMuCUeT5dUaECu4.png"
-      },
-      "team_b": {
-        "name": "فالينسيان",
-        "code_name": "VAL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ySP_cI9854yCZxjoT2gzp.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-18 11:25:17",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "ليبورن سانت سيورن",
-        "code_name": "L-S",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KNJS0XxPteqw_ShEXMPay.png"
-      },
-      "team_b": {
-        "name": "UA Niort St. Florent",
-        "code_name": "UAN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2gcrqU8JIXHzJckZ2yBaE.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-20 23:22:40",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Lourdes FC",
-        "code_name": "LOU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lmzAhUjlsG9LTBNXao1g5.png"
-      },
-      "team_b": {
-        "name": "ألبيرز أرجيلز",
-        "code_name": "ALB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_wLdVlB54T4de-ztubsrr.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 14:46:08",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "سيسون",
-        "code_name": "CES",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ol6QQJqT406ev-aXuTc9H.png"
-      },
-      "team_b": {
-        "name": "كونكارنيو",
-        "code_name": "CON",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uXvffrb0_r9JApvJUXjPf.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 14:45:48",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Offranville",
-        "code_name": "OFF",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t2H8cFf3ZAn_c7m-AcRS1.png"
-      },
-      "team_b": {
-        "name": "Caen PTT",
-        "code_name": "PTT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/R1GcjI_a5sgnuvBZ6UeE2.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 10:35:49",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Paray",
-        "code_name": "PAA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kqMG5Wu03qCEmeSg1pNjL.png"
-      },
-      "team_b": {
-        "name": "جورا دولوا",
-        "code_name": "JUD",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1MOCLbhJQj1VlZoT-h12i.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 11:34:54",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "بيسكانكون",
-        "code_name": "BES",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Lf4NdCZVQTPNjLkIdi-JT.png"
-      },
-      "team_b": {
-        "name": "سان فيت",
-        "code_name": "SVI",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8ukP4zuAIaYcoPbBPeCfX.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-18 16:30:34",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "رونيس فوت 42",
-        "code_name": "ROA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OgNS-ZiT0AckTN0WcjxtX.png"
-      },
-      "team_b": {
-        "name": "ليون لا دوكيري",
-        "code_name": "LLD",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5LXYBjYMgt7AlgAXZ_nkD.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 13:37:24",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "تولون",
-        "code_name": "TOU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IgDk4Y0QfeE9q7EfY90zR.png"
-      },
-      "team_b": {
-        "name": "مانديليو لا نابول",
-        "code_name": "MLN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yvRAIpyv3OVm89ThdQwX0.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-18 16:30:34",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "سايسينيت",
-        "code_name": "Sey",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "لا تور سانت ايكلار",
-        "code_name": "LTS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/btIhrt9y4BUbxmvMWAm6w.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 14:45:48",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "سانت لو مانش",
-        "code_name": "MAN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9OINUxUty-Z1nv85e9LtZ.png"
-      },
-      "team_b": {
-        "name": "كاين",
-        "code_name": "SMC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/C44UbjvhLZ2me0qB9oVne.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-18 16:30:34",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "US Briode",
-        "code_name": "USB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "فيرميني أو آيبينز",
-        "code_name": "FIR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rJldNsU14pNUjaMquElsZ.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 14:46:08",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "يو إس مونتاجراندي",
-        "code_name": "MON",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9uJz3rwjaj2gA7iFA1xqJ.png"
-      },
-      "team_b": {
-        "name": "فيتري",
-        "code_name": "VIT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wJIyyIgWg6UWg8ZFmXt5G.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-18 13:00:29",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "US Saint Philbert",
-        "code_name": "USS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-mhqD0ky0Awguu2ogYp37.png"
-      },
-      "team_b": {
-        "name": "لا سوز",
-        "code_name": "SUZ",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-R7iKSqXy3MMm8k8vMlXu.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 14:45:48",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "USF Fecamp",
-        "code_name": "FEC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/O3P99Y--utyhGvHXhTDKV.png"
-      },
-      "team_b": {
-        "name": "جراند كويفيل",
-        "code_name": "GDQ",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Eytt2YrKbOJQSYIn7FRGv.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-10-19 14:45:48",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "ايفتوت",
-        "code_name": "YVE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xjimplWP25pVPqC391hnX.png"
-      },
-      "team_b": {
-        "name": "آفرانشي",
-        "code_name": "AVR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/W38ZVwACyGiftn5lLgT5e.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:30:00",
-      "last_updated_at": "2026-10-18 16:30:35",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Ambert Livradois Sud",
-        "code_name": "ALS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kRYjSGFV9fSpKk-MFu60X.png"
-      },
-      "team_b": {
-        "name": "لو بوي",
-        "code_name": "LEP",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bbIsdWOtgSBVaXoFXWqgc.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:30:00",
-      "last_updated_at": "2026-10-18 16:07:39",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "AS Contres",
-        "code_name": "ASC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "فييرزو",
-        "code_name": "VRN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KOl2apVPNsWcDl_4Hr-h9.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:30:00",
-      "last_updated_at": "2026-10-19 11:43:49",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Association Still Mutzig",
-        "code_name": "ASM",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hptOsROBPaRQLDGVzeIeT.png"
-      },
-      "team_b": {
-        "name": "US Oberlauterbach/Eberbach",
-        "code_name": "USO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lWCXO1tWMaJntJzb7UbjO.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:30:00",
-      "last_updated_at": "2026-10-19 14:45:48",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Coutancaise",
-        "code_name": "COU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XyiY9Z04EtyIibQzEN_W6.png"
-      },
-      "team_b": {
-        "name": "كويفيلي",
-        "code_name": "QUE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gZACSiFM_0ikFMLVsyk4w.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:30:00",
-      "last_updated_at": "2026-10-20 23:22:40",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Jeune Entente Toulousaine",
-        "code_name": "JET",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "نيميس",
-        "code_name": "NOL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zconc-Urb_m4TxE8luN4a.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:30:00",
-      "last_updated_at": "2026-10-19 11:43:14",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "فاندوفر",
-        "code_name": "USV",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/S_c2jKsDHFW3DIOmQJWbN.png"
-      },
-      "team_b": {
-        "name": "Centre Ornain",
-        "code_name": "CTO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/g_jdwZ-ZwuSZEgdYXoqVy.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 19:00:00",
-      "last_updated_at": "2026-10-20 23:22:40",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "AC Garona",
-        "code_name": "GAR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "Puissalicon Magalas",
-        "code_name": "PMA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 19:00:00",
-      "last_updated_at": "2026-10-19 10:35:49",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "AS Levier",
-        "code_name": "ASL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lYbardMRQzXctUQceXXoK.png"
-      },
-      "team_b": {
-        "name": "شالون",
-        "code_name": "FCC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/n-EJXIUKQVV9Q-DjLchWB.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 19:00:00",
-      "last_updated_at": "2026-10-18 11:25:17",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "باسين د آراكون",
-        "code_name": "BAA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bP6-Cv7o_S-kR9P4HX4FY.png"
-      },
-      "team_b": {
-        "name": "بولازاك",
-        "code_name": "BOU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 19:00:00",
-      "last_updated_at": "2026-10-18 11:25:17",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "جازينيت سيستاس",
-        "code_name": "CES",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bQLA4mS8T2nU0WezxeMLl.png"
-      },
-      "team_b": {
-        "name": "Le Bouscat",
-        "code_name": "LEB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 19:00:00",
-      "last_updated_at": "2026-10-18 16:30:35",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "تشامبيري",
-        "code_name": "CHB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8Vv4ETVliyldoFjiQoclt.png"
-      },
-      "team_b": {
-        "name": "Manival",
-        "code_name": "MNL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sOP-5KpEj0Xlx94wF1ggs.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 19:00:00",
-      "last_updated_at": "2026-10-20 23:22:40",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "FC Claira St Laurent",
-        "code_name": "CSL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "كليرمونتايسي",
-        "code_name": "CLT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 19:00:00",
-      "last_updated_at": "2026-10-18 11:25:48",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "آنجليت",
-        "code_name": "ANG",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uJXULrvj4Lsgv6HL000sv.png"
-      },
-      "team_b": {
-        "name": "Sud Correze",
-        "code_name": "SCO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 19:00:00",
-      "last_updated_at": "2026-10-18 16:30:35",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "مونتلوكون",
-        "code_name": "MON",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6UDggR5Z1l64evAbdW7fW.png"
-      },
-      "team_b": {
-        "name": "AS Montferrand",
-        "code_name": "ASM",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rUoiMUCgIlIZUQNaL_bih.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 19:00:00",
-      "last_updated_at": "2026-10-19 11:43:14",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Reims Murigny FP",
-        "code_name": "RMF",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ki3pi_Ovi0LceJKHnUtIF.png"
-      },
-      "team_b": {
-        "name": "تاوون",
-        "code_name": "THA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 19:00:00",
-      "last_updated_at": "2026-10-18 11:25:17",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "ستاد بوردليز",
-        "code_name": "STB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hQpY8mzEGCIkJXQXGF3du.png"
-      },
-      "team_b": {
-        "name": "ميرينياك أرلاك",
-        "code_name": "MRA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_SLp7L94Bt9d43AFzgyk6.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 19:00:00",
-      "last_updated_at": "2026-10-19 14:45:48",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "USC Mezidon",
-        "code_name": "MEZ",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "روين",
-        "code_name": "ROU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YT9HT5AspLsFz2xEfiNEi.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 20:00:00",
-      "last_updated_at": "2026-10-18 11:25:17",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "بريسوير",
-        "code_name": "BSS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fVr0i1HHPTscW0bUk1kMJ.png"
-      },
-      "team_b": {
-        "name": "بانازول",
-        "code_name": "ASP",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZRhfRBvymLWFVFvNaDYk0.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 20:00:00",
-      "last_updated_at": "2026-10-18 11:25:18",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "برايف",
-        "code_name": "BRI",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/f9d_Fuk_01CUQUY9e8KMu.png"
-      },
-      "team_b": {
-        "name": "بيرينيي",
-        "code_name": "PER",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MEgI522FEgi01OwuV0_dU.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 20:00:00",
-      "last_updated_at": "2026-10-20 23:22:40",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Espoir Foot 88",
-        "code_name": "ESP",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "جوفينتوس بابوس",
-        "code_name": "JDP",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3pCog9NnCR2CLPBe7DbM8.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 20:00:00",
-      "last_updated_at": "2026-10-18 11:25:18",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "FC 3 Vallees 86",
-        "code_name": "VAL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "بوكسيرولس",
-        "code_name": "ESB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/npHW21unazNTt_KQf4om8.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 20:00:00",
-      "last_updated_at": "2026-10-18 11:25:18",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Lafarge Limoges",
-        "code_name": "LLI",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "Asmur",
-        "code_name": "ASM",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 20:00:00",
-      "last_updated_at": "2026-10-18 11:25:18",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "مارماندي",
-        "code_name": "MAR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-o-u0jSl20suVsQChic7y.png"
-      },
-      "team_b": {
-        "name": "بايون",
-        "code_name": "BAY",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ARsn51meK0m_bHDfo2rpZ.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 20:00:00",
-      "last_updated_at": "2026-10-18 16:30:35",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "بونت دي تشيروي",
-        "code_name": "PDC",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Y6z3mvGHp4l8KzZxnNANu.png"
-      },
-      "team_b": {
-        "name": "تارينتايس",
-        "code_name": "TRT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xolaaYfjyPgCJje8J-E-8.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 20:00:00",
-      "last_updated_at": "2026-10-18 15:30:22",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "باستيا",
-        "code_name": "BBO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jtq3SQnPY7O0jHNGFHWHc.png"
-      },
-      "team_b": {
-        "name": "فورياني أغلياني",
-        "code_name": "FUA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Uy8HlUC0lZhA3Jjpwf_Rm.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 20:00:00",
-      "last_updated_at": "2026-10-18 11:25:17",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Sportive Gueretoise",
-        "code_name": "SPG",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "تريليساك",
-        "code_name": "TRE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IYMbLDeWs3Rr78ftPeqJb.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 20:00:00",
-      "last_updated_at": "2026-10-18 11:25:17",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "St Emilion",
-        "code_name": "STE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/V5Z7_KRZCGlTwZUsKHOTI.png"
-      },
-      "team_b": {
-        "name": "Rochefort",
-        "code_name": "RFT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AgsFTbR-S6ybSyKuuC17U.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 15:00:00",
       "last_updated_at": "2026-10-22 15:37:17",
       "competition": "الدوري الفرنسي",
       "round": null,
@@ -3726,54 +2096,6 @@
         "name": "اولمبيك مرسيليا",
         "code_name": "MSO",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w-cZFtULue0lRpfqsi9Yp.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 13:00:00",
-      "last_updated_at": "2026-09-27 16:30:50",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
-      "round": null,
-      "team_a": {
-        "name": "هولندا",
-        "code_name": "NLD",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EA7xs13NPx-1UKcw48i6a.png"
-      },
-      "team_b": {
-        "name": "الكيان العبري تحت 17 عامًا للسيدات",
-        "code_name": "الكيان العبري تحت 17 عامًا للسيدات",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oKbdNNkbRad7jHL98An_Z.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-24 18:00:00",
-      "last_updated_at": "2026-09-27 16:30:50",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
-      "round": null,
-      "team_a": {
-        "name": "فرنسا",
-        "code_name": "FRA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SxeJFAkrDcnLGEWg9ZXA3.png"
-      },
-      "team_b": {
-        "name": "Sweden U17",
-        "code_name": "SWE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TtV6TPBzM3ctZgPl-3tfg.png"
       },
       "score": {
         "team_a": null,
@@ -4163,7 +2485,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-25 18:30:00",
-      "last_updated_at": "2026-10-22 19:11:24",
+      "last_updated_at": "2026-10-23 19:16:25",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
