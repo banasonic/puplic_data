@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-10-23 11:31:17",
+  "fetched_at_egypt": "2026-10-23 16:23:54",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -219,9 +219,9 @@
   "daily_matches_count": {
     "2026-10-23": 10,
     "2026-10-24": 96,
-    "2026-10-25": 110
+    "2026-10-25": 109
   },
-  "matches_count": 216,
+  "matches_count": 215,
   "matches": [
     {
       "status": "FIXTURE",
@@ -592,9 +592,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-23 15:30:00",
-      "last_updated_at": "2026-08-31 13:21:35",
+      "last_updated_at": "2026-10-23 16:17:44",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -608,8 +608,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xkFt_WVJYpUJPpA1XtvNo.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_audio": [
         {
@@ -718,7 +718,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 13:30:00",
-      "last_updated_at": "2026-10-21 14:00:10",
+      "last_updated_at": "2026-10-23 11:40:00",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -786,7 +786,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 16:00:00",
-      "last_updated_at": "2026-10-21 16:00:09",
+      "last_updated_at": "2026-10-23 14:37:49",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -854,7 +854,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 16:00:00",
-      "last_updated_at": "2026-10-21 16:00:09",
+      "last_updated_at": "2026-10-23 14:39:13",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -1126,7 +1126,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 18:30:00",
-      "last_updated_at": "2026-10-21 19:00:09",
+      "last_updated_at": "2026-10-23 15:04:21",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -1194,7 +1194,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 21:00:00",
-      "last_updated_at": "2026-10-21 21:00:09",
+      "last_updated_at": "2026-10-23 15:07:05",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -1262,7 +1262,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 15:30:00",
-      "last_updated_at": "2026-10-21 16:00:10",
+      "last_updated_at": "2026-10-23 15:14:09",
       "competition": "الدوري الألماني",
       "round": null,
       "team_a": {
@@ -1330,7 +1330,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 15:30:00",
-      "last_updated_at": "2026-10-21 17:09:12",
+      "last_updated_at": "2026-10-23 15:16:01",
       "competition": "الدوري الألماني",
       "round": null,
       "team_a": {
@@ -1398,7 +1398,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 15:30:00",
-      "last_updated_at": "2026-10-21 16:00:10",
+      "last_updated_at": "2026-10-23 15:17:32",
       "competition": "الدوري الألماني",
       "round": null,
       "team_a": {
@@ -1466,7 +1466,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 15:30:00",
-      "last_updated_at": "2026-10-21 16:00:10",
+      "last_updated_at": "2026-10-23 15:19:18",
       "competition": "الدوري الألماني",
       "round": null,
       "team_a": {
@@ -1670,7 +1670,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 15:00:00",
-      "last_updated_at": "2026-10-21 15:00:07",
+      "last_updated_at": "2026-10-23 15:11:08",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -1942,7 +1942,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-24 20:45:00",
-      "last_updated_at": "2026-10-21 22:00:08",
+      "last_updated_at": "2026-10-23 15:34:06",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -5474,74 +5474,6 @@
       ],
       "venue": {
         "name": "Stadium de Toulouse"
-      }
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-25 21:45:00",
-      "last_updated_at": "2026-10-22 21:00:09",
-      "competition": "الدوري الفرنسي",
-      "round": null,
-      "team_a": {
-        "name": "باريس سان جيرمان",
-        "code_name": "سان جيرمان",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png"
-      },
-      "team_b": {
-        "name": "ليون",
-        "code_name": "ليون",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
-        },
-        {
-          "name": "beIN SPORTS CONNECT",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "TOD TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
-        },
-        {
-          "name": "SuperSport Máximo 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/sg1idU7cLaBP6KJCCtLUU.png"
-        },
-        {
-          "name": "Arena Premium 4",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9EmNZoei0hvSKx8DRFH3b.png"
-        },
-        {
-          "name": "DAZN Spain",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/0LPgFogeILbzgeUT9qnPj.png"
-        },
-        {
-          "name": "DAZN France",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3IdUnYjEQO8zWyE9Sr-To.png"
-        },
-        {
-          "name": "DStv Now",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
-        },
-        {
-          "name": "Disney+ Premium",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
-        },
-        {
-          "name": "fuboTV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
-        }
-      ],
-      "venue": {
-        "name": "حديقة الأمراء"
       }
     },
     {
