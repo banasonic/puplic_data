@@ -1,10 +1,8 @@
 {
-  "fetched_at_egypt": "2026-10-26 17:01:19",
+  "fetched_at_egypt": "2026-10-26 22:43:06",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
-      "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
       "الدوري الإسباني",
       "الدوري الإيطالي",
       "الدوري الفرنسي",
@@ -105,8 +103,8 @@
       "كأس أمريكا الوسطى (كونكاكاف)",
       "كأس أوكرانيا",
       "كأس الأرجنتين",
-      "كأس الإتحاد الإنجليزي للأندية الهواة",
       "كأس الإكوادور",
+      "كأس الاتحاد الإسكتلندي",
       "كأس الاتحاد الانجليزي للسيدات",
       "كأس الاتحاد البولندي",
       "كأس الاتحاد الكرواتي",
@@ -130,15 +128,15 @@
   },
   "daily_matches_count": {
     "2026-10-26": 2,
-    "2026-10-27": 33,
+    "2026-10-27": 30,
     "2026-10-28": 41
   },
-  "matches_count": 76,
+  "matches_count": 73,
   "matches": [
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-26 22:00:00",
-      "last_updated_at": "2026-10-25 10:07:00",
+      "last_updated_at": "2026-10-26 22:27:32",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -152,8 +150,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NqdsiG8yecUZjhG0HtEWx.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -204,9 +202,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-26 21:30:00",
-      "last_updated_at": "2026-10-25 10:06:32",
+      "last_updated_at": "2026-10-26 22:31:47",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -220,8 +218,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -524,7 +522,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [
         {
           "name": "Movistar Plus+",
@@ -586,7 +589,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [
         {
           "name": "Movistar Plus+",
@@ -599,39 +607,6 @@
         {
           "name": "fuboTV",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
-        }
-      ],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-27 20:30:00",
-      "last_updated_at": "2026-10-11 13:57:06",
-      "competition": "كأس ملك إسبانيا",
-      "round": null,
-      "team_a": {
-        "name": "CE Manresa",
-        "code_name": "MAN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Dlml8mYXMRuxotRUc99Vc.png"
-      },
-      "team_b": {
-        "name": "سانت أندريو",
-        "code_name": "SAA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uok2AiMQFcP43I9Iypix8.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "Esport3",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Qwsgyqq00BQhqZvjbW1U5j6FYpCkBzZTqNMST03L.png"
-        },
-        {
-          "name": "Movistar Plus+",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
         }
       ],
       "venue": null
@@ -682,35 +657,6 @@
       },
       "tv_audio": [],
       "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-27 21:00:00",
-      "last_updated_at": "2026-10-11 13:54:46",
-      "competition": "كأس ملك إسبانيا",
-      "round": null,
-      "team_a": {
-        "name": "اتلتيكو باسو",
-        "code_name": "PAS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FMeajARakTHZ9EP0jO3kw.png"
-      },
-      "team_b": {
-        "name": "قرطبة",
-        "code_name": "COR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1vdtD4nqVrXMWSOUwOPhR.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "TV Canaria",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/V_ysUoKCcu4yGi8qlQ9aB.jpg"
-        }
-      ],
       "venue": null
     },
     {
@@ -817,6 +763,39 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-27 21:30:00",
+      "last_updated_at": "2026-10-26 18:58:37",
+      "competition": "كأس ملك إسبانيا",
+      "round": null,
+      "team_a": {
+        "name": "CE Manresa",
+        "code_name": "MAN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Dlml8mYXMRuxotRUc99Vc.png"
+      },
+      "team_b": {
+        "name": "سانت أندريو",
+        "code_name": "SAA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uok2AiMQFcP43I9Iypix8.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [
+        {
+          "name": "Esport3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Qwsgyqq00BQhqZvjbW1U5j6FYpCkBzZTqNMST03L.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        }
+      ],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-10-27 21:30:00",
       "last_updated_at": "2026-10-11 13:57:06",
       "competition": "كأس ملك إسبانيا",
       "round": null,
@@ -865,6 +844,35 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-27 22:00:00",
+      "last_updated_at": "2026-10-26 19:01:46",
+      "competition": "كأس ملك إسبانيا",
+      "round": null,
+      "team_a": {
+        "name": "اتلتيكو باسو",
+        "code_name": "PAS",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FMeajARakTHZ9EP0jO3kw.png"
+      },
+      "team_b": {
+        "name": "قرطبة",
+        "code_name": "COR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1vdtD4nqVrXMWSOUwOPhR.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [
+        {
+          "name": "TV Canaria",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/V_ysUoKCcu4yGi8qlQ9aB.jpg"
+        }
+      ],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-10-27 22:00:00",
       "last_updated_at": "2026-10-11 13:57:06",
       "competition": "كأس ملك إسبانيا",
       "round": null,
@@ -882,7 +890,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [
         {
           "name": "arena sport 3",
@@ -915,7 +928,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [
         {
           "name": "Movistar Plus+",
@@ -952,7 +970,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [
         {
           "name": "Movistar Plus+",
@@ -1074,6 +1097,10 @@
       ],
       "tv_channels": [
         {
+          "name": "Abu Dhabi Sports 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/GWX-8iq5kfI9RT27_AaUv.png"
+        },
+        {
           "name": "Elevensports 2 (Pol)",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/q1ejetUNSRB4GH3hk2qS5.png"
         },
@@ -1144,6 +1171,10 @@
         {
           "name": "Elevensports 3 (Pol)",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/DSoKBjRu6k4BaMr7DOKpk.png"
+        },
+        {
+          "name": "Abu Dhabi Sports EXTRA",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/n2uEuF_Ck9kjHGpv5LBlx.png"
         },
         {
           "name": "VG+",
@@ -1250,6 +1281,10 @@
       ],
       "tv_channels": [
         {
+          "name": "Abu Dhabi Sports 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gCN0g4VrtGNWvZ3DwTVEx.png"
+        },
+        {
           "name": "Elevensports 2 (Pol)",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/q1ejetUNSRB4GH3hk2qS5.png"
         },
@@ -1317,6 +1352,10 @@
         }
       ],
       "tv_channels": [
+        {
+          "name": "Abu Dhabi Sports 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/GWX-8iq5kfI9RT27_AaUv.png"
+        },
         {
           "name": "VG+",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/fBhupqwsrjewAtVmSQNsw.jpg"
@@ -1426,6 +1465,10 @@
       ],
       "tv_channels": [
         {
+          "name": "Abu Dhabi Sports EXTRA",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/n2uEuF_Ck9kjHGpv5LBlx.png"
+        },
+        {
           "name": "VG+",
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/fBhupqwsrjewAtVmSQNsw.jpg"
         },
@@ -1453,78 +1496,6 @@
       "venue": {
         "name": "رين إينيرجي ستاديون"
       }
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-27 15:00:00",
-      "last_updated_at": "2026-09-26 12:39:58",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "جزر فاروه",
-        "code_name": "FRO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LBqBMCVNZJLcudy0PTo1z.png"
-      },
-      "team_b": {
-        "name": "رومانيا",
-        "code_name": "ROU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gMUdPeptDuje7KjsrZXhB.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-27 19:00:00",
-      "last_updated_at": "2026-09-27 16:30:50",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
-      "round": null,
-      "team_a": {
-        "name": "الكيان العبري تحت 17 عامًا للسيدات",
-        "code_name": "الكيان العبري تحت 17 عامًا للسيدات",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oKbdNNkbRad7jHL98An_Z.png"
-      },
-      "team_b": {
-        "name": "Sweden U17",
-        "code_name": "SWE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TtV6TPBzM3ctZgPl-3tfg.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-27 19:00:00",
-      "last_updated_at": "2026-09-27 16:30:50",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
-      "round": null,
-      "team_a": {
-        "name": "هولندا",
-        "code_name": "NLD",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EA7xs13NPx-1UKcw48i6a.png"
-      },
-      "team_b": {
-        "name": "فرنسا",
-        "code_name": "FRA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SxeJFAkrDcnLGEWg9ZXA3.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
     },
     {
       "status": "FIXTURE",
@@ -1995,7 +1966,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Aragón TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/23QxE72M3encSJzyI3B61.jpg"
+        }
+      ],
       "venue": null
     },
     {
@@ -2067,7 +2043,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Aragón TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/23QxE72M3encSJzyI3B61.jpg"
+        }
+      ],
       "venue": null
     },
     {
@@ -2091,7 +2072,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "IB3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/po7iMHKKnbq8EpA1BlDr0.png"
+        }
+      ],
       "venue": null
     },
     {
