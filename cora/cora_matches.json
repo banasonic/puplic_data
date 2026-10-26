@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-10-26 09:37:18",
+  "fetched_at_egypt": "2026-10-26 17:01:19",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -11,6 +11,7 @@
       "الدوري المصري الممتاز",
       "دوري روشن السعودي",
       "كأس ألمانيا",
+      "كأس فرنسا",
       "كأس ملك إسبانيا"
     ],
     "hidden_club_competitions": [
@@ -130,9 +131,9 @@
   "daily_matches_count": {
     "2026-10-26": 2,
     "2026-10-27": 33,
-    "2026-10-28": 39
+    "2026-10-28": 41
   },
-  "matches_count": 74,
+  "matches_count": 76,
   "matches": [
     {
       "status": "FIXTURE",
@@ -273,7 +274,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-27 19:30:00",
-      "last_updated_at": "2026-10-24 19:00:10",
+      "last_updated_at": "2026-10-26 11:20:37",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -341,7 +342,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-27 21:45:00",
-      "last_updated_at": "2026-10-24 21:00:08",
+      "last_updated_at": "2026-10-26 11:22:18",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -409,7 +410,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-27 21:45:00",
-      "last_updated_at": "2026-10-24 21:00:09",
+      "last_updated_at": "2026-10-26 11:32:08",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -2561,6 +2562,54 @@
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4IQLsg7TKKXQft2K5QEcR.png"
         }
       ],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-10-28 21:00:00",
+      "last_updated_at": "2026-10-26 12:46:41",
+      "competition": "كأس فرنسا",
+      "round": null,
+      "team_a": {
+        "name": "Siroco",
+        "code_name": "SIR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iee6NSfSLHnsSC-90Pe_E.png"
+      },
+      "team_b": {
+        "name": "أي إس غوساير",
+        "code_name": "ASG",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RAoP9d9jF8fOOWPAhw12c.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-10-28 21:00:00",
+      "last_updated_at": "2026-10-26 11:50:53",
+      "competition": "كأس فرنسا",
+      "round": null,
+      "team_a": {
+        "name": "Sporting BM",
+        "code_name": "SPT",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ef4ieF4x33cVzYWqLagAU.png"
+      },
+      "team_b": {
+        "name": "Arsenal",
+        "code_name": null,
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": null
     },
     {
