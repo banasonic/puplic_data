@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-10-28 08:12:46",
+  "fetched_at_egypt": "2026-10-28 15:28:11",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -11,7 +11,6 @@
       "الدوري المصري الممتاز",
       "دوري روشن السعودي",
       "كأس ألمانيا",
-      "كأس فرنسا",
       "كأس ملك إسبانيا"
     ],
     "hidden_club_competitions": [
@@ -167,11 +166,11 @@
     ]
   },
   "daily_matches_count": {
-    "2026-10-28": 41,
+    "2026-10-28": 39,
     "2026-10-29": 21,
     "2026-10-30": 13
   },
-  "matches_count": 75,
+  "matches_count": 73,
   "matches": [
     {
       "status": "FIXTURE",
@@ -614,9 +613,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 20:00:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:26",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -630,17 +629,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Rl-6UwzJAY-zNr1eYdm-x.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 20:00:00",
-      "last_updated_at": "2026-10-27 12:13:58",
+      "last_updated_at": "2026-10-28 14:06:27",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -654,17 +653,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pafNvSN2D_ZG74DFqZKK5.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 20:00:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:28",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -678,8 +677,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OV4Jzgti_zUHsvVZyj6Dm.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -691,9 +690,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 20:00:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:29",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -707,17 +706,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wwYiA1wIlPgULqhDyyW4J.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 20:00:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:20",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -731,17 +730,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/tzKcv-qy05ISt5Y0LEp_G.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 20:00:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:19",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -755,8 +754,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FiMxpl6IfQHGrvBtBwlT-.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -797,9 +796,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 21:00:00",
-      "last_updated_at": "2026-10-05 16:31:49",
+      "last_updated_at": "2026-10-28 14:06:17",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -813,8 +812,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4FpPu5m_daZlcAI43k7xA.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -826,9 +825,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 21:00:00",
-      "last_updated_at": "2026-10-05 16:28:10",
+      "last_updated_at": "2026-10-28 14:06:16",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -842,17 +841,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/B2lSkOIDu7ljZZ0EuRhTY.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 21:00:00",
-      "last_updated_at": "2026-10-05 16:28:13",
+      "last_updated_at": "2026-10-28 14:06:15",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -866,17 +865,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nK7BcfZK4WIPVtRu8J2ve.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 21:00:00",
-      "last_updated_at": "2026-10-05 16:28:12",
+      "last_updated_at": "2026-10-28 14:06:14",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -890,17 +889,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sJXrNupIs5ECWKhKvGB16.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 21:00:00",
-      "last_updated_at": "2026-10-05 16:34:37",
+      "last_updated_at": "2026-10-28 14:06:13",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -914,17 +913,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iJsx23HjFBj0TtulZSFE8.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 21:00:00",
-      "last_updated_at": "2026-10-05 16:28:08",
+      "last_updated_at": "2026-10-28 14:06:12",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -938,17 +937,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KPlcWIswqx3JaKIqu-0ux.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 21:00:00",
-      "last_updated_at": "2026-10-05 16:36:46",
+      "last_updated_at": "2026-10-28 14:06:11",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -962,17 +961,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/M08qKmv8nkpWySvrmWozr.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 21:30:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:09",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -986,17 +985,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GZRkX6FnwdXWGQQoyr4g3.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 21:30:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:08",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -1010,17 +1009,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CpSlAzPbtBMh4yMaQzxd8.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 21:30:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:05",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -1034,17 +1033,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vKMZv541jMsLIpKDIwgWE.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 21:30:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:07",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -1058,17 +1057,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 22:00:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:04",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -1082,8 +1081,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -1120,9 +1119,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 22:00:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:03",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -1136,8 +1135,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FTgkUPD0PmbUD4tk9KLzC.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -1154,9 +1153,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 22:00:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:02",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -1170,8 +1169,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GBjhrfqF1SgdL1HLfI-7z.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -1192,9 +1191,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-28 22:00:00",
-      "last_updated_at": "2026-10-11 14:02:17",
+      "last_updated_at": "2026-10-28 14:06:01",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -1208,8 +1207,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/s-jKrAYj7RdyeR7pXy8DA.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [
@@ -1218,54 +1217,6 @@
           "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4IQLsg7TKKXQft2K5QEcR.png"
         }
       ],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-28 21:00:00",
-      "last_updated_at": "2026-10-26 12:46:41",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Siroco",
-        "code_name": "SIR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iee6NSfSLHnsSC-90Pe_E.png"
-      },
-      "team_b": {
-        "name": "أي إس غوساير",
-        "code_name": "ASG",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RAoP9d9jF8fOOWPAhw12c.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-28 21:00:00",
-      "last_updated_at": "2026-10-26 11:50:53",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "Sporting BM",
-        "code_name": "SPT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ef4ieF4x33cVzYWqLagAU.png"
-      },
-      "team_b": {
-        "name": "Arsenal",
-        "code_name": null,
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
       "venue": null
     },
     {
@@ -1728,7 +1679,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-28 16:00:00",
-      "last_updated_at": "2026-08-07 07:26:36",
+      "last_updated_at": "2026-10-28 15:21:01",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -1790,7 +1741,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-29 19:30:00",
-      "last_updated_at": "2026-10-26 20:00:08",
+      "last_updated_at": "2026-10-28 11:44:29",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -1858,7 +1809,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-29 21:45:00",
-      "last_updated_at": "2026-10-26 22:00:10",
+      "last_updated_at": "2026-10-28 11:45:59",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
