@@ -1,9 +1,8 @@
 {
-  "fetched_at_egypt": "2026-10-29 11:41:30",
+  "fetched_at_egypt": "2026-10-29 18:47:06",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
-      "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
       "الدوري الألماني",
       "الدوري الإسباني",
       "الدوري الإنجليزي الممتاز",
@@ -129,11 +128,13 @@
       "الدوري النرويجي الدرجة الثانية",
       "الدوري النرويجي الممتاز",
       "الدوري النرويجي للسيدات",
+      "الدوري النرويجي للسيدات - ملحق الصعود والهبوط",
       "الدوري النمساوي الدرجة الثانية",
       "الدوري النمساوي الممتاز",
       "الدوري النيجيري للمحترفين",
       "الدوري النيوزيلندي الوطني",
       "الدوري الهندوراسي",
+      "الدوري الهندي للمحترفين",
       "الدوري الهولندي",
       "الدوري الهولندي الدرجة الثانية",
       "الدوري الويلزي الممتاز",
@@ -215,15 +216,15 @@
   },
   "daily_matches_count": {
     "2026-10-29": 30,
-    "2026-10-30": 13,
+    "2026-10-30": 12,
     "2026-10-31": 35
   },
-  "matches_count": 78,
+  "matches_count": 77,
   "matches": [
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-29 19:30:00",
-      "last_updated_at": "2026-10-28 11:44:29",
+      "last_updated_at": "2026-10-29 18:30:36",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -758,9 +759,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "POSTPONED",
       "start_date_egypt": "2026-10-29 21:00:00",
-      "last_updated_at": "2026-10-29 10:31:30",
+      "last_updated_at": "2026-10-29 15:55:48",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -774,8 +775,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sJXrNupIs5ECWKhKvGB16.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -1021,9 +1022,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-29 16:00:00",
-      "last_updated_at": "2026-08-07 07:26:36",
+      "last_updated_at": "2026-10-29 17:59:28",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -1037,16 +1038,11 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/o0K-aXi0FsiLx9BJ3AgTv.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": {
         "name": "ستاد القاهرة الدولي"
       }
@@ -1054,7 +1050,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-29 19:00:00",
-      "last_updated_at": "2026-08-07 07:26:36",
+      "last_updated_at": "2026-10-29 18:37:27",
       "competition": "الدوري المصري الممتاز",
       "round": null,
       "team_a": {
@@ -1083,9 +1079,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-10-29 16:35:00",
-      "last_updated_at": "2026-08-31 13:21:36",
+      "last_updated_at": "2026-10-29 18:35:59",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -1099,15 +1095,10 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VZtEayXIvHec3yob5W95H.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 4,
+        "team_b": 2
       },
-      "tv_audio": [
-        {
-          "name": "Thmanyah",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
-        }
-      ],
+      "tv_audio": [],
       "tv_channels": [],
       "venue": {
         "name": "ملعب الأمير محمد بن فهد"
@@ -1178,7 +1169,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-30 22:00:00",
-      "last_updated_at": "2026-10-28 00:13:40",
+      "last_updated_at": "2026-10-29 12:14:51",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -1246,7 +1237,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-30 21:30:00",
-      "last_updated_at": "2026-10-27 22:00:08",
+      "last_updated_at": "2026-10-29 12:07:35",
       "competition": "الدوري الألماني",
       "round": null,
       "team_a": {
@@ -1314,7 +1305,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-30 20:00:00",
-      "last_updated_at": "2026-10-27 20:00:10",
+      "last_updated_at": "2026-10-29 12:00:49",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -1382,7 +1373,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-30 20:00:00",
-      "last_updated_at": "2026-10-27 20:00:10",
+      "last_updated_at": "2026-10-29 12:02:53",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -1450,7 +1441,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-30 22:05:00",
-      "last_updated_at": "2026-10-27 23:00:08",
+      "last_updated_at": "2026-10-29 13:32:30",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -1623,30 +1614,6 @@
         "name": "نانت",
         "code_name": "NAN",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oVG1a1OBpe2IPIU7ZZzcz.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-10-30 15:00:00",
-      "last_updated_at": "2026-09-26 12:39:58",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "قبرص",
-        "code_name": "CYP",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LBH_ePcO4WxlkGcJvRx60.png"
-      },
-      "team_b": {
-        "name": "جزر فاروه",
-        "code_name": "FRO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LBqBMCVNZJLcudy0PTo1z.png"
       },
       "score": {
         "team_a": null,
