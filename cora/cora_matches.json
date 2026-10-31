@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-10-31 08:13:06",
+  "fetched_at_egypt": "2026-10-31 14:59:49",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -16,6 +16,7 @@
     ],
     "hidden_club_competitions": [
       "Australian Championship",
+      "البطولة الاحترافية إنوي القسم الثاني",
       "الدوري  التركي الدرجة الأولى",
       "الدوري  التركي الدرجة الثانية",
       "الدوري الأذربيجاني",
@@ -225,9 +226,9 @@
   "matches_count": 58,
   "matches": [
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-10-31 14:30:00",
-      "last_updated_at": "2026-10-30 14:18:31",
+      "last_updated_at": "2026-10-31 14:38:02",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -241,8 +242,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -450,8 +451,8 @@
       },
       "tv_audio": [
         {
-          "name": "beIN Sports XTRA 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/G95-D7Q0IidSVAU-TLFQt.png"
+          "name": "beIN Sports Mena 5",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ER4v9bo7dNL95x8ax16KW.png"
         },
         {
           "name": "beIN SPORTS CONNECT",
@@ -771,7 +772,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-31 15:00:00",
-      "last_updated_at": "2026-10-30 14:07:55",
+      "last_updated_at": "2026-10-31 14:04:18",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -790,8 +791,8 @@
       },
       "tv_audio": [
         {
-          "name": "beIN Sports Mena 5",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ER4v9bo7dNL95x8ax16KW.png"
+          "name": "beIN Sports Mena 8",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/paPG39fLrmobdkH3I3GEP.png"
         },
         {
           "name": "beIN SPORTS CONNECT",
@@ -1682,8 +1683,8 @@
       },
       "tv_audio": [
         {
-          "name": "beIN Sports Mena 5",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ER4v9bo7dNL95x8ax16KW.png"
+          "name": "beIN Sports Mena 4",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/vSKlM172dkwkGI1vhqxw-.png"
         },
         {
           "name": "beIN SPORTS CONNECT",
@@ -1920,7 +1921,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-10-31 15:30:00",
-      "last_updated_at": "2026-08-31 13:21:36",
+      "last_updated_at": "2026-10-31 14:37:46",
       "competition": "دوري روشن السعودي",
       "round": null,
       "team_a": {
@@ -2013,7 +2014,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 18:30:00",
-      "last_updated_at": "2026-10-29 19:00:10",
+      "last_updated_at": "2026-10-31 11:22:56",
       "competition": "الدوري الإنجليزي الممتاز",
       "round": null,
       "team_a": {
@@ -2081,7 +2082,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 15:00:00",
-      "last_updated_at": "2026-10-29 16:08:49",
+      "last_updated_at": "2026-10-31 11:23:17",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -2149,7 +2150,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 17:15:00",
-      "last_updated_at": "2026-10-29 18:00:09",
+      "last_updated_at": "2026-10-31 11:24:58",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -2217,7 +2218,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 19:30:00",
-      "last_updated_at": "2026-10-29 21:14:09",
+      "last_updated_at": "2026-10-31 11:25:16",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -2285,7 +2286,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 22:00:00",
-      "last_updated_at": "2026-10-29 22:00:10",
+      "last_updated_at": "2026-10-31 11:26:18",
       "competition": "الدوري الإسباني",
       "round": null,
       "team_a": {
@@ -2353,7 +2354,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 16:30:00",
-      "last_updated_at": "2026-10-29 17:00:10",
+      "last_updated_at": "2026-10-31 11:04:19",
       "competition": "الدوري الألماني",
       "round": null,
       "team_a": {
@@ -2421,7 +2422,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 18:30:00",
-      "last_updated_at": "2026-10-29 19:00:11",
+      "last_updated_at": "2026-10-31 11:04:31",
       "competition": "الدوري الألماني",
       "round": null,
       "team_a": {
@@ -2489,7 +2490,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 13:30:00",
-      "last_updated_at": "2026-10-29 14:00:08",
+      "last_updated_at": "2026-10-31 11:16:16",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -2557,7 +2558,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 16:00:00",
-      "last_updated_at": "2026-10-29 16:00:10",
+      "last_updated_at": "2026-10-31 11:12:55",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -2625,7 +2626,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 16:00:00",
-      "last_updated_at": "2026-10-29 16:00:10",
+      "last_updated_at": "2026-10-31 11:18:20",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -2693,7 +2694,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 19:00:00",
-      "last_updated_at": "2026-10-30 13:17:03",
+      "last_updated_at": "2026-10-31 11:19:42",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -2761,7 +2762,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 21:45:00",
-      "last_updated_at": "2026-10-29 22:00:10",
+      "last_updated_at": "2026-10-31 11:20:45",
       "competition": "الدوري الإيطالي",
       "round": null,
       "team_a": {
@@ -2829,7 +2830,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 16:00:00",
-      "last_updated_at": "2026-10-29 16:00:10",
+      "last_updated_at": "2026-10-31 10:27:24",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -2897,7 +2898,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 18:15:00",
-      "last_updated_at": "2026-10-29 19:00:11",
+      "last_updated_at": "2026-10-31 10:30:17",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -2965,7 +2966,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 18:15:00",
-      "last_updated_at": "2026-10-29 19:00:11",
+      "last_updated_at": "2026-10-31 10:30:34",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
@@ -3033,7 +3034,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-01 21:45:00",
-      "last_updated_at": "2026-10-30 18:07:16",
+      "last_updated_at": "2026-10-31 10:30:59",
       "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
