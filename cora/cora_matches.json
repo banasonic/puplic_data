@@ -1,27 +1,22 @@
 {
-  "fetched_at_egypt": "2026-11-02 22:40:54",
+  "fetched_at_egypt": "2026-11-03 04:50:13",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
+      "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
       "الدوري الأوروبي",
-      "الدوري الإسباني",
-      "الدوري الإنجليزي الممتاز",
-      "الدوري الإيطالي",
-      "الدوري الفرنسي",
       "دوري أبطال أوروبا",
+      "دوري المؤتمر الأوروبي",
+      "دوري روشن السعودي",
       "كأس مصر",
       "كأس ملك إسبانيا"
     ],
     "hidden_club_competitions": [
-      "الدوري  التركي الدرجة الأولى",
+      "Australian Championship",
       "الدوري  التركي الدرجة الثانية",
-      "الدوري الأذربيجاني",
       "الدوري الألماني الدرجة الخامسة",
-      "الدوري الأوكراني الممتاز",
-      "الدوري الإسباني الدرجة الثالثة",
-      "الدوري الإسباني الدرجة الثانية",
+      "الدوري الأوزباكستاني",
       "الدوري الإسباني الدرجة الرابعة",
-      "الدوري الإسباني للسيدات",
       "الدوري الإكوادوري",
       "الدوري الإنجليزي الدرجة الأولى",
       "الدوري الإنجليزي الدرجة الثالثة",
@@ -29,81 +24,52 @@
       "الدوري الإنجليزي الدرجة الخامسة",
       "الدوري الإنجليزي الدرجة السادسة",
       "الدوري الإنجليزي تحت 18 عامًا",
-      "الدوري الإيراني الدرجة الأولى",
-      "الدوري الإيطالي الدرجة الثالثة",
-      "الدوري الإيطالي للسيدات",
       "الدوري البرازيلي",
-      "الدوري البرازيلي الدرجة الثانية",
-      "الدوري البرتغالي الدرجة الثانية",
-      "الدوري البرتغالي الممتاز",
       "الدوري البلجيكي",
       "الدوري البلجيكي الدرجة الثانية",
-      "الدوري البلغاري",
-      "الدوري البلغاري الدرجة الثانية",
       "الدوري البولندي الدرجة الأولى",
-      "الدوري البولندي الممتاز",
-      "الدوري البولندي الممتاز الدرجة الثانية",
-      "الدوري البوليفي",
-      "الدوري التايلندي",
-      "الدوري التركي الممتاز",
       "الدوري التنزاني الممتاز",
-      "الدوري الجورجي الممتاز",
-      "الدوري الدنماركي",
       "الدوري الدنماركي للسيدات",
-      "الدوري الروماني",
+      "الدوري الروماني الدرجة الأولى",
       "الدوري السلفادوري",
-      "الدوري السلوفيني",
-      "الدوري السويدي الدرجة الأولى",
       "الدوري السويدي الممتاز",
-      "الدوري السويدي للسيدات",
       "الدوري السويسري الدرجة الثالثة",
-      "الدوري الصربي",
       "الدوري العماني عمانتل",
-      "الدوري الفرنسي الدرجة الثانية",
+      "الدوري الفرنسي الوطني",
       "الدوري الفلبيني",
       "الدوري الفنزويلي الممتاز",
-      "الدوري الفنلندي",
       "الدوري الكاميروني الممتاز",
       "الدوري الكولومبي",
       "الدوري الكولومبي الدرجة الثانية",
-      "الدوري الكويتي الممتاز",
       "الدوري المجري الدرجة الثانية",
       "الدوري المغربي الممتاز",
       "الدوري المكسيكي الدرجة الثانية",
       "الدوري المكسيكي للسيدات",
-      "الدوري النرويجي الدرجة الأولى",
-      "الدوري النرويجي للسيدات",
       "الدوري النيجيري للمحترفين",
       "الدوري الهندوراسي",
-      "الدوري الهولندي الدرجة الثانية",
+      "الدوري الهندي للمحترفين",
       "الدوري الياباني الدرجة الثالثة",
       "الدوري الياباني الدرجة الثانية",
       "الرابطة التونسية المحترفة الأولى",
       "الرابطة الجزائرية المحترفة الأولى",
+      "بطولة اتحاد جنوب آسيا لكرة القدم",
       "دوري أبطال آسيا 2",
       "دوري أبطال آسيا النخبة",
       "دوري أبطال أوروبا للشباب",
       "دوري أبطال إفريقيا للسيدات",
-      "دوري أوروجواي الممتاز",
       "دوري البوسنة والهرسك - الدرجة الثانية",
-      "دوري الدرجة الأولى الأرجنتيني",
-      "دوري الدرجة الثالثة الأرجنتيني",
-      "دوري الدرجة الثانية الأرجنتيني",
-      "دوري السوبر الألباني",
       "دوري السوبر الكوسوفي",
-      "دوري السوبر اليوناني",
-      "دوري السوبر اليوناني الدرجة الثانية",
+      "دوري السوبر الهندي",
+      "دوري المحترفين الإيراني",
       "دوري باراجواي",
       "دوري بيرو الممتاز",
       "دوري تشيلي",
       "دوري جمهورية التشيك",
-      "دوري جمهورية التشيك الدرجة الثانية",
       "دوري جنوب إفريقيا الممتاز",
       "دوري جواتيمالا",
       "دوري كوستاريكا",
-      "دوري مقدونيا الشمالية",
       "دوري مونتينيجرو",
-      "كأس ألمانيا للسيدات",
+      "دوري نجوم العراق",
       "كأس الإكوادور",
       "كأس الاتحاد الكرواتي",
       "كأس التحدي الإسكتلندي",
@@ -117,310 +83,12 @@
     ]
   },
   "daily_matches_count": {
-    "2026-11-02": 5,
     "2026-11-03": 11,
-    "2026-11-04": 18
+    "2026-11-04": 18,
+    "2026-11-05": 44
   },
-  "matches_count": 34,
+  "matches_count": 73,
   "matches": [
-    {
-      "status": "LIVE",
-      "start_date_egypt": "2026-11-02 22:00:00",
-      "last_updated_at": "2026-11-02 22:00:31",
-      "competition": "الدوري الإنجليزي الممتاز",
-      "round": null,
-      "team_a": {
-        "name": "نيوكاسل يونايتد",
-        "code_name": "نيوكاسل",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png"
-      },
-      "team_b": {
-        "name": "إيفرتون",
-        "code_name": "إيفرتون",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
-        },
-        {
-          "name": "beIN Sports ENG 1",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Zv_kGHtU20fOxPeRMEvUd.png"
-        },
-        {
-          "name": "beIN SPORTS CONNECT",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "TOD TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
-        },
-        {
-          "name": "Supersport Premiere League",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/mT_vd3P_z5U_i9LGy27Ed.jpg"
-        },
-        {
-          "name": "SuperSport Máximo 2",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/sg1idU7cLaBP6KJCCtLUU.png"
-        },
-        {
-          "name": "DAZN Spain",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/0LPgFogeILbzgeUT9qnPj.png"
-        },
-        {
-          "name": "DStv Now",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
-        },
-        {
-          "name": "Disney+ Premium",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
-        },
-        {
-          "name": "fuboTV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
-        }
-      ],
-      "venue": {
-        "name": "سانت جيمس بارك"
-      }
-    },
-    {
-      "status": "LIVE",
-      "start_date_egypt": "2026-11-02 22:00:00",
-      "last_updated_at": "2026-11-02 22:35:01",
-      "competition": "الدوري الإسباني",
-      "round": null,
-      "team_a": {
-        "name": "ديبورتيفو لاكورنيا",
-        "code_name": "ديبورتيفو",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dzWI12lwIaS-1ly_2d227.png"
-      },
-      "team_b": {
-        "name": "أوساسونا",
-        "code_name": "أوساسونا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NqdsiG8yecUZjhG0HtEWx.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 1
-      },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 4",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/vSKlM172dkwkGI1vhqxw-.png"
-        },
-        {
-          "name": "beIN SPORTS CONNECT",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "TOD TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
-        },
-        {
-          "name": "SuperSport 2 Digitalb",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LDFUKFuv8YcKE6XmDuunO.jpg"
-        },
-        {
-          "name": "Supersport Laliga",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2OGvuy7GyZwE48VXbw-f8.jpg"
-        },
-        {
-          "name": "DAZN Spain",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/0LPgFogeILbzgeUT9qnPj.png"
-        },
-        {
-          "name": "DAZN France",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3IdUnYjEQO8zWyE9Sr-To.png"
-        },
-        {
-          "name": "FanCode",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/p5MKI_QKP2fxOwbFbQJhM.jpg"
-        },
-        {
-          "name": "DStv Now",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
-        },
-        {
-          "name": "Disney+ Premium",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
-        }
-      ],
-      "venue": {
-        "name": "ريازور"
-      }
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-11-02 19:30:00",
-      "last_updated_at": "2026-11-02 21:24:32",
-      "competition": "الدوري الإيطالي",
-      "round": null,
-      "team_a": {
-        "name": "ساسولو",
-        "code_name": "ساسوولو",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4btO5zas2N3AH8Y_DRG6b.png"
-      },
-      "team_b": {
-        "name": "فيورنتينا",
-        "code_name": "فيورنتينا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t1NUqOfCHjrNAW4ME5SEF.png"
-      },
-      "score": {
-        "team_a": 2,
-        "team_b": 4
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": {
-        "name": "مابي"
-      }
-    },
-    {
-      "status": "LIVE",
-      "start_date_egypt": "2026-11-02 21:45:00",
-      "last_updated_at": "2026-11-02 22:33:32",
-      "competition": "الدوري الإيطالي",
-      "round": null,
-      "team_a": {
-        "name": "أتالانتا",
-        "code_name": "أتالانتا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4CGpPM0rgwp2T8GaN-lbX.png"
-      },
-      "team_b": {
-        "name": "بارما",
-        "code_name": "بارما",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G_RUYD43lljirbAuQpDvc.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 1
-      },
-      "tv_audio": [
-        {
-          "name": "stc tv",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/_qsCvlpAMJ1wUsDWP6coH.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "starzplay",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/gGKOgFCA7gkaqRZLmUGOz.jpg"
-        },
-        {
-          "name": "شاشا",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exqaLs9Ay50yFBqNSA__h.png"
-        },
-        {
-          "name": "Tring Sport 1 HD",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Yfvpsm4g2d_1ZbGWR_WV0.jpg"
-        },
-        {
-          "name": "الرابعة الرياضية",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/etHTBgdQ4H9BoYmeTe6e4.jpg"
-        },
-        {
-          "name": "DAZN Spain",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/0LPgFogeILbzgeUT9qnPj.png"
-        },
-        {
-          "name": "DAZN France",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3IdUnYjEQO8zWyE9Sr-To.png"
-        },
-        {
-          "name": "Disney+ Premium",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
-        },
-        {
-          "name": "Migu",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ul8r9tnafpgAOCU4jB438.png"
-        },
-        {
-          "name": "fuboTV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
-        }
-      ],
-      "venue": {
-        "name": "نيو بالانس"
-      }
-    },
-    {
-      "status": "LIVE",
-      "start_date_egypt": "2026-11-02 21:45:00",
-      "last_updated_at": "2026-11-02 22:30:34",
-      "competition": "الدوري الفرنسي",
-      "round": null,
-      "team_a": {
-        "name": "لوريان",
-        "code_name": "لوريان",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NeLznb4azTQgHCdX6l9X3.png"
-      },
-      "team_b": {
-        "name": "بريست",
-        "code_name": "بريست",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lWIe19WyksP2CpUqUD0-K.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_audio": [
-        {
-          "name": "beIN Sports Mena 5",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ER4v9bo7dNL95x8ax16KW.png"
-        },
-        {
-          "name": "beIN SPORTS CONNECT",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "arena sport 5",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/0hg74t6pDzSLb76mX4CdUKZJboK5He4cW6PbRiuD.png"
-        },
-        {
-          "name": "TOD TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
-        },
-        {
-          "name": "DAZN Spain",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/0LPgFogeILbzgeUT9qnPj.png"
-        },
-        {
-          "name": "DAZN France",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3IdUnYjEQO8zWyE9Sr-To.png"
-        },
-        {
-          "name": "tapmad",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/cNEQk-W4QJVeR2L4KZWHI.png"
-        },
-        {
-          "name": "Moja TV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1ygMXro_yi5WLZKvdyDAZ.png"
-        },
-        {
-          "name": "Disney+ Premium",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
-        },
-        {
-          "name": "fuboTV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
-        }
-      ],
-      "venue": {
-        "name": "Stade du Moustoir"
-      }
-    },
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-03 19:45:00",
@@ -972,7 +640,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-03 22:00:00",
-      "last_updated_at": "2026-11-02 15:54:44",
+      "last_updated_at": "2026-11-03 03:16:15",
       "competition": "دوري أبطال أوروبا",
       "round": null,
       "team_a": {
@@ -1057,7 +725,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [
         {
           "name": "Movistar Plus+",
@@ -1966,6 +1639,2030 @@
         }
       ],
       "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "ميلان",
+        "code_name": "ميلان",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KxcpyOfGuTCkPqCgyf-Rr.png"
+      },
+      "team_b": {
+        "name": "فيرينتسفاروشي",
+        "code_name": "فيرينتسفاروشي",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zgjphisfq_3nRpSdLtg-Q.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "arena sport 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/TqnQcwFKQSthIydfKfxpFDoJ6bdcron7kgnm22Xf.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "SuperSport 2 Digitalb",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LDFUKFuv8YcKE6XmDuunO.jpg"
+        },
+        {
+          "name": "Voyo",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/CZsA-5fiSuiwRubHLGr4h.png"
+        },
+        {
+          "name": "myCANAL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
+        },
+        {
+          "name": "DStv Now",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        }
+      ],
+      "venue": {
+        "name": "سان سيرو"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "أندرلخت",
+        "code_name": "أندرلخت",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cR4Ju_Hn49tM0giPdS7XI.png"
+      },
+      "team_b": {
+        "name": "سالزبورج",
+        "code_name": "سالزبورج",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-PWqo_lcDVwCd2-FuHu94.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Nnn52AyKSxy65VG7f_m4W.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Arena 3 premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/wqKLzmxUXkpxWTeaETX53HciwPrjNBq7VTKg3Ys4.png"
+        },
+        {
+          "name": "arena sport 6",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Earcj9ETMa7RuyO0YzQ6FsqYx9eK4zkh0uTSXyEn.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "myCANAL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
+        },
+        {
+          "name": "Moja TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1ygMXro_yi5WLZKvdyDAZ.png"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
+      "venue": {
+        "name": "لوتو بارك"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "كريستال بالاس",
+        "code_name": "بالاس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png"
+      },
+      "team_b": {
+        "name": "هوفينهايم",
+        "code_name": "هوفنهايم",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1K9pUTQXHjmhK2eBCZumq.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 4",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/vSKlM172dkwkGI1vhqxw-.png"
+        },
+        {
+          "name": "beIN Sports ENG 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Zv_kGHtU20fOxPeRMEvUd.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Canal+ Live 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZvHiDiG8vBX75H833WLm7xBU8lyGEpa6cSy5zuhk.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "SuperSport Máximo 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/sg1idU7cLaBP6KJCCtLUU.png"
+        },
+        {
+          "name": "DStv Now",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        },
+        {
+          "name": "Sony LIV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/_kBHQNl64-6_DR50lHekH.jpg"
+        }
+      ],
+      "venue": {
+        "name": "سيلهرست بارك"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "ليفيسكي صوفيا",
+        "code_name": "ليفسكي صوفيا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Pc8ly9VdppVKMxmlMLQR0.png"
+      },
+      "team_b": {
+        "name": "ياجييلونيا بياليوستوك",
+        "code_name": "ياجيلونيا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sUgnbwMe4NBm6MYSThEbA.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/uEgi76GgDGnlEfyoEgQC-.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Max Sport 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/GmVgTrpyKusqjy6uQTNKu.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        },
+        {
+          "name": "DAZN New Zealand",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/FDmK2oHuZ7HnfPQa-SIEv.png"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
+      "venue": {
+        "name": "فاسيل ليفسكي"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "ليلستروم",
+        "code_name": "ليلستروم",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IGbF2AvTnm-I_Vw_wbHJX.png"
+      },
+      "team_b": {
+        "name": "فيكتوريا بلزن",
+        "code_name": "فيكتوريا بلزن",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NWXbwvITfz5VDa27SauSA.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 4",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/l9BoMHKaBx5xAPfTQwdaM.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        },
+        {
+          "name": "DAZN New Zealand",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/FDmK2oHuZ7HnfPQa-SIEv.png"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
+      "venue": {
+        "name": "Aaraasen Stadion"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "إن إي سي نيميجين",
+        "code_name": "NEC",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pxPtNm1Hx2GC6aIMLg1rn.png"
+      },
+      "team_b": {
+        "name": "أومونيا نيقوسيا",
+        "code_name": "أومونيا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mDsQXAxmtrNqeGYLlPrEP.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 5",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6lgJPrYAxCeCr2UDXl5n1.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "myCANAL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        },
+        {
+          "name": "DAZN New Zealand",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/FDmK2oHuZ7HnfPQa-SIEv.png"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
+      "venue": {
+        "name": "Stadion De Goffert"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "ريال سوسييداد",
+        "code_name": "ريال سوسييداد",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png"
+      },
+      "team_b": {
+        "name": "ليون",
+        "code_name": "ليون",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/PyMZVVF6KAk0uCaEBvL0C.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Canal+ Live 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/HYRcsUq3ZB9MvvHtC0TyxkApVXaH5WGMVvR0tcHo.svg"
+        },
+        {
+          "name": "arena sport 7",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/x16ehBnUOch0qtK8Ir1mj26cjd0iie0CSCjzoyQt.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "Max Sport 4",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/GiETklw7Qo1JNdm4hNyq2.png"
+        },
+        {
+          "name": "DStv Now",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        },
+        {
+          "name": "Supersport Football Plus",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/poNiNuIoE4qPhnke3l9PW.jpg"
+        }
+      ],
+      "venue": {
+        "name": "أنويتا"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "سبارتا براج",
+        "code_name": "سبارتا براج",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ZBJP2FS2YlMnhD48oMOGj.png"
+      },
+      "team_b": {
+        "name": "بورنموث",
+        "code_name": "بورنموث",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 5",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ER4v9bo7dNL95x8ax16KW.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "arena sport 6",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Earcj9ETMa7RuyO0YzQ6FsqYx9eK4zkh0uTSXyEn.png"
+        },
+        {
+          "name": "arena sport 9",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/BjQnQmgaHnJQqJGIYSsLhmf4hb6IasdkkBEacA3e.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "myCANAL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
+        },
+        {
+          "name": "DStv Now",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
+        },
+        {
+          "name": "Moja TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1ygMXro_yi5WLZKvdyDAZ.png"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        }
+      ],
+      "venue": {
+        "name": "جنرالي أرينا"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "أي زد ألكمار",
+        "code_name": "ألكمار",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/X963ylMA_nSxn3F6AOvrP.png"
+      },
+      "team_b": {
+        "name": "يوفنتوس",
+        "code_name": "يوفنتوس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/IlXAlJRwHjQgSyY1L5O4a.png"
+        },
+        {
+          "name": "beIN Sports ENG 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Zv_kGHtU20fOxPeRMEvUd.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Canal+ Live 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZvHiDiG8vBX75H833WLm7xBU8lyGEpa6cSy5zuhk.png"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "SuperSport 2 Digitalb",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LDFUKFuv8YcKE6XmDuunO.jpg"
+        },
+        {
+          "name": "SuperSport Máximo 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/sg1idU7cLaBP6KJCCtLUU.png"
+        },
+        {
+          "name": "DStv Now",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        }
+      ],
+      "venue": {
+        "name": "أفاس"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "باير ليفركوزن",
+        "code_name": "ليفركوزن",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png"
+      },
+      "team_b": {
+        "name": "مارسيليا",
+        "code_name": "مارسيليا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3bZfQ2tOuqm4h6wnaFMvj.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Canal+ Live 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/dn6qeH5yACLYm90cVGovGlighTtVbgwuy7LUXM0D.svg"
+        },
+        {
+          "name": "Arena 3 premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/wqKLzmxUXkpxWTeaETX53HciwPrjNBq7VTKg3Ys4.png"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "Supersport Laliga",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2OGvuy7GyZwE48VXbw-f8.jpg"
+        },
+        {
+          "name": "Max Sport 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/T6u66I-5KtzKC2-d47P4E.png"
+        },
+        {
+          "name": "DStv Now",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        }
+      ],
+      "venue": {
+        "name": "باي أرينا"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "بنفيكا",
+        "code_name": "بنفيكا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IBJQ65NUuPelqy4EDtW64.png"
+      },
+      "team_b": {
+        "name": "ليخ بوزنان",
+        "code_name": "ليخ بوزنان",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/relOJ-g_KwjvF0YsNBfv-.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/G95-D7Q0IidSVAU-TLFQt.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "arena sport 8",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/KElZIooEt8eDE1ibOm9lIZFtBHO4HznEBTgJqQzV.png"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "SuperSport Máximo 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/VtmzSLnv4ednkaAgau6D9.jpg"
+        },
+        {
+          "name": "DStv Now",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        },
+        {
+          "name": "Supersport Football Plus",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/poNiNuIoE4qPhnke3l9PW.jpg"
+        }
+      ],
+      "venue": {
+        "name": "ملعب النور"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "سيلتا فيجو",
+        "code_name": "سيلتا فيجو",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FTgkUPD0PmbUD4tk9KLzC.png"
+      },
+      "team_b": {
+        "name": "يونيون سانت جيلواز",
+        "code_name": "سانت جيلواز",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/swuQPffgW_FFniV2Zvl3j.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 9",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Iz8fQ7oNELLocwLd3qK96.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "TNT Sports 7",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZYF0aw9yLSe4Lk3pQy-rW.jpg"
+        },
+        {
+          "name": "arena sport 6",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Earcj9ETMa7RuyO0YzQ6FsqYx9eK4zkh0uTSXyEn.png"
+        },
+        {
+          "name": "arena sport 9",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/BjQnQmgaHnJQqJGIYSsLhmf4hb6IasdkkBEacA3e.png"
+        },
+        {
+          "name": "myCANAL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
+        },
+        {
+          "name": "Moja TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1ygMXro_yi5WLZKvdyDAZ.png"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
+      "venue": {
+        "name": "بالايدوس"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "سيلتيك",
+        "code_name": "سلتيك",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8UxaQpw2CLkIbVb6i3Avz.png"
+      },
+      "team_b": {
+        "name": "بشكتاش",
+        "code_name": "بشكتاش",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WKE2EIP1R7rmdG3E5wVFf.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/PyMZVVF6KAk0uCaEBvL0C.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "arena sport 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/TqnQcwFKQSthIydfKfxpFDoJ6bdcron7kgnm22Xf.png"
+        },
+        {
+          "name": "arena sport 6",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Earcj9ETMa7RuyO0YzQ6FsqYx9eK4zkh0uTSXyEn.png"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "Voyo",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/CZsA-5fiSuiwRubHLGr4h.png"
+        },
+        {
+          "name": "CBC Sport",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/iXCC6II6h_Gp3cmwcVavS.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        }
+      ],
+      "venue": {
+        "name": "سلتيك بارك"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-09-13 14:00:16",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "هابويل بئر سبع",
+        "code_name": "هابويل بئر السبع",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TOTOd4xZYD_hMx1pwPK86.png"
+      },
+      "team_b": {
+        "name": "أو إف آي كريتي",
+        "code_name": "كريت",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SgPyQ0OVYX3wAKfcnalWo.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        },
+        {
+          "name": "DAZN New Zealand",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/FDmK2oHuZ7HnfPQa-SIEv.png"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
+      "venue": {
+        "name": "Stadionul Rapid-Giulesti"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "شتورم جراتس",
+        "code_name": "شتورم جراتس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DzCV6D0zoscpz6Rf-SvWM.png"
+      },
+      "team_b": {
+        "name": "تساليه",
+        "code_name": "تساليه",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CObIiq7v0CI9-6h-6rvHO.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Nnn52AyKSxy65VG7f_m4W.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Arena 2 Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/JRdtH7rnGc6WYGEh0PuR97Mg3gBXVZPfjehYllZ5.png"
+        },
+        {
+          "name": "arena sport 6",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Earcj9ETMa7RuyO0YzQ6FsqYx9eK4zkh0uTSXyEn.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "myCANAL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
+        },
+        {
+          "name": "Moja TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1ygMXro_yi5WLZKvdyDAZ.png"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        }
+      ],
+      "venue": {
+        "name": "ميركور أرينا"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:46:00",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "سندرلاند",
+        "code_name": "سندرلاند",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png"
+      },
+      "team_b": {
+        "name": "دينامو زغرب",
+        "code_name": "دينامو زغرب",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UwKM2jIjIz0Vq-tQ4SdjH.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 5",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ER4v9bo7dNL95x8ax16KW.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Arena 1 Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/H84V7IZvbYj2ymIPafk7IRE3Zb5ccxvFkMlU2dGV.png"
+        },
+        {
+          "name": "arena sport 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/YIB7hkPNCtSIaYr3u7Dbl8Trw5eMkQ0G9HWdQEQC.png"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "Supersport Premiere League",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/mT_vd3P_z5U_i9LGy27Ed.jpg"
+        },
+        {
+          "name": "DStv Now",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        }
+      ],
+      "venue": {
+        "name": "ملعب النور"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-09-13 13:59:59",
+      "competition": "الدوري الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "تورينسي",
+        "code_name": "تورينسي",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fdZcNDHxmIWX2AkdnVyto.png"
+      },
+      "team_b": {
+        "name": "أرارات أرمينيا",
+        "code_name": "أرارات",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FY4zR6lpqwWFueNv_58A4.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/uEgi76GgDGnlEfyoEgQC-.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "DAZN 1 Portugal",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/zOryVVjGmFU6ueJVPvJKB.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "myCANAL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "fuboTV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
+        },
+        {
+          "name": "DAZN New Zealand",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/FDmK2oHuZ7HnfPQa-SIEv.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
+      "venue": {
+        "name": "Dr. Magalhaes Pessoa"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-09-01 11:33:04",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "أي جي إف",
+        "code_name": "AGF",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/X7qNAFLAw9SwNHGPGnIda.png"
+      },
+      "team_b": {
+        "name": "سبورتنج براجا",
+        "code_name": "براجا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c_TRfqNJy9JxbIixew4NW.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 6",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/uscuqyLWAUGELKFiQcvFJ.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "DAZN 1 Portugal",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/zOryVVjGmFU6ueJVPvJKB.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
+      "venue": {
+        "name": "Cepheus Park Randers"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "أتالانتا",
+        "code_name": "أتالانتا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4CGpPM0rgwp2T8GaN-lbX.png"
+      },
+      "team_b": {
+        "name": "كايرات ألماتي",
+        "code_name": "كيرات",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XaZrX3ZI3Iu0WLjh7oq0K.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "نيو بالانس"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "ميتييلاند",
+        "code_name": "ميتييلاند",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TZPdiUaeB9oCU4FUh4DoO.png"
+      },
+      "team_b": {
+        "name": "أياكس",
+        "code_name": "أياكس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ekYAK9HhpnfV1PbrNKteT.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "إم سي إتش أرينا"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "النجم الأحمر بلجراد",
+        "code_name": "النجم الأحمر",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/W7IbBBGPssNW0JYd4z34d.png"
+      },
+      "team_b": {
+        "name": "إنتر دي",
+        "code_name": "إنتر إسكالديس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7g-JOrkWiKNMZB-ya2RtA.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "Stadion Rajko Mitic"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "كوبس",
+        "code_name": "كوبس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DBu9rTSBxnYXIdCYQYfF1.png"
+      },
+      "team_b": {
+        "name": "جينت",
+        "code_name": "خينت",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RbRJAkTnt3dvn2Naugpud.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "Savon Sanomat Areena"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "لينكولن ريد امبس",
+        "code_name": "لينكولن",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7LWBpKyt4MbsOAl1nNuvM.png"
+      },
+      "team_b": {
+        "name": "هايدوك سبليت",
+        "code_name": "هايدوك سبلت",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EJd6EkdMreAZe_m1y8qFE.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 8",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4TIop1rgP5z82gF0Dj-vh.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Arena 2 Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/JRdtH7rnGc6WYGEh0PuR97Mg3gBXVZPfjehYllZ5.png"
+        },
+        {
+          "name": "arena sport 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/YaYyIeQCIZGSqeh6qGXItkPicCaYW6OBChCx0dYx.png"
+        },
+        {
+          "name": "arena sport 8",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/KElZIooEt8eDE1ibOm9lIZFtBHO4HznEBTgJqQzV.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
+      "venue": {
+        "name": "فيكتوريا ستاديوم"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "ميالبي",
+        "code_name": "ميالبي",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AF9qBa2VQ9pUBATUnWaKn.png"
+      },
+      "team_b": {
+        "name": "بوراك باينيالوكا",
+        "code_name": "بوراك",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aBTIO-QoLDRWyAO5AaK7m.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "Strandvallen"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "ثون",
+        "code_name": "ثون",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bptDfZ1phwKvKFNWVv2jB.png"
+      },
+      "team_b": {
+        "name": "هارتس",
+        "code_name": "هارتس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4BTIkdBd_rRF9ZpCmIeNn.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports ENG 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6be2ixGKqc4256Wtb6LFj.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "RTS 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/MwNd9WE39F5lCU0ge6Vd3JyVKFyXJfDlNEKp7vSY.png"
+        },
+        {
+          "name": "TNT Sports 3",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/G5jFHpilpnhDCBNNVsFsX.jpg"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "myCANAL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
+      "venue": {
+        "name": "Arena Thun"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:45:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "طرابزون سبور",
+        "code_name": "طرابزون سبور",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/E6YNpzg7F8JSr18Q-6tYN.png"
+      },
+      "team_b": {
+        "name": "فرايبورج",
+        "code_name": "فرايبورج",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mmLX2coDWVHnrrt376Otc.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/LTA60H5gtxbvApKo7mr_l.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Sky Austria 5",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/yUjto4ae9FyYbFhae-Bey.png"
+        },
+        {
+          "name": "arena sport 4",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WzuP0mbR9IFJYyqSE9BLauOAvrHCqVwJS0X6i4WT.png"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "Supersport Laliga",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2OGvuy7GyZwE48VXbw-f8.jpg"
+        },
+        {
+          "name": "Voyo",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/CZsA-5fiSuiwRubHLGr4h.png"
+        },
+        {
+          "name": "DStv Now",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZTDLZidGBqqvNWIRhBATq.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        }
+      ],
+      "venue": {
+        "name": "بابارا بارك"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "كوبنهاجن",
+        "code_name": "كوبنهاجن",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6fI5Od-fvYeXN0W0P6Y6t.png"
+      },
+      "team_b": {
+        "name": "أيبيريا",
+        "code_name": "أيبيريا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d-RKCzCghp4MaIkp3TmMZ.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "باركن"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "تفينتي",
+        "code_name": "تفينتي",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nYmTDwICD9XzZcgS7yu6t.png"
+      },
+      "team_b": {
+        "name": "بافوس",
+        "code_name": "بافوس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TeuWqJJgWyCa6fjuxWc_F.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "دي جرولش فيسته"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "خيتافي",
+        "code_name": "خيتافي",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xsRs2Zwslz_cx1dUGc-En.png"
+      },
+      "team_b": {
+        "name": "برايتون",
+        "code_name": "برايتون",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "كوليسيوم"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 20:35:22",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "لوجانو",
+        "code_name": "لوجانو",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qr9a9GE4OVSYbnUaajt13.png"
+      },
+      "team_b": {
+        "name": "كاونو زالجيريس",
+        "code_name": "كاونو زالجيريس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ORdtBTgP_ppXuqZySt_Vh.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "AIL Arena"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "موناكو",
+        "code_name": "موناكو",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F_zla_b5a_HE5hGvveHfz.png"
+      },
+      "team_b": {
+        "name": "إف سي نوردسيايلاند",
+        "code_name": "نوردسيايلاند",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epUz-4Ys2oUs0PcIDMkTJ.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "لويس الثاني"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "باناثينايكوس",
+        "code_name": "باناثينايكوس",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YO4fas_CknsNnrm1VSv7B.png"
+      },
+      "team_b": {
+        "name": "سسكا صوفيا",
+        "code_name": "سسكا صوفيا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YClTub2_rG1nbEuPQGoKq.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "أبوستولوس نيكولايديس"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-09-13 14:07:57",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "آر إف إس",
+        "code_name": "ريجا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YSrjxV2blw37IWTESMZX_.png"
+      },
+      "team_b": {
+        "name": "يابلونيك",
+        "code_name": "يابلونيك",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/z5b-QT6Pxf1hbY9agnPQ8.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "سكونتو"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "سانت ترويدن",
+        "code_name": "سانت ترويدن",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1RK5udGe1ieimdSJ8tyoQ.png"
+      },
+      "team_b": {
+        "name": "بران",
+        "code_name": "بران",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mmUqdoQMXfWM49dl9orTB.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "Daio Wasabi Stayen Stadium"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-08-29 21:08:44",
+      "competition": "دوري المؤتمر الأوروبي",
+      "round": null,
+      "team_a": {
+        "name": "يونيفيرسيتاتيا كرايوفا",
+        "code_name": "كرايوفا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dJVx12CsM66oxX7AjBToq.png"
+      },
+      "team_b": {
+        "name": "إيجناتيا",
+        "code_name": "إجناتيا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uq7IJ1XfWK4rzdb7TlRbC.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": {
+        "name": "Stadionul Ion Oblemenco"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 20:00:00",
+      "last_updated_at": "2026-10-29 08:13:00",
+      "competition": "كأس ملك إسبانيا",
+      "round": null,
+      "team_a": {
+        "name": "CD Tarancon",
+        "code_name": "CDT",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
+      },
+      "team_b": {
+        "name": "ليفانتي",
+        "code_name": "ليفانتي",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/O-dLKNu7kxdqPWfH2EpDy.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        }
+      ],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 22:00:00",
+      "last_updated_at": "2026-10-29 08:13:00",
+      "competition": "كأس ملك إسبانيا",
+      "round": null,
+      "team_a": {
+        "name": "آلكويانو",
+        "code_name": "ACY",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
+      },
+      "team_b": {
+        "name": "مايوركا",
+        "code_name": "مايوركا",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bE7wfVD_uxZOlicMBWmmX.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 14:30:00",
+      "last_updated_at": "2026-11-02 10:54:44",
+      "competition": "كأس مصر",
+      "round": null,
+      "team_a": {
+        "name": "الجونة",
+        "code_name": "الجونة",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fKhtCS6yK--zfnA9a-bz3.png"
+      },
+      "team_b": {
+        "name": "اتحاد الشرطة",
+        "code_name": "IAS",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9azB5wpwDVah_Kx89OJ8M.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [
+        {
+          "name": "On Sport Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/exaOr7SDxSp77QLtQ5n1X.png"
+        }
+      ],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 17:00:00",
+      "last_updated_at": "2026-11-02 10:54:44",
+      "competition": "كأس مصر",
+      "round": null,
+      "team_a": {
+        "name": "البنك الأهلي",
+        "code_name": "البنك الأهلي",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JWW7CvCe5hMfY9EyPWGku.png"
+      },
+      "team_b": {
+        "name": "بور فؤاد",
+        "code_name": "BUF",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lGkB5t3PvTwCBUjTQE9CD.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [
+        {
+          "name": "On Sport",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
+        }
+      ],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 16:00:00",
+      "last_updated_at": "2026-09-27 16:10:38",
+      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
+      "round": null,
+      "team_a": {
+        "name": "كرواتيا",
+        "code_name": "CRO",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Yy3dnu35-Zv-W3oqb6YHX.png"
+      },
+      "team_b": {
+        "name": "بلغاريا",
+        "code_name": "BGR",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oHyvjF2ulJ_BRRfdDfkEJ.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 16:00:00",
+      "last_updated_at": "2026-09-27 16:10:38",
+      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً للسيدات",
+      "round": null,
+      "team_a": {
+        "name": "بولندا",
+        "code_name": "POL",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/spQEoHF3AGUwaikkj2w84.png"
+      },
+      "team_b": {
+        "name": "Slovakia U17",
+        "code_name": "SVK",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0XsvpC8SITp6CRA2RZsOm.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 15:25:00",
+      "last_updated_at": "2026-10-28 16:18:01",
+      "competition": "دوري روشن السعودي",
+      "round": null,
+      "team_a": {
+        "name": "الخلود",
+        "code_name": "الخلود",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1hYBrYEqWZD9L-CKon6HF.png"
+      },
+      "team_b": {
+        "name": "الخليج",
+        "code_name": "الخليج",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7uAvqwEaOvBj1Esi0HzuD.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "Thmanyah",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
+        }
+      ],
+      "tv_channels": [],
+      "venue": {
+        "name": "مدينة الملك عبدالله الرياضية (بريدة)"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 17:10:00",
+      "last_updated_at": "2026-10-28 16:18:01",
+      "competition": "دوري روشن السعودي",
+      "round": null,
+      "team_a": {
+        "name": "أبها",
+        "code_name": "أبها",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IW-d1mwHRYakbeSmQauBv.png"
+      },
+      "team_b": {
+        "name": "الشباب",
+        "code_name": "الشباب",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YjgZPpc-f4FWVq4YlWvJ0.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "Thmanyah",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
+        }
+      ],
+      "tv_channels": [],
+      "venue": {
+        "name": "مدينة الأمير سلطان بن عبدالعزيز الرياضية"
+      }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-05 19:30:00",
+      "last_updated_at": "2026-10-28 16:18:02",
+      "competition": "دوري روشن السعودي",
+      "round": null,
+      "team_a": {
+        "name": "القادسية",
+        "code_name": "القادسية",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bIX9a115OlqAWxOo7AwXp.png"
+      },
+      "team_b": {
+        "name": "الفيحاء",
+        "code_name": "الفيحاء",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RMFlWbfYHStXNf2R3SdGx.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [
+        {
+          "name": "Thmanyah",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/kPcfg6ikDQt-keOKX9Wbw.png"
+        }
+      ],
+      "tv_channels": [],
+      "venue": {
+        "name": "مدينة الأمير سعود بن جلوي الرياضية"
+      }
     }
   ]
 }
