@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-11-03 04:50:13",
+  "fetched_at_egypt": "2026-11-03 12:39:19",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -58,10 +58,12 @@
       "دوري أبطال أوروبا للشباب",
       "دوري أبطال إفريقيا للسيدات",
       "دوري البوسنة والهرسك - الدرجة الثانية",
+      "دوري الدرجة الأولى الأرجنتيني",
       "دوري السوبر الكوسوفي",
       "دوري السوبر الهندي",
       "دوري المحترفين الإيراني",
       "دوري باراجواي",
+      "دوري بوتسوانا",
       "دوري بيرو الممتاز",
       "دوري تشيلي",
       "دوري جمهورية التشيك",
@@ -2864,8 +2866,50 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 9",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Iz8fQ7oNELLocwLd3qK96.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Sky Sport",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/niIleCvflOdLoS6TrRBVr.png"
+        },
+        {
+          "name": "TNT Sports 7",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZYF0aw9yLSe4Lk3pQy-rW.jpg"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "Qazsport",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/2kw8bVcMThQBQnQ15tsSh.jpg"
+        },
+        {
+          "name": "myCANAL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "نيو بالانس"
       }
@@ -2890,8 +2934,50 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 8",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/paPG39fLrmobdkH3I3GEP.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "arena sport 7",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/x16ehBnUOch0qtK8Ir1mj26cjd0iie0CSCjzoyQt.png"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "myCANAL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "إم سي إتش أرينا"
       }
@@ -2916,8 +3002,54 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/G95-D7Q0IidSVAU-TLFQt.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Arena 1 Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/H84V7IZvbYj2ymIPafk7IRE3Zb5ccxvFkMlU2dGV.png"
+        },
+        {
+          "name": "arena sport 10",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ch6Tc1Ycds4QdWXIN7NjEqYOyO3vrz7LjQkZecA7.png"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "Moja TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1ygMXro_yi5WLZKvdyDAZ.png"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "Stadion Rajko Mitic"
       }
@@ -2942,8 +3074,38 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 7",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/fjAiJxarXUlfZlEZKps-V.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "Savon Sanomat Areena"
       }
@@ -3036,8 +3198,54 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 9",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/YUSuhqzu4WVBVYMP-jvan.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "arena sport 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/YaYyIeQCIZGSqeh6qGXItkPicCaYW6OBChCx0dYx.png"
+        },
+        {
+          "name": "arena sport 5",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/0hg74t6pDzSLb76mX4CdUKZJboK5He4cW6PbRiuD.png"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "Moja TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1ygMXro_yi5WLZKvdyDAZ.png"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "Strandvallen"
       }
@@ -3198,8 +3406,46 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 8",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/4TIop1rgP5z82gF0Dj-vh.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "Silk Universal",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/PIelce5sC-DKwQWv_UhjA.jpg"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "باركن"
       }
@@ -3224,8 +3470,42 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 6",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/uscuqyLWAUGELKFiQcvFJ.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "دي جرولش فيسته"
       }
@@ -3250,8 +3530,50 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 8",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/paPG39fLrmobdkH3I3GEP.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "TNT Sports 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/qyidyZbj3YorpTvhE7TbP.jpg"
+        },
+        {
+          "name": "arena sport 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/YIB7hkPNCtSIaYr3u7Dbl8Trw5eMkQ0G9HWdQEQC.png"
+        },
+        {
+          "name": "arena sport 5",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/0hg74t6pDzSLb76mX4CdUKZJboK5He4cW6PbRiuD.png"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "Moja TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1ygMXro_yi5WLZKvdyDAZ.png"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "كوليسيوم"
       }
@@ -3276,8 +3598,42 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 7",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/fjAiJxarXUlfZlEZKps-V.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "AIL Arena"
       }
@@ -3302,8 +3658,50 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports Mena 4",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/vSKlM172dkwkGI1vhqxw-.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "TNT Sports 8",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/0G6DAkzyPCN_ITrxp7dSY.jpg"
+        },
+        {
+          "name": "Canal+ Live 2",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/HYRcsUq3ZB9MvvHtC0TyxkApVXaH5WGMVvR0tcHo.svg"
+        },
+        {
+          "name": "arena sport 7",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/x16ehBnUOch0qtK8Ir1mj26cjd0iie0CSCjzoyQt.png"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "TOD TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/3wgLZhks6UOCpHmoDJ8qi.png"
+        },
+        {
+          "name": "myCANAL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "لويس الثاني"
       }
@@ -3328,8 +3726,50 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 4",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/l9BoMHKaBx5xAPfTQwdaM.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "arena sport 4",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WzuP0mbR9IFJYyqSE9BLauOAvrHCqVwJS0X6i4WT.png"
+        },
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "Voyo",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/CZsA-5fiSuiwRubHLGr4h.png"
+        },
+        {
+          "name": "Moja TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1ygMXro_yi5WLZKvdyDAZ.png"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "أبوستولوس نيكولايديس"
       }
@@ -3354,8 +3794,42 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 5",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6lgJPrYAxCeCr2UDXl5n1.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "سكونتو"
       }
@@ -3380,8 +3854,42 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "myCANAL",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/plThW3YmpsJ_iQhAJVzQa.png"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Disney+ Premium",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/W1jJ7Vc55JkxMGdk4KB2i.jpg"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "Daio Wasabi Stayen Stadium"
       }
@@ -3406,8 +3914,42 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
-      "tv_channels": [],
+      "tv_audio": [
+        {
+          "name": "beIN Sports XTRA 9",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/YUSuhqzu4WVBVYMP-jvan.png"
+        },
+        {
+          "name": "beIN SPORTS CONNECT",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/6v1yDdHQLskySqNZ0tU4y.png"
+        }
+      ],
+      "tv_channels": [
+        {
+          "name": "Sky Austria 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/Po4YSkNin0Zqq0B52D5q2.png"
+        },
+        {
+          "name": "Movistar Plus+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
+        },
+        {
+          "name": "Digi Sport 1",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/fc-2Tf3HTp6POZD1iynsO.png"
+        },
+        {
+          "name": "vidio",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/9W-FGPhZoVAwVZRzpQe3P.jpg"
+        },
+        {
+          "name": "Paramount+",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o36sWUg2cL6Rrl45c8Re7.png"
+        },
+        {
+          "name": "HBO Max",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/j7bPUcSOvEHdvHkvrdZmC.jpg"
+        }
+      ],
       "venue": {
         "name": "Stadionul Ion Oblemenco"
       }
@@ -3462,7 +4004,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "A Punt",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/0LWUls55dbLXMYimYw9on.png"
+        }
+      ],
       "venue": null
     },
     {
