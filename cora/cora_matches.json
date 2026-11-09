@@ -1,10 +1,11 @@
 {
-  "fetched_at_egypt": "2026-11-09 04:56:11",
+  "fetched_at_egypt": "2026-11-09 13:16:43",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
       "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
       "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
+      "الدوري الفرنسي",
       "المباريات الودية",
       "كأس الاتحاد الإنجليزي",
       "كأس مصر",
@@ -35,11 +36,13 @@
       "الدوري الكولومبي",
       "الدوري الكولومبي الدرجة الثانية",
       "الدوري المكسيكي الدرجة الثالثة",
+      "الدوري المكسيكي الدرجة الثانية",
       "الدوري المكسيكي للسيدات",
       "الدوري النرويجي الممتاز",
       "الدوري النيجيري للمحترفين",
       "بطولة اتحاد جنوب آسيا لكرة القدم",
       "دوري أبطال أوروبا للسيدات",
+      "دوري أبطال إفريقيا للسيدات",
       "دوري أوروجواي الدرجة الثانية",
       "دوري البوسنة والهرسك - الدرجة الثانية",
       "دوري الدرجة الأولى الدنماركي",
@@ -58,9 +61,9 @@
   "daily_matches_count": {
     "2026-11-09": 3,
     "2026-11-10": 8,
-    "2026-11-11": 46
+    "2026-11-11": 47
   },
-  "matches_count": 57,
+  "matches_count": 58,
   "matches": [
     {
       "status": "FIXTURE",
@@ -171,7 +174,7 @@
       },
       "team_b": {
         "name": "سمنود",
-        "code_name": "SAO",
+        "code_name": "سمنود",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NKejXob130r5zhyQI4tIB.png"
       },
       "score": {
@@ -435,6 +438,30 @@
         "name": "تايبيه الصينية",
         "code_name": "تايبيه الصينية",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8FeXLN4-fC8p2TX6nYANs.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-11 18:00:00",
+      "last_updated_at": "2026-11-09 10:28:30",
+      "competition": "الدوري الفرنسي",
+      "round": null,
+      "team_a": {
+        "name": "فلوري 91",
+        "code_name": "FLE",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zLflkgnRtnlb6FYTtP_JH.png"
+      },
+      "team_b": {
+        "name": "Toulouse",
+        "code_name": "TOU",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
       "score": {
         "team_a": null,
