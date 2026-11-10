@@ -1,11 +1,9 @@
 {
-  "fetched_at_egypt": "2026-11-10 14:29:25",
+  "fetched_at_egypt": "2026-11-10 21:58:21",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
       "التصفيات المؤهلة إلى كأس أمم إفريقيا",
-      "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
       "التصفيات المؤهلة لأمم أوروبا للشباب",
       "الدوري الفرنسي",
       "المباريات الودية",
@@ -18,31 +16,26 @@
     ],
     "hidden_club_competitions": [
       "Australian Championship",
+      "الدوري الأستوني الدرجة الثانية - ملحق الصعود والهبوط",
       "الدوري الألماني الدرجة الرابعة",
       "الدوري الإسباني الدرجة الرابعة",
       "الدوري الإنجليزي الدرجة الخامسة",
       "الدوري الإنجليزي الدرجة السادسة",
       "الدوري البرازيلي الدرجة الثانية",
-      "الدوري البلجيكي الدرجة الثالثة",
       "الدوري الجامايكي الممتاز",
       "الدوري الدنماركي للسيدات",
       "الدوري الروماني الدرجة الأولى",
       "الدوري السلفادوري",
-      "الدوري الفرنسي الدرجة الرابعة",
-      "الدوري الكاميروني الممتاز",
       "الدوري الكولومبي",
       "الدوري الكولومبي الدرجة الثانية",
       "الدوري اللاتفي الممتاز",
       "الدوري المصري الدرجة الثانية",
-      "الدوري المكسيكي الدرجة الثالثة",
       "الدوري المكسيكي الدرجة الثانية",
       "الدوري المكسيكي للسيدات",
       "بطولة اتحاد جنوب آسيا لكرة القدم",
       "دوري أبطال أوروبا للسيدات",
-      "دوري أبطال إفريقيا للسيدات",
       "دوري أوروجواي الدرجة الثانية",
       "دوري أوروجواي الممتاز",
-      "دوري البوسنة والهرسك - الدرجة الثانية",
       "دوري الدرجة الثالثة الأرجنتيني",
       "دوري السوبر الأمريكي للسيدات",
       "دوري جواتيمالا",
@@ -60,15 +53,15 @@
   },
   "daily_matches_count": {
     "2026-11-10": 8,
-    "2026-11-11": 47,
+    "2026-11-11": 2,
     "2026-11-12": 32
   },
-  "matches_count": 87,
+  "matches_count": 42,
   "matches": [
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-11-10 20:00:00",
-      "last_updated_at": "2026-11-06 20:13:48",
+      "last_updated_at": "2026-11-10 21:50:47",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -82,39 +75,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dqC3XtzsGeXe3c53Qqrn-.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 6
       },
-      "tv_audio": [
-        {
-          "name": "MBC Shahid",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
-        }
-      ],
-      "tv_channels": [
-        {
-          "name": "M+ LaLiga",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/ZRhPuVpAQDO60fmjULnfveoetedt9ODsHKpbR0cW.png"
-        },
-        {
-          "name": "Movistar Plus+",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/WkKbbGLUNfhP8JO54OKxF.svg"
-        },
-        {
-          "name": "VeikkausTV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/u8Zlpb9KottXMZ_tacliK.png"
-        },
-        {
-          "name": "fuboTV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/1G4yX5JkWmnwvjxaFx70n.png"
-        }
-      ],
+      "tv_audio": [],
+      "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-11-10 20:00:00",
-      "last_updated_at": "2026-11-06 20:03:30",
+      "last_updated_at": "2026-11-10 21:50:09",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -128,16 +99,11 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pafNvSN2D_ZG74DFqZKK5.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 3
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "VeikkausTV",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/u8Zlpb9KottXMZ_tacliK.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
@@ -165,9 +131,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-11-10 21:00:00",
-      "last_updated_at": "2026-11-10 08:34:40",
+      "last_updated_at": "2026-11-10 21:46:36",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -181,17 +147,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sJXrNupIs5ECWKhKvGB16.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-11-10 21:00:00",
-      "last_updated_at": "2026-11-06 20:14:15",
+      "last_updated_at": "2026-11-10 21:46:06",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -205,17 +171,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KPlcWIswqx3JaKIqu-0ux.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-11-10 21:00:00",
-      "last_updated_at": "2026-10-29 08:13:00",
+      "last_updated_at": "2026-11-10 21:46:36",
       "competition": "كأس ملك إسبانيا",
       "round": null,
       "team_a": {
@@ -229,8 +195,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/M08qKmv8nkpWySvrmWozr.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -256,7 +222,12 @@
         "team_a": null,
         "team_b": null
       },
-      "tv_audio": [],
+      "tv_audio": [
+        {
+          "name": "MBC Shahid",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/o5gx-GvXp49r8n1SnF6CM.jpg"
+        }
+      ],
       "tv_channels": [
         {
           "name": "M+ LaLiga",
@@ -270,9 +241,9 @@
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-11-10 17:00:00",
-      "last_updated_at": "2026-11-02 10:54:45",
+      "last_updated_at": "2026-11-10 18:57:11",
       "competition": "كأس مصر",
       "round": null,
       "team_a": {
@@ -286,16 +257,11 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ICgs0303YLmlTii9rsHz2.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [
-        {
-          "name": "On Sport",
-          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/RRtYYqosc-2TRVffuNBJ9.png"
-        }
-      ],
+      "tv_channels": [],
       "venue": null
     },
     {
@@ -337,1086 +303,6 @@
         "name": "Toulouse",
         "code_name": "TOU",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 11:00:00",
-      "last_updated_at": "2026-09-26 12:45:03",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "هنجاريا تحت 17",
-        "code_name": "HUN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zMetvaK43_2loBoZDaEvv.png"
-      },
-      "team_b": {
-        "name": "مقدونيا الشمالية",
-        "code_name": "NMD",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0SGV_9P1R0wYQ_eJDpSg2.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 14:00:00",
-      "last_updated_at": "2026-09-26 12:45:03",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "تركيا تحت 17",
-        "code_name": "TUR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BXWVx8B8JQIbdEmo_9Lww.png"
-      },
-      "team_b": {
-        "name": "سان مارينو",
-        "code_name": "SMR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/g-GN2mTCEEQgqjkXksty0.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:32:56",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "آيرلندا الناشئين",
-        "code_name": "إيرلندا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bHTSJMOaBbGnPk1PSGTzv.png"
-      },
-      "team_b": {
-        "name": "إستونيا",
-        "code_name": "EST",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dDXu7eHahSrc3NVkrowqM.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:32:56",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "ويلز",
-        "code_name": "WAL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cH2s4dJ1k84INTddoTDWE.png"
-      },
-      "team_b": {
-        "name": "Denmark U17",
-        "code_name": "DEN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DP80fxhKLeSmwUEIjnRbC.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:43:33",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "فرنسا الناشئين",
-        "code_name": "فرنسا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KupdQD34u2BU5VI77F2jO.png"
-      },
-      "team_b": {
-        "name": "أرمينيا",
-        "code_name": "ARM",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q9mFwrzj9WVyQeukiOri4.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:43:33",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "لوكسمبورج تحت 17",
-        "code_name": "LUX",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qLfazqeAIktCzyz-GF3R2.png"
-      },
-      "team_b": {
-        "name": "إيطاليا الناشئين",
-        "code_name": "إيطاليا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lfWDcw28JF_52qQc7sbQu.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:46:45",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "بلجيكا الناشئين",
-        "code_name": "بلجيكا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0gcI8TyOHlWan3Sh--rwD.png"
-      },
-      "team_b": {
-        "name": "Kosovo U17",
-        "code_name": "KOS",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aupe5AFugGp9hx-a7g6wu.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:46:46",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "لاتفيا",
-        "code_name": "LVA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BX9T2ajqM2KxKH2AE2RfX.png"
-      },
-      "team_b": {
-        "name": "كرواتيا الناشئين",
-        "code_name": "كرواتيا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xnPreneFaJyrttAVxCuuP.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:47:22",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "النمسا الناشئين",
-        "code_name": "النمسا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mH_VWgy_7BHjX-lIaPe1m.png"
-      },
-      "team_b": {
-        "name": "جورجيا",
-        "code_name": "GEO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ua5ahx60YFBQzOmByq_dA.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:34:43",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "ألمانيا الناشئين",
-        "code_name": "ألمانيا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/n8vmeJ2unUEZgDmDywEke.png"
-      },
-      "team_b": {
-        "name": "إذربيجان",
-        "code_name": "AZE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Bq57_DZ7PGeJ7q-_36LzS.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:34:43",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "Lithuania U17",
-        "code_name": "LTU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HFH27BL4QhFPHvz8nv1DF.png"
-      },
-      "team_b": {
-        "name": "إيرلندا الشمالية",
-        "code_name": "NIR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/W45w4ENdEwvo0N8KQLOk4.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:37:12",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "فنلندا",
-        "code_name": "FIN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lgpA8Uyr43I_n9_e-MB7k.png"
-      },
-      "team_b": {
-        "name": "اسكتلندا تحت 17",
-        "code_name": "SCO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2T51iQnzylUDYhbZfMauW.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:37:11",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "Sweden U17",
-        "code_name": "SWE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QKLQCXqelpTLPlvcrlg7v.png"
-      },
-      "team_b": {
-        "name": "ألبانيا",
-        "code_name": "ALB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kvkCcC41lti2zjz4jE4fZ.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:39:01",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "هولندا تحت 17",
-        "code_name": "NLD",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ytCcBa9H2qzhyP1hA0V5K.png"
-      },
-      "team_b": {
-        "name": "النرويج",
-        "code_name": "NOR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/OSEH8ORFzT9Vo_D09vzX3.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:39:01",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "Slovakia U17",
-        "code_name": "SVK",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/p9gHuUWd1zqDCjt-GFvmg.png"
-      },
-      "team_b": {
-        "name": "مالطة",
-        "code_name": "MLT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vR0Zy192CyLwMYWxOalhO.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:40:02",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "Bulgaria U17",
-        "code_name": "BGR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pQHjJGIn9LwvfJy-aG9VE.png"
-      },
-      "team_b": {
-        "name": "صربيا تحت 17",
-        "code_name": "SER",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bOUpJ7t7p5xTNTG1XdJNg.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:40:02",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "البرتغال الناشئين",
-        "code_name": "البرتغال",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JtynPZ01Rtt-6jWaw5vpg.png"
-      },
-      "team_b": {
-        "name": "أندورا",
-        "code_name": "AND",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HMTe3wgpZx91g9t-kNkB1.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:42:25",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "الجبل الأسود",
-        "code_name": "MNE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_mboc9lbvLLZQ1m6wQJvN.png"
-      },
-      "team_b": {
-        "name": "إنجلترا الناشئين",
-        "code_name": "إنجلترا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9jZ6jJbQoyPE9OsyKJnnP.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 12:42:26",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 17 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "أوكرانيا",
-        "code_name": "UKR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/z_5nEgWmWLcw4y25d10Yd.png"
-      },
-      "team_b": {
-        "name": "بولندا",
-        "code_name": "POL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fLZbjYUzdjwXH8FfrwSSw.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 13:00:00",
-      "last_updated_at": "2026-10-19 18:29:16",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "إيطاليا تحت 19",
-        "code_name": "إيطاليا تحت 19",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IEHSIAtAVVveil_ZHzcKd.png"
-      },
-      "team_b": {
-        "name": "رومانيا",
-        "code_name": "ROU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5NnXaL3GcUIbL2VO8BNlX.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 13:00:00",
-      "last_updated_at": "2026-10-20 17:09:03",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "أوكرانيا تحت 19",
-        "code_name": "أوكرانيا تحت 19",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gw02r_HbOSexy6sJldJpy.png"
-      },
-      "team_b": {
-        "name": "الكيان العبري تحت 19 عامًا",
-        "code_name": "الكيان العبري تحت 19 عامًا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8mvpJihFc8CrKbDqsCbBH.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-30 20:32:33",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "فرنسا تحت 19",
-        "code_name": "FRA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QZI7C02PuzpQomxiAYcd5.png"
-      },
-      "team_b": {
-        "name": "النرويج تحت 19",
-        "code_name": "NOR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wOHheyBysODndwzCTShZT.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-30 20:32:33",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "إيرلندا",
-        "code_name": "IRL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-ljbmHib2cEX4MOOXh2DP.png"
-      },
-      "team_b": {
-        "name": "اليونان تحت 19",
-        "code_name": "GRE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9EopC87-16Bo0qQ_G0aJ8.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:42:29",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "بلجيكا تحت 19",
-        "code_name": "BEL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xTSvZ1PTf6D1ZIuINjXt9.png"
-      },
-      "team_b": {
-        "name": "كوسوفو U19",
-        "code_name": "سوف",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TO1t35d_rMFCzHqO7Kudy.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:42:29",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "كازاخستان",
-        "code_name": "KAZ",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gxJKBtkjWwfNh8suiUq6m.png"
-      },
-      "team_b": {
-        "name": "اسكتلندا تحت 19",
-        "code_name": "SCO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c6t-t_s09BfYxRbtablCY.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-10-05 11:17:02",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "ألمانيا تحت 19",
-        "code_name": "ألمانيا تحت 19",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/R6h9Vikli3-gmVkK_3rKH.png"
-      },
-      "team_b": {
-        "name": "Sweden U19",
-        "code_name": "SWE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/o88A4Ev22bcIULdR31XiL.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-10-05 11:17:02",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "ليتوانيا تحت 19",
-        "code_name": "LTU",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8FqR84X_3nU_AqkT7I_tF.png"
-      },
-      "team_b": {
-        "name": "البرتغال تحت 19",
-        "code_name": "POR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Z5qXbPeJgJZus4-OyEjYd.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:43:16",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "النمسا تحت 19",
-        "code_name": "AUT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wl9rD_p0rU8GhdB6sdbiB.png"
-      },
-      "team_b": {
-        "name": "روسيا البيضاء",
-        "code_name": "BLR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hvfjuoBWSi8K4mjxDzl0J.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:43:16",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "سلوفينيا",
-        "code_name": "SVN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/K8q-k7yyPkwHFqVhgK3KM.png"
-      },
-      "team_b": {
-        "name": "إنجلترا تحت 19",
-        "code_name": "ENG",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/89ajE6OvufhPd3-ULR9lf.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:44:53",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "إسبانيا تحت 19",
-        "code_name": "إسبانيا تحت 19",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8Anb0XpRjZZ1IalmWBIJH.png"
-      },
-      "team_b": {
-        "name": "أيسلندا",
-        "code_name": "ICE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9ChnCEi67U0Zk-6-S9p3b.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:44:54",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "ويلز تحت 19",
-        "code_name": "ويلز تحت 19",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HGtuHdKRUygHJ18CLd_Ip.png"
-      },
-      "team_b": {
-        "name": "فنلندا",
-        "code_name": "FIN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YmvlfmO4oDp5XX3pEak39.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:45:49",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "كرواتيا تحت 19",
-        "code_name": "كرواتيا تحت 19",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/m6HLMRNkLhAFbS7hznjh8.png"
-      },
-      "team_b": {
-        "name": "هنغاريا تحت 19",
-        "code_name": "HUN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Iwd7_Re7boT71oHPwMsk0.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:45:49",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "جمهورية التشيك تحت 19",
-        "code_name": "CZE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wc0Khebj8ozS1GyJVNWO7.png"
-      },
-      "team_b": {
-        "name": "هولندا",
-        "code_name": "NLD",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iGMGDWbf9oq4nQxpSOjrb.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:47:02",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "إذربيجان",
-        "code_name": "AZE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Xqw_Byg3z4ka1XAM6ubnt.png"
-      },
-      "team_b": {
-        "name": "الجبل الأسود",
-        "code_name": "MNE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1Jy7uDAv5Y1BiYmWfBNpL.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:47:01",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "صربيا تحت 19",
-        "code_name": "صربيا تحت 19",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/txca2ua9MMBdymfCJwesH.png"
-      },
-      "team_b": {
-        "name": "جزر فاروه",
-        "code_name": "FRO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DNTyAYfHlf6J9niO4PtKr.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:47:45",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "البوسنة والهرسك",
-        "code_name": "BIH",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BDHAf0-rietJ16_wjgc18.png"
-      },
-      "team_b": {
-        "name": "سان مارينو",
-        "code_name": "SMR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gf1pgmapDD5olsrKgGRyO.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:47:45",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "جورجيا",
-        "code_name": "GEO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d2JsTPTNyFrGvGyRwZW5b.png"
-      },
-      "team_b": {
-        "name": "الدنمارك تحت 19",
-        "code_name": "الدنمارك تحت 19",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_yJ9luXA1xe2jHk-1_JAo.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:48:30",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "إستونيا",
-        "code_name": "EST",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1StPO-RMmgAQjkNS0MvD8.png"
-      },
-      "team_b": {
-        "name": "Liechtenstein U19",
-        "code_name": "LIE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_pOh9f3VKfM6IJnmo4PyR.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:48:30",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "تركيا تحت 19",
-        "code_name": "TUR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RqfHTZU6zXiyhlBk6uz-P.png"
-      },
-      "team_b": {
-        "name": "Slovakia U19",
-        "code_name": "SVK",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bQ_SnfXDGhHjGBs8X3bot.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:49:24",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "بلغاريا تحت 19",
-        "code_name": "BGR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9j3gpSTXe0vNYA7Qdydvs.png"
-      },
-      "team_b": {
-        "name": "Gibraltar U19",
-        "code_name": "GIB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FKiH-cYkzJE8merFJON9G.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:49:24",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "لاتفيا",
-        "code_name": "LVA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SzO_XOrnZq3iGPVf28Yx9.png"
-      },
-      "team_b": {
-        "name": "مولدوفا",
-        "code_name": "MDA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gwL8Gjk4yRz-4a4e_yMTg.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-10-03 14:25:55",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "مقدونيا الشمالية",
-        "code_name": "NMD",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EPvC-SqXlVCk79uANn2G_.png"
-      },
-      "team_b": {
-        "name": "إيرلندا الشمالية تحت 19",
-        "code_name": "NIR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dDil7BfKGtO8c2q8U9524.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-10-03 14:25:55",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "سويسرا تحت 19",
-        "code_name": "SUI",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/I8viG3gZwbGdZ0dsQBi8K.png"
-      },
-      "team_b": {
-        "name": "مالطة",
-        "code_name": "MLT",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3rxaVrdsLbYjMjwwYxi_r.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:49:59",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "ألبانيا",
-        "code_name": "ALB",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DZtsCh93PNcv4Ro2qSk15.png"
-      },
-      "team_b": {
-        "name": "قبرص",
-        "code_name": "CYP",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6eVCNvozhyrURkMZZ4fsk.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-11 15:00:00",
-      "last_updated_at": "2026-09-26 13:50:43",
-      "competition": "التصفيات المؤهلة لأمم أوروبا تحت 19 عاماً",
-      "round": null,
-      "team_a": {
-        "name": "أندورا",
-        "code_name": "AND",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5Yskyemm8-cOjixOZ1cWt.png"
-      },
-      "team_b": {
-        "name": "بولندا تحت 19",
-        "code_name": "POL",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FOfK9cy7yT3lFzWRaMgiY.png"
       },
       "score": {
         "team_a": null,
@@ -1593,7 +479,12 @@
         "team_b": null
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "DAZN New Zealand",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/FDmK2oHuZ7HnfPQa-SIEv.png"
+        }
+      ],
       "venue": null
     },
     {
