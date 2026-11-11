@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-11-11 02:34:00",
+  "fetched_at_egypt": "2026-11-11 09:05:06",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -14,7 +14,6 @@
       "دوري الأمم الأوروبية - المسار الثاني",
       "دوري الأمم الأوروبية - المسار الرابع",
       "كأس فرنسا",
-      "كأس مصر",
       "كأس ملك إسبانيا"
     ],
     "hidden_club_competitions": [
@@ -26,18 +25,18 @@
       "الدوري الألماني لكرة القدم للسيدات",
       "الدوري الإسباني الدرجة الثالثة",
       "الدوري الإسباني الدرجة الثانية",
-      "الدوري الإنجليزي الدرجة الخامسة",
+      "الدوري الإسباني الدرجة الرابعة",
       "الدوري الإنجليزي الدرجة السادسة",
       "الدوري الإيطالي الدرجة الثالثة",
+      "الدوري البرازيلي الدرجة الثانية",
       "الدوري البولندي الممتاز الدرجة الثانية",
       "الدوري الجامايكي الممتاز",
-      "الدوري الدنماركي للسيدات",
-      "الدوري الروماني الدرجة الأولى",
       "الدوري السلفادوري",
       "الدوري السلوفيني الدرجة الثانية",
       "الدوري الفنزويلي الدرجة الثانية",
       "الدوري الكولومبي",
       "الدوري الكولومبي الدرجة الثانية",
+      "الدوري اللاتفي الممتاز",
       "الدوري المصري الدرجة الثانية",
       "الدوري المكسيكي الدرجة الثالثة",
       "الدوري المكسيكي الدرجة الثانية",
@@ -47,6 +46,7 @@
       "الدوري الهندي للمحترفين",
       "الدوري الهولندي الدرجة الثالثة",
       "الرابطة الجزائرية المحترفة الأولى",
+      "بطولة اتحاد جنوب آسيا لكرة القدم",
       "دوري أبطال أوروبا للسيدات",
       "دوري أوروجواي الدرجة الثانية",
       "دوري أوروجواي الممتاز",
@@ -60,208 +60,67 @@
       "دوري بيرو الممتاز",
       "دوري جواتيمالا",
       "دوري مونتينيجرو",
+      "كأس الاتحاد الانجليزي للسيدات",
+      "كأس الدوري الياباني",
       "كأس السوبر الأرجنتيني",
       "كأس المستقبل",
+      "كأس جمهورية التشيك",
       "كأس دوري كرة القدم الإنجليزية",
-      "كأس كولومبيا",
+      "كأس سلوفاكيا",
       "وديات الأندية",
       "وديات تحت 21 عاماً"
     ]
   },
   "daily_matches_count": {
-    "2026-11-10": 8,
+    "2026-11-11": 2,
     "2026-11-12": 32,
     "2026-11-13": 49
   },
-  "matches_count": 89,
+  "matches_count": 83,
   "matches": [
     {
-      "status": "RESULT",
-      "start_date_egypt": "2026-11-10 20:00:00",
-      "last_updated_at": "2026-11-10 21:50:47",
-      "competition": "كأس ملك إسبانيا",
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-11 14:00:00",
+      "last_updated_at": "2026-10-31 15:58:39",
+      "competition": "المباريات الودية",
       "round": null,
       "team_a": {
-        "name": "انايتاسونا",
-        "code_name": "ANF",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MZewMmyFAAqe1T-OyL6K_.png"
+        "name": "فيتنام",
+        "code_name": "فيتنام",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zHJxAjcpdI8GMqcrMMsP-.png"
       },
       "team_b": {
-        "name": "ديبورتيفو ألافيس",
-        "code_name": "ألافيس",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dqC3XtzsGeXe3c53Qqrn-.png"
+        "name": "تايبيه الصينية",
+        "code_name": "تايبيه الصينية",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8FeXLN4-fC8p2TX6nYANs.png"
       },
       "score": {
-        "team_a": 1,
-        "team_b": 6
+        "team_a": null,
+        "team_b": null
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "RESULT",
-      "start_date_egypt": "2026-11-10 20:00:00",
-      "last_updated_at": "2026-11-10 21:50:09",
-      "competition": "كأس ملك إسبانيا",
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-11 18:00:00",
+      "last_updated_at": "2026-11-09 10:28:30",
+      "competition": "الدوري الفرنسي",
       "round": null,
       "team_a": {
-        "name": "بامبلونا",
-        "code_name": "PAM",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jy3lpMcKmk1FVonzxh4Z6.png"
+        "name": "فلوري 91",
+        "code_name": "FLE",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zLflkgnRtnlb6FYTtP_JH.png"
       },
       "team_b": {
-        "name": "آيبار",
-        "code_name": "إيبار",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pafNvSN2D_ZG74DFqZKK5.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 3
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "POSTPONED",
-      "start_date_egypt": "2026-11-10 21:00:00",
-      "last_updated_at": "2026-11-06 20:19:39",
-      "competition": "كأس ملك إسبانيا",
-      "round": null,
-      "team_a": {
-        "name": "سي دي باداخوز",
-        "code_name": "BAD",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PDJg5rpvj7SfacuyzLn2w.png"
-      },
-      "team_b": {
-        "name": "تينيريفي",
-        "code_name": "TEN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4FpPu5m_daZlcAI43k7xA.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 0
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-11-10 21:00:00",
-      "last_updated_at": "2026-11-10 22:52:58",
-      "competition": "كأس ملك إسبانيا",
-      "round": null,
-      "team_a": {
-        "name": "Mijas-Las Lagunas",
-        "code_name": "MIL",
+        "name": "Toulouse",
+        "code_name": "TOU",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
       },
-      "team_b": {
-        "name": "جاين",
-        "code_name": "JAE",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sJXrNupIs5ECWKhKvGB16.png"
-      },
       "score": {
-        "team_a": 1,
-        "team_b": 2
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-11-10 21:00:00",
-      "last_updated_at": "2026-11-10 22:49:53",
-      "competition": "كأس ملك إسبانيا",
-      "round": null,
-      "team_a": {
-        "name": "اموريبيتا",
-        "code_name": "SDA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/maT-Cy0pK7PetbYYsuFPN.png"
-      },
-      "team_b": {
-        "name": "لوجرونيس",
-        "code_name": "LOG",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KPlcWIswqx3JaKIqu-0ux.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 0
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-11-10 21:00:00",
-      "last_updated_at": "2026-11-10 22:50:55",
-      "competition": "كأس ملك إسبانيا",
-      "round": null,
-      "team_a": {
-        "name": "تريفال فالديراس",
-        "code_name": "TRV",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IHX8n6ONTCwxLbYZzViHc.png"
-      },
-      "team_b": {
-        "name": "ليجانيس",
-        "code_name": "ليجانيس",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/M08qKmv8nkpWySvrmWozr.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 1
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-11-10 22:00:00",
-      "last_updated_at": "2026-11-10 23:46:42",
-      "competition": "كأس ملك إسبانيا",
-      "round": null,
-      "team_a": {
-        "name": "Tavernes de la Valldigna",
-        "code_name": "TDV",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/default.png"
-      },
-      "team_b": {
-        "name": "فالنسيا",
-        "code_name": "فالنسيا",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GBjhrfqF1SgdL1HLfI-7z.png"
-      },
-      "score": {
-        "team_a": 0,
-        "team_b": 6
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "RESULT",
-      "start_date_egypt": "2026-11-10 17:00:00",
-      "last_updated_at": "2026-11-10 18:57:11",
-      "competition": "كأس مصر",
-      "round": null,
-      "team_a": {
-        "name": "المقاولون العرب",
-        "code_name": "المقاولون",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/y4bxDVoxKuvYwFTagcegm.png"
-      },
-      "team_b": {
-        "name": "الاتصالات",
-        "code_name": "وي",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ICgs0303YLmlTii9rsHz2.png"
-      },
-      "score": {
-        "team_a": 1,
-        "team_b": 0
+        "team_a": null,
+        "team_b": null
       },
       "tv_audio": [],
       "tv_channels": [],
