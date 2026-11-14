@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-11-14 04:09:59",
+  "fetched_at_egypt": "2026-11-14 11:21:18",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -25,6 +25,7 @@
       "الدوري الألماني لكرة القدم للسيدات",
       "الدوري الأمريكي للسيدات",
       "الدوري الأوزباكستاني",
+      "الدوري الأوكراني الممتاز",
       "الدوري الإسباني الدرجة الثالثة",
       "الدوري الإسباني الدرجة الثانية",
       "الدوري الإسباني الدرجة الرابعة",
@@ -100,6 +101,7 @@
       "دوري بيرو الدرجة الثانية",
       "دوري بيرو الممتاز",
       "دوري تشيلي الدرجة الثانية",
+      "دوري جمهورية التشيك الدرجة الثانية",
       "دوري جواتيمالا",
       "دوري كوستاريكا الدرجة الثانية",
       "كأس الأرجنتين",
@@ -114,10 +116,10 @@
   },
   "daily_matches_count": {
     "2026-11-14": 29,
-    "2026-11-15": 45,
+    "2026-11-15": 44,
     "2026-11-16": 27
   },
-  "matches_count": 101,
+  "matches_count": 100,
   "matches": [
     {
       "status": "FIXTURE",
@@ -220,9 +222,33 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
+      "start_date_egypt": "2026-11-14 07:30:00",
+      "last_updated_at": "2026-11-14 09:46:40",
+      "competition": "المباريات الودية",
+      "round": null,
+      "team_a": {
+        "name": "تاهيتي",
+        "code_name": "تاهيتي",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N15jw3B7623TjdBj4JNTa.png"
+      },
+      "team_b": {
+        "name": "جزر كوك",
+        "code_name": "جزر كوك",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bo25cDgYRyLiAy8LFCO81.png"
+      },
+      "score": {
+        "team_a": 4,
+        "team_b": 0
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
+    },
+    {
+      "status": "RESULT",
       "start_date_egypt": "2026-11-14 08:00:00",
-      "last_updated_at": "2026-10-31 15:58:40",
+      "last_updated_at": "2026-11-14 09:53:10",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -236,17 +262,17 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QoFiPVjPByiZLi76Gsz1a.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 3,
+        "team_b": 1
       },
       "tv_audio": [],
       "tv_channels": [],
       "venue": null
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-11-14 11:00:00",
-      "last_updated_at": "2026-11-12 12:10:55",
+      "last_updated_at": "2026-11-14 11:03:32",
       "competition": "المباريات الودية",
       "round": null,
       "team_a": {
@@ -260,11 +286,16 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/8ouwW0VRem8AEbAFwSH7l.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [],
-      "tv_channels": [],
+      "tv_channels": [
+        {
+          "name": "Oman Sports TV",
+          "logo": "https://cdn.sportfeeds.io/tv-schedule/channel/images/rLkFZ3FhoPYSkzp5ZZFH6.png"
+        }
+      ],
       "venue": null
     },
     {
@@ -1262,30 +1293,6 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-11-14 14:00:00",
-      "last_updated_at": "2026-11-12 14:46:53",
-      "competition": "تصفيات الصعود والهبوط في الدوري الليتواني",
-      "round": null,
-      "team_a": {
-        "name": "FK Minija",
-        "code_name": "MIN",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TxZRmYUamL8-53mVxWC4V.png"
-      },
-      "team_b": {
-        "name": "اكاديمية شياولياي",
-        "code_name": "SIA",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e7ISFVLbucA5uw9ihPDGO.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
       "start_date_egypt": "2026-11-16 01:00:00",
       "last_updated_at": "2026-10-10 12:43:13",
       "competition": "دوري أمم الكونكاكاف",
@@ -1669,30 +1676,6 @@
         "name": "فورياني أغلياني",
         "code_name": "FUA",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Uy8HlUC0lZhA3Jjpwf_Rm.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-15 15:00:00",
-      "last_updated_at": "2026-11-05 19:21:06",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "جازينيت سيستاس",
-        "code_name": "CES",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bQLA4mS8T2nU0WezxeMLl.png"
-      },
-      "team_b": {
-        "name": "بايون",
-        "code_name": "BAY",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ARsn51meK0m_bHDfo2rpZ.png"
       },
       "score": {
         "team_a": null,
@@ -2125,30 +2108,6 @@
         "name": "نيميس",
         "code_name": "NOL",
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zconc-Urb_m4TxE8luN4a.png"
-      },
-      "score": {
-        "team_a": null,
-        "team_b": null
-      },
-      "tv_audio": [],
-      "tv_channels": [],
-      "venue": null
-    },
-    {
-      "status": "FIXTURE",
-      "start_date_egypt": "2026-11-15 15:00:00",
-      "last_updated_at": "2026-11-05 19:20:26",
-      "competition": "كأس فرنسا",
-      "round": null,
-      "team_a": {
-        "name": "ساينت أومر",
-        "code_name": "STO",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/0zL7nuNjKNLInQ-34-Jco.png"
-      },
-      "team_b": {
-        "name": "ايه اف فيرويا",
-        "code_name": "VIR",
-        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oaRInXrf0Q_Yc2C3arvIn.png"
       },
       "score": {
         "team_a": null,
@@ -2717,6 +2676,30 @@
       "venue": {
         "name": "سونيرا ستاديوم"
       }
+    },
+    {
+      "status": "FIXTURE",
+      "start_date_egypt": "2026-11-15 14:00:00",
+      "last_updated_at": "2026-11-14 08:56:54",
+      "competition": "تصفيات الصعود والهبوط في الدوري الليتواني",
+      "round": null,
+      "team_a": {
+        "name": "FK Minija",
+        "code_name": "MIN",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TxZRmYUamL8-53mVxWC4V.png"
+      },
+      "team_b": {
+        "name": "اكاديمية شياولياي",
+        "code_name": "SIA",
+        "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e7ISFVLbucA5uw9ihPDGO.png"
+      },
+      "score": {
+        "team_a": null,
+        "team_b": null
+      },
+      "tv_audio": [],
+      "tv_channels": [],
+      "venue": null
     },
     {
       "status": "FIXTURE",
