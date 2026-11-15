@@ -1,5 +1,5 @@
 {
-  "fetched_at_egypt": "2026-11-15 09:41:26",
+  "fetched_at_egypt": "2026-11-15 17:30:40",
   "filter": {
     "description": "تُعرض جميع بطولات المنتخبات وأي بطولات أخرى، أما مباريات الأندية فتظهر فقط من البطولات المحددة في ALLOWED_CLUB_COMPETITIONS",
     "shown_competitions": [
@@ -42,6 +42,7 @@
       "الدوري السويدي للسيدات",
       "الدوري الغاني الممتاز",
       "الدوري الفرنسي الدرجة الرابعة",
+      "الدوري الفنزويلي الدرجة الثانية",
       "الدوري الكاميروني الممتاز",
       "الدوري الكولومبي الدرجة الثانية",
       "الدوري المكسيكي الدرجة الثالثة",
@@ -412,9 +413,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-11-15 16:00:00",
-      "last_updated_at": "2026-08-04 11:52:21",
+      "last_updated_at": "2026-11-15 17:25:29",
       "competition": "دوري الأمم الأوروبية - المسار الثالث",
       "round": null,
       "team_a": {
@@ -428,8 +429,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qitaAZnZlllAvNsl53d-r.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 1,
+        "team_b": 3
       },
       "tv_audio": [
         {
@@ -480,9 +481,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "LIVE",
       "start_date_egypt": "2026-11-15 16:00:00",
-      "last_updated_at": "2026-08-04 11:52:39",
+      "last_updated_at": "2026-11-15 17:03:53",
       "competition": "دوري الأمم الأوروبية - المسار الثالث",
       "round": null,
       "team_a": {
@@ -496,8 +497,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5ksXjXebHfeHxVt_4uijp.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 0
       },
       "tv_audio": [
         {
@@ -684,9 +685,9 @@
       }
     },
     {
-      "status": "FIXTURE",
+      "status": "RESULT",
       "start_date_egypt": "2026-11-15 14:00:00",
-      "last_updated_at": "2026-11-14 08:56:54",
+      "last_updated_at": "2026-11-15 15:54:56",
       "competition": "تصفيات الصعود والهبوط في الدوري الليتواني",
       "round": null,
       "team_a": {
@@ -700,8 +701,8 @@
         "logo": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/e7ISFVLbucA5uw9ihPDGO.png"
       },
       "score": {
-        "team_a": null,
-        "team_b": null
+        "team_a": 0,
+        "team_b": 2
       },
       "tv_audio": [],
       "tv_channels": [],
@@ -757,8 +758,8 @@
     },
     {
       "status": "FIXTURE",
-      "start_date_egypt": "2026-11-16 22:00:00",
-      "last_updated_at": "2026-10-30 13:58:39",
+      "start_date_egypt": "2026-11-16 21:00:00",
+      "last_updated_at": "2026-11-15 11:43:45",
       "competition": "دوري أمم الكونكاكاف",
       "round": null,
       "team_a": {
@@ -930,7 +931,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-16 21:45:00",
-      "last_updated_at": "2026-05-08 11:55:50",
+      "last_updated_at": "2026-11-15 15:58:23",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -998,7 +999,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-16 21:45:00",
-      "last_updated_at": "2026-08-30 11:48:04",
+      "last_updated_at": "2026-11-15 16:01:18",
       "competition": "دوري الأمم الأوروبية - المسار الأول",
       "round": null,
       "team_a": {
@@ -1379,7 +1380,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-16 21:45:00",
-      "last_updated_at": "2026-08-04 12:02:43",
+      "last_updated_at": "2026-11-15 16:02:21",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
@@ -1447,7 +1448,7 @@
     {
       "status": "FIXTURE",
       "start_date_egypt": "2026-11-16 21:45:00",
-      "last_updated_at": "2026-08-04 12:03:24",
+      "last_updated_at": "2026-11-15 16:04:16",
       "competition": "دوري الأمم الأوروبية - المسار الثاني",
       "round": null,
       "team_a": {
